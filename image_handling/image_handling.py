@@ -41,16 +41,12 @@ def process_images(csv_path, output_folder, page_size=(800, 800), image_size=(12
     
     # Iterar sobre las filas del DataFrame
     for index, row in df.iterrows():
-        url = row['Link Imagen']  # Ajusta esto al nombre de tu columna de URLs
+        url = row['Link']
         img = download_image(url)
         
         if img:
             # Redimensionar la imagen
             img = img.resize(image_size)
-            
-            # Agregar el tamaño como texto a la imagen
-            text = f"{img.size[0]}x{img.size[1]}"
-            add_text_to_image(img, text, (5, 5), font_size=20)
             
             # Verificar si la imagen cabe en la página actual
             if x_offset + image_size[0] + spacing > page_size[0]:
@@ -70,7 +66,7 @@ def process_images(csv_path, output_folder, page_size=(800, 800), image_size=(12
             x_offset += image_size[0] + spacing
             
             # Agregar datos procesados a la lista
-            processed_data.append({'image_path': os.path.join(output_folder, f'image_{index}.jpg'), 'label': row['label']})  # Ajusta esto a tus columnas de etiquetas
+            processed_data.append({'image_path': os.path.join(output_folder, f'image_{index}.jpg')})  # Ajusta esto a tus columnas de etiquetas (agregar luego): , 'label': row['label']
     
     # Guardar la última página si no está vacía
     if y_offset > spacing or x_offset > spacing:
@@ -83,8 +79,8 @@ def process_images(csv_path, output_folder, page_size=(800, 800), image_size=(12
     processed_df.to_csv(os.path.join(output_folder, 'processed_dataset.csv'), index=False)
 
 # Rutas y configuración
-csv_path = 'datasets/CombinedFotosIndigenas.csv'  # Ruta a tu CSV de entrada
-output_folder = 'image_handling/processed_images'  # Carpeta donde se guardarán las imágenes procesadas
+csv_path = 'datasets/CombinedFotosIndigenas.csv'
+output_folder = 'image_handling/processed_images'
 
 # Procesar las imágenes
 process_images(csv_path, output_folder)
