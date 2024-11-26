@@ -16,6 +16,7 @@ combined_data = pd.concat(data_frame, ignore_index=True)
 
 # Asignar valores incrementales a la primera columna
 combined_data.iloc[:, 0] = range(1, len(combined_data) + 1)
+combined_data = combined_data.rename(columns={'Unnamed: 0': 'id'})
 
 # Saved combined dataset
 combined_data.to_csv('datasets/CombinedFotosIndigenas.csv', index=False)
