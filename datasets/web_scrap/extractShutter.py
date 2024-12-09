@@ -2,11 +2,13 @@ import undetected_chromedriver as uc
 import pandas as pd
 import time
 import sys
+import random
 
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:
@@ -15,7 +17,19 @@ if __name__ == '__main__':
 
     argument = sys.argv[1]
 
-    driver = uc.Chrome()
+    options = Options()
+    options.add_argument("--disable-blink-features=AutomationControlled")
+    options.add_argument("start-maximized")
+    options.add_argument("disable-infobars")
+    options.add_argument("--disable-extensions")
+    options.add_argument("--disable-gpu")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument(f"user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
+
+    driver = uc.Chrome(options=options)
+    driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
+
     # Hay que acceder 2 veces a la pagina o si no muestra las imágenes de la primera página sin importar el número
     driver.get(f'https://www.shutterstock.com/es/search/indigenas-amazonia?image_type=photo&page={argument}')
     driver.get(f'https://www.shutterstock.com/es/search/indigenas-amazonia?image_type=photo&page={argument}')
@@ -32,7 +46,7 @@ if __name__ == '__main__':
 
     while True:
         driver.execute_script('window.scrollTo(0, window.scrollY + 200)')
-        time.sleep(0.20)
+        time.sleep(random.uniform(0.1, 0.5))  # Espera aleatoria entre 0.1 y 0.5 segundos para que el bot tenga un comportamiento más humano
         current_height = driver.execute_script('return window.scrollY')
         total_height = driver.execute_script('return document.body.scrollHeight')
         if current_height >= total_height - inner_height - 200:
@@ -57,10 +71,10 @@ if __name__ == '__main__':
 
     driver.quit()
 
-    print(photo_list)
-
     # Se pasa el arreglo de links y descripciones de las fotos a un archivo .csv
 
     df_fotos = pd.DataFrame(photo_list, columns=['Descripción', 'Link'])
 
     df_fotos.to_csv(f'FotosIndigenas{argument}.csv')
+
+    print(f'se genero el archivo FotosIndigenas{argument}.csv')
