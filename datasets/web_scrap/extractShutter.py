@@ -8,6 +8,7 @@ from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
 
 if __name__ == '__main__':
@@ -18,40 +19,36 @@ if __name__ == '__main__':
     argument = sys.argv[1]
 
     options = Options()
-    options.add_argument("--disable-blink-features=AutomationControlled")
-    options.add_argument("start-maximized")
-    options.add_argument("disable-infobars")
-    options.add_argument("--disable-extensions")
-    options.add_argument("--disable-gpu")
-    options.add_argument("--no-sandbox")
-    options.add_argument("--disable-dev-shm-usage")
-    options.add_argument(f"user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
-
     driver = uc.Chrome(options=options)
     driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
 
     # Hay que acceder 2 veces a la pagina o si no muestra las imágenes de la primera página sin importar el número
     driver.get(f'https://www.shutterstock.com/es/search/indigenas-amazonia?image_type=photo&page={argument}')
-    driver.get(f'https://www.shutterstock.com/es/search/indigenas-amazonia?image_type=photo&page={argument}')
 
+    driver.refresh()
 
-    limit = int(driver.find_element(By.XPATH, '/html/body/div[1]/div[3]/div/div/div[1]/div/div[7]/div[2]/div[2]/div[2]/div/span').text.split()[-1])
-    
     WebDriverWait(driver, 5)\
         .until(expected_conditions.element_to_be_clickable((By.XPATH, '/html/body/div[1]/div[3]/div/div/div[1]/div/div[7]/div[1]/div[2]')))
 
         
     # Esta parte sirve para ir bajando la página, lo que hace que carguen las imágenes
     inner_height = driver.execute_script('return window.innerHeight')
+    input = driver.find_element(By.XPATH, '/html/body/div[1]/div[3]/div/div/div[1]/div/div[7]/div[2]/div[2]/div[2]/div/form/div/div/input')
+    input_locationY = input.location['y']
 
     while True:
         driver.execute_script('window.scrollTo(0, window.scrollY + 200)')
         time.sleep(random.uniform(0.1, 0.5))  # Espera aleatoria entre 0.1 y 0.5 segundos para que el bot tenga un comportamiento más humano
         current_height = driver.execute_script('return window.scrollY')
-        total_height = driver.execute_script('return document.body.scrollHeight')
-        if current_height >= total_height - inner_height - 200:
+        input_locationY = input.location['y']
+        if current_height >= input_locationY:
             break
         
+    # cambia la pagina en la que se encuentra con el input
+    input.send_keys(Keys.RETURN)
+
+    driver.refresh()
+    
 
     fotos = driver.find_elements(By.CSS_SELECTOR, "div[data-automation='AssetGrids_GridItemContainer_div']")
 
@@ -68,6 +65,8 @@ if __name__ == '__main__':
         keywords = ['hombre', 'mujer', 'niño', 'niña', 'anciano', 'chamán', 'jefe', 'joven']
         if any(keyword in alt_text for keyword in keywords):
             photo_list.append([alt_text, src_link])
+
+
 
     driver.quit()
 
