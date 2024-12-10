@@ -19,6 +19,8 @@ if __name__ == '__main__':
     argument = sys.argv[1]
 
     options = Options()
+    options.add_argument("--disable-blink-features=AutomationControlled")
+    options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
     driver = uc.Chrome(options=options)
     driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
 
@@ -41,14 +43,8 @@ if __name__ == '__main__':
         time.sleep(random.uniform(0.1, 0.5))  # Espera aleatoria entre 0.1 y 0.5 segundos para que el bot tenga un comportamiento más humano
         current_height = driver.execute_script('return window.scrollY')
         input_locationY = input.location['y']
-        if current_height >= input_locationY:
+        if current_height >= input_locationY - 200:
             break
-        
-    # cambia la pagina en la que se encuentra con el input
-    input.send_keys(Keys.RETURN)
-
-    driver.refresh()
-    
 
     fotos = driver.find_elements(By.CSS_SELECTOR, "div[data-automation='AssetGrids_GridItemContainer_div']")
 
