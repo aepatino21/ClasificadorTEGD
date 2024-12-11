@@ -1,0 +1,4 @@
+setuptools
+pandas
+undetected_chromedriver
+selenium

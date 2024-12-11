@@ -22,6 +22,6 @@ file_path = 'mnist_data.idx3-ubyte'
 images = read_rgb_idx3_ubyte(file_path)
 
 # Mostrar la primera imagen como ejemplo
-plt.imshow(images[0])
+plt.imshow(images[2])
 plt.title("Primera Imagen del Dataset (128x128 RGB)")
 plt.show()

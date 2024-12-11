@@ -58,9 +58,7 @@ if __name__ == '__main__':
             img = foto.find_element(By.XPATH, './div[2]/div/picture/img')
         alt_text = img.get_attribute('title').lower()
         src_link = img.get_attribute('src')
-        keywords = ['hombre', 'mujer', 'niño', 'niña', 'anciano', 'chamán', 'jefe', 'joven']
-        if any(keyword in alt_text for keyword in keywords):
-            photo_list.append([alt_text, src_link])
+        photo_list.append([alt_text, src_link])
 
 
 
