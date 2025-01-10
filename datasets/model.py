@@ -1,14 +1,12 @@
 import tensorflow as tf
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
-from tensorflow.keras.applications import ResNet50
+from tensorflow.keras.applications import MobileNet
 from tensorflow.keras.layers import Dense, GlobalAveragePooling2D
 from tensorflow.keras.models import Model
 import pandas as pd
-import numpy as np
-import os
 
 # Paso 3: Cargar y preprocesar las imágenes
-datagen = ImageDataGenerator(rescale=0.224/255.)
+datagen = ImageDataGenerator(rescale=1./255)
 
 # Paso 4: Leer y procesar los archivos .csv
 train_csv_path = 'train.csv'
@@ -45,12 +43,12 @@ val_generator = datagen.flow_from_dataframe(
     class_mode='raw'
 )
 
-# Paso 6: Construir el modelo usando ResNet50
-base_model = ResNet50(weights='imagenet', include_top=False)
+# Paso 6: Construir el modelo usando MobileNet
+base_model = MobileNet(weights='imagenet', include_top=False)
 x = base_model.output
 x = GlobalAveragePooling2D()(x)
 x = Dense(1024, activation='relu')(x)
-predictions = Dense(train_labels.shape[1], activation='sigmoid')(x)  # Sigmoid para etiquetas múltiples
+predictions = Dense(train_labels.shape[1], activation='sigmoid')(x)
 
 model = Model(inputs=base_model.input, outputs=predictions)
 
@@ -58,8 +56,18 @@ model = Model(inputs=base_model.input, outputs=predictions)
 model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
 
 # Paso 8: Entrenar el modelo
-model.fit(train_generator, validation_data=val_generator, epochs=20, steps_per_epoch=train_df.shape[0] // 32, validation_steps=val_df.shape[0] // 32)
+model.fit(train_generator, validation_data=val_generator, epochs=10, steps_per_epoch=train_df.shape[0] // 32, validation_steps=val_df.shape[0] // 32)
 
 # Paso 9: Evaluar el modelo
 loss, accuracy = model.evaluate(val_generator)
 print(f'Pérdida: {loss}, Precisión: {accuracy}')
+
+# Guardar el modelo
+model.save('first_model.h5')
+
+# Para cargar el modelo más adelante
+# from tensorflow.keras.models import load_model
+# modelo_cargado = load_model('ruta/a/tu/first_model.h5')
+# Evaluar el modelo cargado para confirmar que se ha cargado correctamente
+# loss, accuracy = modelo_cargado.evaluate(val_generator)
+# print(f'Pérdida: {loss}, Precisión: {accuracy}')
