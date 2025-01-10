@@ -56,14 +56,14 @@ model = Model(inputs=base_model.input, outputs=predictions)
 model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
 
 # Paso 8: Entrenar el modelo
-model.fit(train_generator, validation_data=val_generator, epochs=10, steps_per_epoch=train_df.shape[0] // 32, validation_steps=val_df.shape[0] // 32)
+model.fit(train_generator, validation_data=val_generator, epochs=10)
 
 # Paso 9: Evaluar el modelo
 loss, accuracy = model.evaluate(val_generator)
 print(f'Pérdida: {loss}, Precisión: {accuracy}')
 
 # Guardar el modelo
-model.save('first_model.h5')
+model.save('first_modelv2.h5')
 
 # Para cargar el modelo más adelante
 # from tensorflow.keras.models import load_model
