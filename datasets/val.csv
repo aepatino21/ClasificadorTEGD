@@ -1,0 +1,2150 @@
+id,name,url,labels
+8445,8445,./labeled_data/terrain/8445.jpg,terrain
+5591,5591,./labeled_data/human object/5591.jpg,"human,object"
+3537,3537,./labeled_data/human/3537.jpg,human
+3722,3722,./labeled_data/human/3722.jpg,human
+2142,2142,./labeled_data/human/2142.jpg,human
+10622,10622,./labeled_data/object terrain/10622.jpg,"object,terrain"
+229,229,./labeled_data/human/229.jpg,human
+8309,8309,./labeled_data/terrain/8309.jpg,terrain
+6760,6760,./labeled_data/object/6760.jpg,object
+10635,10635,./labeled_data/object terrain/10635.jpg,"object,terrain"
+4606,4606,./labeled_data/human/4606.jpg,human
+9764,9764,./labeled_data/terrain/9764.jpg,terrain
+8466,8466,./labeled_data/terrain/8466.jpg,terrain
+8837,8837,./labeled_data/terrain/8837.jpg,terrain
+6808,6808,./labeled_data/object/6808.jpg,object
+2261,2261,./labeled_data/human/2261.jpg,human
+8924,8924,./labeled_data/terrain/8924.jpg,terrain
+2396,2396,./labeled_data/human/2396.jpg,human
+12100,12100,./labeled_data/animal/12100.jpg,animal
+6311,6311,./labeled_data/object/6311.jpg,object
+3211,3211,./labeled_data/human/3211.jpg,human
+2128,2128,./labeled_data/human/2128.jpg,human
+9891,9891,./labeled_data/human terrain/9891.jpg,"human,terrain"
+2216,2216,./labeled_data/human/2216.jpg,human
+3340,3340,./labeled_data/human/3340.jpg,human
+5950,5950,./labeled_data/human object/5950.jpg,"human,object"
+12800,12800,./labeled_data/animal/12800.jpg,animal
+5381,5381,./labeled_data/human/5381.jpg,human
+13947,13947,./labeled_data/animal/13947.jpg,animal
+12540,12540,./labeled_data/animal/12540.jpg,animal
+6784,6784,./labeled_data/object/6784.jpg,object
+10357,10357,./labeled_data/animal human/10357.jpg,"animal,human"
+7600,7600,./labeled_data/object/7600.jpg,object
+7662,7662,./labeled_data/object/7662.jpg,object
+6100,6100,./labeled_data/object/6100.jpg,object
+433,433,./labeled_data/human/433.jpg,human
+10477,10477,./labeled_data/animal human/10477.jpg,"animal,human"
+9277,9277,./labeled_data/terrain/9277.jpg,terrain
+3206,3206,./labeled_data/human/3206.jpg,human
+9640,9640,./labeled_data/terrain/9640.jpg,terrain
+13267,13267,./labeled_data/animal/13267.jpg,animal
+9736,9736,./labeled_data/terrain/9736.jpg,terrain
+2257,2257,./labeled_data/human/2257.jpg,human
+4437,4437,./labeled_data/human/4437.jpg,human
+3151,3151,./labeled_data/human/3151.jpg,human
+4849,4849,./labeled_data/human/4849.jpg,human
+9532,9532,./labeled_data/terrain/9532.jpg,terrain
+9472,9472,./labeled_data/terrain/9472.jpg,terrain
+13217,13217,./labeled_data/animal/13217.jpg,animal
+7209,7209,./labeled_data/object/7209.jpg,object
+8989,8989,./labeled_data/terrain/8989.jpg,terrain
+7199,7199,./labeled_data/object/7199.jpg,object
+5959,5959,./labeled_data/human object/5959.jpg,"human,object"
+9774,9774,./labeled_data/terrain/9774.jpg,terrain
+2788,2788,./labeled_data/human/2788.jpg,human
+1443,1443,./labeled_data/human/1443.jpg,human
+853,853,./labeled_data/human/853.jpg,human
+434,434,./labeled_data/human/434.jpg,human
+11402,11402,./labeled_data/object terrain/11402.jpg,"object,terrain"
+10648,10648,./labeled_data/object terrain/10648.jpg,"object,terrain"
+10838,10838,./labeled_data/object terrain/10838.jpg,"object,terrain"
+10825,10825,./labeled_data/object terrain/10825.jpg,"object,terrain"
+10685,10685,./labeled_data/object terrain/10685.jpg,"object,terrain"
+4730,4730,./labeled_data/human/4730.jpg,human
+13818,13818,./labeled_data/animal/13818.jpg,animal
+354,354,./labeled_data/human/354.jpg,human
+6825,6825,./labeled_data/object/6825.jpg,object
+10993,10993,./labeled_data/object terrain/10993.jpg,"object,terrain"
+12875,12875,./labeled_data/animal/12875.jpg,animal
+8650,8650,./labeled_data/terrain/8650.jpg,terrain
+13707,13707,./labeled_data/animal/13707.jpg,animal
+11487,11487,./labeled_data/object terrain/11487.jpg,"object,terrain"
+978,978,./labeled_data/human/978.jpg,human
+8557,8557,./labeled_data/terrain/8557.jpg,terrain
+490,490,./labeled_data/human/490.jpg,human
+895,895,./labeled_data/human/895.jpg,human
+6714,6714,./labeled_data/object/6714.jpg,object
+12740,12740,./labeled_data/animal/12740.jpg,animal
+7285,7285,./labeled_data/object/7285.jpg,object
+4898,4898,./labeled_data/human/4898.jpg,human
+6296,6296,./labeled_data/object/6296.jpg,object
+2453,2453,./labeled_data/human/2453.jpg,human
+11479,11479,./labeled_data/object terrain/11479.jpg,"object,terrain"
+10226,10226,./labeled_data/animal object/10226.jpg,"animal,object"
+11248,11248,./labeled_data/object terrain/11248.jpg,"object,terrain"
+8515,8515,./labeled_data/terrain/8515.jpg,terrain
+9992,9992,./labeled_data/human terrain/9992.jpg,"human,terrain"
+780,780,./labeled_data/human/780.jpg,human
+13804,13804,./labeled_data/animal/13804.jpg,animal
+9906,9906,./labeled_data/human terrain/9906.jpg,"human,terrain"
+6585,6585,./labeled_data/object/6585.jpg,object
+8920,8920,./labeled_data/terrain/8920.jpg,terrain
+5619,5619,./labeled_data/human object/5619.jpg,"human,object"
+510,510,./labeled_data/human/510.jpg,human
+13343,13343,./labeled_data/animal/13343.jpg,animal
+7079,7079,./labeled_data/object/7079.jpg,object
+578,578,./labeled_data/human/578.jpg,human
+2764,2764,./labeled_data/human/2764.jpg,human
+12106,12106,./labeled_data/animal/12106.jpg,animal
+10021,10021,./labeled_data/human terrain/10021.jpg,"human,terrain"
+7279,7279,./labeled_data/object/7279.jpg,object
+13884,13884,./labeled_data/animal/13884.jpg,animal
+13219,13219,./labeled_data/animal/13219.jpg,animal
+12866,12866,./labeled_data/animal/12866.jpg,animal
+7091,7091,./labeled_data/object/7091.jpg,object
+5545,5545,./labeled_data/human object/5545.jpg,"human,object"
+10316,10316,./labeled_data/animal object/10316.jpg,"animal,object"
+9206,9206,./labeled_data/terrain/9206.jpg,terrain
+8603,8603,./labeled_data/terrain/8603.jpg,terrain
+14067,14067,./labeled_data/animal/14067.jpg,animal
+1136,1136,./labeled_data/human/1136.jpg,human
+7218,7218,./labeled_data/object/7218.jpg,object
+9503,9503,./labeled_data/terrain/9503.jpg,terrain
+2452,2452,./labeled_data/human/2452.jpg,human
+10063,10063,./labeled_data/human terrain/10063.jpg,"human,terrain"
+6446,6446,./labeled_data/object/6446.jpg,object
+3946,3946,./labeled_data/human/3946.jpg,human
+13757,13757,./labeled_data/animal/13757.jpg,animal
+4554,4554,./labeled_data/human/4554.jpg,human
+12231,12231,./labeled_data/animal/12231.jpg,animal
+2934,2934,./labeled_data/human/2934.jpg,human
+8727,8727,./labeled_data/terrain/8727.jpg,terrain
+8340,8340,./labeled_data/terrain/8340.jpg,terrain
+5721,5721,./labeled_data/human object/5721.jpg,"human,object"
+1533,1533,./labeled_data/human/1533.jpg,human
+9746,9746,./labeled_data/terrain/9746.jpg,terrain
+11542,11542,./labeled_data/object terrain/11542.jpg,"object,terrain"
+191,191,./labeled_data/human/191.jpg,human
+10644,10644,./labeled_data/object terrain/10644.jpg,"object,terrain"
+4062,4062,./labeled_data/human/4062.jpg,human
+13196,13196,./labeled_data/animal/13196.jpg,animal
+3805,3805,./labeled_data/human/3805.jpg,human
+1585,1585,./labeled_data/human/1585.jpg,human
+11460,11460,./labeled_data/object terrain/11460.jpg,"object,terrain"
+10364,10364,./labeled_data/animal human/10364.jpg,"animal,human"
+458,458,./labeled_data/human/458.jpg,human
+3572,3572,./labeled_data/human/3572.jpg,human
+14214,14214,./labeled_data/animal/14214.jpg,animal
+10275,10275,./labeled_data/animal object/10275.jpg,"animal,object"
+6630,6630,./labeled_data/object/6630.jpg,object
+2534,2534,./labeled_data/human/2534.jpg,human
+11462,11462,./labeled_data/object terrain/11462.jpg,"object,terrain"
+10834,10834,./labeled_data/object terrain/10834.jpg,"object,terrain"
+12497,12497,./labeled_data/animal/12497.jpg,animal
+2875,2875,./labeled_data/human/2875.jpg,human
+7408,7408,./labeled_data/object/7408.jpg,object
+6659,6659,./labeled_data/object/6659.jpg,object
+10271,10271,./labeled_data/animal object/10271.jpg,"animal,object"
+11856,11856,./labeled_data/object terrain/11856.jpg,"object,terrain"
+8621,8621,./labeled_data/terrain/8621.jpg,terrain
+12412,12412,./labeled_data/animal/12412.jpg,animal
+6174,6174,./labeled_data/object/6174.jpg,object
+9576,9576,./labeled_data/terrain/9576.jpg,terrain
+9347,9347,./labeled_data/terrain/9347.jpg,terrain
+6717,6717,./labeled_data/object/6717.jpg,object
+4539,4539,./labeled_data/human/4539.jpg,human
+7963,7963,./labeled_data/object/7963.jpg,object
+11783,11783,./labeled_data/object terrain/11783.jpg,"object,terrain"
+5903,5903,./labeled_data/human object/5903.jpg,"human,object"
+12531,12531,./labeled_data/animal/12531.jpg,animal
+13260,13260,./labeled_data/animal/13260.jpg,animal
+8860,8860,./labeled_data/terrain/8860.jpg,terrain
+2484,2484,./labeled_data/human/2484.jpg,human
+6270,6270,./labeled_data/object/6270.jpg,object
+1140,1140,./labeled_data/human/1140.jpg,human
+12347,12347,./labeled_data/animal/12347.jpg,animal
+7156,7156,./labeled_data/object/7156.jpg,object
+10536,10536,./labeled_data/animal human/10536.jpg,"animal,human"
+11028,11028,./labeled_data/object terrain/11028.jpg,"object,terrain"
+12807,12807,./labeled_data/animal/12807.jpg,animal
+3736,3736,./labeled_data/human/3736.jpg,human
+4284,4284,./labeled_data/human/4284.jpg,human
+1737,1737,./labeled_data/human/1737.jpg,human
+8953,8953,./labeled_data/terrain/8953.jpg,terrain
+9997,9997,./labeled_data/human terrain/9997.jpg,"human,terrain"
+1643,1643,./labeled_data/human/1643.jpg,human
+7385,7385,./labeled_data/object/7385.jpg,object
+7000,7000,./labeled_data/object/7000.jpg,object
+418,418,./labeled_data/human/418.jpg,human
+767,767,./labeled_data/human/767.jpg,human
+12502,12502,./labeled_data/animal/12502.jpg,animal
+8679,8679,./labeled_data/terrain/8679.jpg,terrain
+5648,5648,./labeled_data/human object/5648.jpg,"human,object"
+8245,8245,./labeled_data/object/8245.jpg,object
+3239,3239,./labeled_data/human/3239.jpg,human
+10936,10936,./labeled_data/object terrain/10936.jpg,"object,terrain"
+9342,9342,./labeled_data/terrain/9342.jpg,terrain
+2712,2712,./labeled_data/human/2712.jpg,human
+11008,11008,./labeled_data/object terrain/11008.jpg,"object,terrain"
+12765,12765,./labeled_data/animal/12765.jpg,animal
+4250,4250,./labeled_data/human/4250.jpg,human
+9594,9594,./labeled_data/terrain/9594.jpg,terrain
+969,969,./labeled_data/human/969.jpg,human
+8180,8180,./labeled_data/object/8180.jpg,object
+10154,10154,./labeled_data/human terrain/10154.jpg,"human,terrain"
+6928,6928,./labeled_data/object/6928.jpg,object
+4668,4668,./labeled_data/human/4668.jpg,human
+11044,11044,./labeled_data/object terrain/11044.jpg,"object,terrain"
+7208,7208,./labeled_data/object/7208.jpg,object
+2566,2566,./labeled_data/human/2566.jpg,human
+11949,11949,./labeled_data/object terrain/11949.jpg,"object,terrain"
+6034,6034,./labeled_data/object/6034.jpg,object
+6757,6757,./labeled_data/object/6757.jpg,object
+10078,10078,./labeled_data/human terrain/10078.jpg,"human,terrain"
+12135,12135,./labeled_data/animal/12135.jpg,animal
+3251,3251,./labeled_data/human/3251.jpg,human
+262,262,./labeled_data/human/262.jpg,human
+839,839,./labeled_data/human/839.jpg,human
+2458,2458,./labeled_data/human/2458.jpg,human
+12401,12401,./labeled_data/animal/12401.jpg,animal
+13006,13006,./labeled_data/animal/13006.jpg,animal
+12828,12828,./labeled_data/animal/12828.jpg,animal
+3306,3306,./labeled_data/human/3306.jpg,human
+2621,2621,./labeled_data/human/2621.jpg,human
+10461,10461,./labeled_data/animal human/10461.jpg,"animal,human"
+9636,9636,./labeled_data/terrain/9636.jpg,terrain
+6006,6006,./labeled_data/object/6006.jpg,object
+9601,9601,./labeled_data/terrain/9601.jpg,terrain
+4843,4843,./labeled_data/human/4843.jpg,human
+11086,11086,./labeled_data/object terrain/11086.jpg,"object,terrain"
+180,180,./labeled_data/human/180.jpg,human
+6163,6163,./labeled_data/object/6163.jpg,object
+5438,5438,./labeled_data/human/5438.jpg,human
+1223,1223,./labeled_data/human/1223.jpg,human
+1059,1059,./labeled_data/human/1059.jpg,human
+1809,1809,./labeled_data/human/1809.jpg,human
+11172,11172,./labeled_data/object terrain/11172.jpg,"object,terrain"
+4457,4457,./labeled_data/human/4457.jpg,human
+13287,13287,./labeled_data/animal/13287.jpg,animal
+13346,13346,./labeled_data/animal/13346.jpg,animal
+4892,4892,./labeled_data/human/4892.jpg,human
+9196,9196,./labeled_data/terrain/9196.jpg,terrain
+12884,12884,./labeled_data/animal/12884.jpg,animal
+10376,10376,./labeled_data/animal human/10376.jpg,"animal,human"
+3113,3113,./labeled_data/human/3113.jpg,human
+219,219,./labeled_data/human/219.jpg,human
+763,763,./labeled_data/human/763.jpg,human
+13504,13504,./labeled_data/animal/13504.jpg,animal
+4162,4162,./labeled_data/human/4162.jpg,human
+2760,2760,./labeled_data/human/2760.jpg,human
+2304,2304,./labeled_data/human/2304.jpg,human
+13851,13851,./labeled_data/animal/13851.jpg,animal
+10938,10938,./labeled_data/object terrain/10938.jpg,"object,terrain"
+9595,9595,./labeled_data/terrain/9595.jpg,terrain
+11114,11114,./labeled_data/object terrain/11114.jpg,"object,terrain"
+9437,9437,./labeled_data/terrain/9437.jpg,terrain
+1986,1986,./labeled_data/human/1986.jpg,human
+13838,13838,./labeled_data/animal/13838.jpg,animal
+8424,8424,./labeled_data/terrain/8424.jpg,terrain
+7644,7644,./labeled_data/object/7644.jpg,object
+1727,1727,./labeled_data/human/1727.jpg,human
+2697,2697,./labeled_data/human/2697.jpg,human
+10837,10837,./labeled_data/object terrain/10837.jpg,"object,terrain"
+4220,4220,./labeled_data/human/4220.jpg,human
+5738,5738,./labeled_data/human object/5738.jpg,"human,object"
+13697,13697,./labeled_data/animal/13697.jpg,animal
+9343,9343,./labeled_data/terrain/9343.jpg,terrain
+9859,9859,./labeled_data/human terrain/9859.jpg,"human,terrain"
+11365,11365,./labeled_data/object terrain/11365.jpg,"object,terrain"
+4181,4181,./labeled_data/human/4181.jpg,human
+1355,1355,./labeled_data/human/1355.jpg,human
+3290,3290,./labeled_data/human/3290.jpg,human
+7339,7339,./labeled_data/object/7339.jpg,object
+588,588,./labeled_data/human/588.jpg,human
+1758,1758,./labeled_data/human/1758.jpg,human
+12785,12785,./labeled_data/animal/12785.jpg,animal
+2698,2698,./labeled_data/human/2698.jpg,human
+11211,11211,./labeled_data/object terrain/11211.jpg,"object,terrain"
+8627,8627,./labeled_data/terrain/8627.jpg,terrain
+5907,5907,./labeled_data/human object/5907.jpg,"human,object"
+9876,9876,./labeled_data/human terrain/9876.jpg,"human,terrain"
+12373,12373,./labeled_data/animal/12373.jpg,animal
+799,799,./labeled_data/human/799.jpg,human
+13603,13603,./labeled_data/animal/13603.jpg,animal
+5496,5496,./labeled_data/human object/5496.jpg,"human,object"
+4355,4355,./labeled_data/human/4355.jpg,human
+10957,10957,./labeled_data/object terrain/10957.jpg,"object,terrain"
+8295,8295,./labeled_data/terrain/8295.jpg,terrain
+7937,7937,./labeled_data/object/7937.jpg,object
+1142,1142,./labeled_data/human/1142.jpg,human
+7022,7022,./labeled_data/object/7022.jpg,object
+6515,6515,./labeled_data/object/6515.jpg,object
+3130,3130,./labeled_data/human/3130.jpg,human
+11427,11427,./labeled_data/object terrain/11427.jpg,"object,terrain"
+237,237,./labeled_data/human/237.jpg,human
+7458,7458,./labeled_data/object/7458.jpg,object
+13224,13224,./labeled_data/animal/13224.jpg,animal
+6672,6672,./labeled_data/object/6672.jpg,object
+9377,9377,./labeled_data/terrain/9377.jpg,terrain
+9772,9772,./labeled_data/terrain/9772.jpg,terrain
+11250,11250,./labeled_data/object terrain/11250.jpg,"object,terrain"
+7908,7908,./labeled_data/object/7908.jpg,object
+12372,12372,./labeled_data/animal/12372.jpg,animal
+10199,10199,./labeled_data/human terrain/10199.jpg,"human,terrain"
+1360,1360,./labeled_data/human/1360.jpg,human
+14223,14223,./labeled_data/animal/14223.jpg,animal
+12376,12376,./labeled_data/animal/12376.jpg,animal
+7547,7547,./labeled_data/object/7547.jpg,object
+7826,7826,./labeled_data/object/7826.jpg,object
+5149,5149,./labeled_data/human/5149.jpg,human
+5441,5441,./labeled_data/human/5441.jpg,human
+13468,13468,./labeled_data/animal/13468.jpg,animal
+14203,14203,./labeled_data/animal/14203.jpg,animal
+12350,12350,./labeled_data/animal/12350.jpg,animal
+12340,12340,./labeled_data/animal/12340.jpg,animal
+7397,7397,./labeled_data/object/7397.jpg,object
+2526,2526,./labeled_data/human/2526.jpg,human
+5356,5356,./labeled_data/human/5356.jpg,human
+8815,8815,./labeled_data/terrain/8815.jpg,terrain
+5468,5468,./labeled_data/human/5468.jpg,human
+293,293,./labeled_data/human/293.jpg,human
+6822,6822,./labeled_data/object/6822.jpg,object
+10234,10234,./labeled_data/animal object/10234.jpg,"animal,object"
+13248,13248,./labeled_data/animal/13248.jpg,animal
+11078,11078,./labeled_data/object terrain/11078.jpg,"object,terrain"
+11411,11411,./labeled_data/object terrain/11411.jpg,"object,terrain"
+2642,2642,./labeled_data/human/2642.jpg,human
+7775,7775,./labeled_data/object/7775.jpg,object
+1806,1806,./labeled_data/human/1806.jpg,human
+1983,1983,./labeled_data/human/1983.jpg,human
+6132,6132,./labeled_data/object/6132.jpg,object
+13876,13876,./labeled_data/animal/13876.jpg,animal
+3008,3008,./labeled_data/human/3008.jpg,human
+13886,13886,./labeled_data/animal/13886.jpg,animal
+9762,9762,./labeled_data/terrain/9762.jpg,terrain
+8701,8701,./labeled_data/terrain/8701.jpg,terrain
+6985,6985,./labeled_data/object/6985.jpg,object
+13690,13690,./labeled_data/animal/13690.jpg,animal
+1781,1781,./labeled_data/human/1781.jpg,human
+5433,5433,./labeled_data/human/5433.jpg,human
+2301,2301,./labeled_data/human/2301.jpg,human
+924,924,./labeled_data/human/924.jpg,human
+12265,12265,./labeled_data/animal/12265.jpg,animal
+11676,11676,./labeled_data/object terrain/11676.jpg,"object,terrain"
+9160,9160,./labeled_data/terrain/9160.jpg,terrain
+8165,8165,./labeled_data/object/8165.jpg,object
+11258,11258,./labeled_data/object terrain/11258.jpg,"object,terrain"
+9403,9403,./labeled_data/terrain/9403.jpg,terrain
+14020,14020,./labeled_data/animal/14020.jpg,animal
+5854,5854,./labeled_data/human object/5854.jpg,"human,object"
+2427,2427,./labeled_data/human/2427.jpg,human
+8784,8784,./labeled_data/terrain/8784.jpg,terrain
+9283,9283,./labeled_data/terrain/9283.jpg,terrain
+2929,2929,./labeled_data/human/2929.jpg,human
+8308,8308,./labeled_data/terrain/8308.jpg,terrain
+10084,10084,./labeled_data/human terrain/10084.jpg,"human,terrain"
+3011,3011,./labeled_data/human/3011.jpg,human
+11077,11077,./labeled_data/object terrain/11077.jpg,"object,terrain"
+10722,10722,./labeled_data/object terrain/10722.jpg,"object,terrain"
+12855,12855,./labeled_data/animal/12855.jpg,animal
+7252,7252,./labeled_data/object/7252.jpg,object
+9662,9662,./labeled_data/terrain/9662.jpg,terrain
+1644,1644,./labeled_data/human/1644.jpg,human
+7755,7755,./labeled_data/object/7755.jpg,object
+4168,4168,./labeled_data/human/4168.jpg,human
+12663,12663,./labeled_data/animal/12663.jpg,animal
+10061,10061,./labeled_data/human terrain/10061.jpg,"human,terrain"
+2038,2038,./labeled_data/human/2038.jpg,human
+3196,3196,./labeled_data/human/3196.jpg,human
+6544,6544,./labeled_data/object/6544.jpg,object
+10310,10310,./labeled_data/animal object/10310.jpg,"animal,object"
+13111,13111,./labeled_data/animal/13111.jpg,animal
+9230,9230,./labeled_data/terrain/9230.jpg,terrain
+13150,13150,./labeled_data/animal/13150.jpg,animal
+2207,2207,./labeled_data/human/2207.jpg,human
+9651,9651,./labeled_data/terrain/9651.jpg,terrain
+5346,5346,./labeled_data/human/5346.jpg,human
+7797,7797,./labeled_data/object/7797.jpg,object
+11177,11177,./labeled_data/object terrain/11177.jpg,"object,terrain"
+1187,1187,./labeled_data/human/1187.jpg,human
+3506,3506,./labeled_data/human/3506.jpg,human
+11600,11600,./labeled_data/object terrain/11600.jpg,"object,terrain"
+4538,4538,./labeled_data/human/4538.jpg,human
+3608,3608,./labeled_data/human/3608.jpg,human
+1392,1392,./labeled_data/human/1392.jpg,human
+3020,3020,./labeled_data/human/3020.jpg,human
+3969,3969,./labeled_data/human/3969.jpg,human
+5298,5298,./labeled_data/human/5298.jpg,human
+12461,12461,./labeled_data/animal/12461.jpg,animal
+701,701,./labeled_data/human/701.jpg,human
+10664,10664,./labeled_data/object terrain/10664.jpg,"object,terrain"
+7863,7863,./labeled_data/object/7863.jpg,object
+9225,9225,./labeled_data/terrain/9225.jpg,terrain
+2126,2126,./labeled_data/human/2126.jpg,human
+6390,6390,./labeled_data/object/6390.jpg,object
+7122,7122,./labeled_data/object/7122.jpg,object
+10099,10099,./labeled_data/human terrain/10099.jpg,"human,terrain"
+4500,4500,./labeled_data/human/4500.jpg,human
+6641,6641,./labeled_data/object/6641.jpg,object
+8832,8832,./labeled_data/terrain/8832.jpg,terrain
+5136,5136,./labeled_data/human/5136.jpg,human
+10917,10917,./labeled_data/object terrain/10917.jpg,"object,terrain"
+7560,7560,./labeled_data/object/7560.jpg,object
+7349,7349,./labeled_data/object/7349.jpg,object
+13192,13192,./labeled_data/animal/13192.jpg,animal
+8174,8174,./labeled_data/object/8174.jpg,object
+2245,2245,./labeled_data/human/2245.jpg,human
+11907,11907,./labeled_data/object terrain/11907.jpg,"object,terrain"
+8326,8326,./labeled_data/terrain/8326.jpg,terrain
+7932,7932,./labeled_data/object/7932.jpg,object
+600,600,./labeled_data/human/600.jpg,human
+2272,2272,./labeled_data/human/2272.jpg,human
+10068,10068,./labeled_data/human terrain/10068.jpg,"human,terrain"
+6919,6919,./labeled_data/object/6919.jpg,object
+5954,5954,./labeled_data/human object/5954.jpg,"human,object"
+2667,2667,./labeled_data/human/2667.jpg,human
+414,414,./labeled_data/human/414.jpg,human
+7503,7503,./labeled_data/object/7503.jpg,object
+8616,8616,./labeled_data/terrain/8616.jpg,terrain
+1822,1822,./labeled_data/human/1822.jpg,human
+5457,5457,./labeled_data/human/5457.jpg,human
+5210,5210,./labeled_data/human/5210.jpg,human
+1017,1017,./labeled_data/human/1017.jpg,human
+11140,11140,./labeled_data/object terrain/11140.jpg,"object,terrain"
+3638,3638,./labeled_data/human/3638.jpg,human
+9298,9298,./labeled_data/terrain/9298.jpg,terrain
+13464,13464,./labeled_data/animal/13464.jpg,animal
+10857,10857,./labeled_data/object terrain/10857.jpg,"object,terrain"
+1308,1308,./labeled_data/human/1308.jpg,human
+4199,4199,./labeled_data/human/4199.jpg,human
+2856,2856,./labeled_data/human/2856.jpg,human
+14063,14063,./labeled_data/animal/14063.jpg,animal
+5408,5408,./labeled_data/human/5408.jpg,human
+5958,5958,./labeled_data/human object/5958.jpg,"human,object"
+9996,9996,./labeled_data/human terrain/9996.jpg,"human,terrain"
+6607,6607,./labeled_data/object/6607.jpg,object
+14269,14269,./labeled_data/animal/14269.jpg,animal
+1161,1161,./labeled_data/human/1161.jpg,human
+122,122,./labeled_data/human/122.jpg,human
+12007,12007,./labeled_data/animal/12007.jpg,animal
+5676,5676,./labeled_data/human object/5676.jpg,"human,object"
+3704,3704,./labeled_data/human/3704.jpg,human
+1281,1281,./labeled_data/human/1281.jpg,human
+12257,12257,./labeled_data/animal/12257.jpg,animal
+12619,12619,./labeled_data/animal/12619.jpg,animal
+5733,5733,./labeled_data/human object/5733.jpg,"human,object"
+3153,3153,./labeled_data/human/3153.jpg,human
+8790,8790,./labeled_data/terrain/8790.jpg,terrain
+13233,13233,./labeled_data/animal/13233.jpg,animal
+85,85,./labeled_data/human/85.jpg,human
+10704,10704,./labeled_data/object terrain/10704.jpg,"object,terrain"
+7028,7028,./labeled_data/object/7028.jpg,object
+3082,3082,./labeled_data/human/3082.jpg,human
+10268,10268,./labeled_data/animal object/10268.jpg,"animal,object"
+10909,10909,./labeled_data/object terrain/10909.jpg,"object,terrain"
+4951,4951,./labeled_data/human/4951.jpg,human
+740,740,./labeled_data/human/740.jpg,human
+7437,7437,./labeled_data/object/7437.jpg,object
+14196,14196,./labeled_data/animal/14196.jpg,animal
+4869,4869,./labeled_data/human/4869.jpg,human
+11180,11180,./labeled_data/object terrain/11180.jpg,"object,terrain"
+1892,1892,./labeled_data/human/1892.jpg,human
+7029,7029,./labeled_data/object/7029.jpg,object
+731,731,./labeled_data/human/731.jpg,human
+1053,1053,./labeled_data/human/1053.jpg,human
+14102,14102,./labeled_data/animal/14102.jpg,animal
+6473,6473,./labeled_data/object/6473.jpg,object
+10252,10252,./labeled_data/animal object/10252.jpg,"animal,object"
+10935,10935,./labeled_data/object terrain/10935.jpg,"object,terrain"
+13484,13484,./labeled_data/animal/13484.jpg,animal
+8109,8109,./labeled_data/object/8109.jpg,object
+6627,6627,./labeled_data/object/6627.jpg,object
+1397,1397,./labeled_data/human/1397.jpg,human
+2865,2865,./labeled_data/human/2865.jpg,human
+4182,4182,./labeled_data/human/4182.jpg,human
+11195,11195,./labeled_data/object terrain/11195.jpg,"object,terrain"
+824,824,./labeled_data/human/824.jpg,human
+4901,4901,./labeled_data/human/4901.jpg,human
+6596,6596,./labeled_data/object/6596.jpg,object
+7184,7184,./labeled_data/object/7184.jpg,object
+5229,5229,./labeled_data/human/5229.jpg,human
+9073,9073,./labeled_data/terrain/9073.jpg,terrain
+9822,9822,./labeled_data/human terrain/9822.jpg,"human,terrain"
+3585,3585,./labeled_data/human/3585.jpg,human
+4943,4943,./labeled_data/human/4943.jpg,human
+1760,1760,./labeled_data/human/1760.jpg,human
+4673,4673,./labeled_data/human/4673.jpg,human
+12980,12980,./labeled_data/animal/12980.jpg,animal
+1274,1274,./labeled_data/human/1274.jpg,human
+9050,9050,./labeled_data/terrain/9050.jpg,terrain
+4269,4269,./labeled_data/human/4269.jpg,human
+12166,12166,./labeled_data/animal/12166.jpg,animal
+11982,11982,./labeled_data/object terrain/11982.jpg,"object,terrain"
+3607,3607,./labeled_data/human/3607.jpg,human
+6226,6226,./labeled_data/object/6226.jpg,object
+2633,2633,./labeled_data/human/2633.jpg,human
+5223,5223,./labeled_data/human/5223.jpg,human
+9440,9440,./labeled_data/terrain/9440.jpg,terrain
+10873,10873,./labeled_data/object terrain/10873.jpg,"object,terrain"
+11830,11830,./labeled_data/object terrain/11830.jpg,"object,terrain"
+11516,11516,./labeled_data/object terrain/11516.jpg,"object,terrain"
+4841,4841,./labeled_data/human/4841.jpg,human
+8560,8560,./labeled_data/terrain/8560.jpg,terrain
+4956,4956,./labeled_data/human/4956.jpg,human
+723,723,./labeled_data/human/723.jpg,human
+2658,2658,./labeled_data/human/2658.jpg,human
+4974,4974,./labeled_data/human/4974.jpg,human
+1311,1311,./labeled_data/human/1311.jpg,human
+8254,8254,./labeled_data/object/8254.jpg,object
+933,933,./labeled_data/human/933.jpg,human
+2348,2348,./labeled_data/human/2348.jpg,human
+6122,6122,./labeled_data/object/6122.jpg,object
+12162,12162,./labeled_data/animal/12162.jpg,animal
+9085,9085,./labeled_data/terrain/9085.jpg,terrain
+796,796,./labeled_data/human/796.jpg,human
+2554,2554,./labeled_data/human/2554.jpg,human
+9827,9827,./labeled_data/human terrain/9827.jpg,"human,terrain"
+12182,12182,./labeled_data/animal/12182.jpg,animal
+9370,9370,./labeled_data/terrain/9370.jpg,terrain
+408,408,./labeled_data/human/408.jpg,human
+14096,14096,./labeled_data/animal/14096.jpg,animal
+11748,11748,./labeled_data/object terrain/11748.jpg,"object,terrain"
+12751,12751,./labeled_data/animal/12751.jpg,animal
+1979,1979,./labeled_data/human/1979.jpg,human
+1048,1048,./labeled_data/human/1048.jpg,human
+5650,5650,./labeled_data/human object/5650.jpg,"human,object"
+11677,11677,./labeled_data/object terrain/11677.jpg,"object,terrain"
+10489,10489,./labeled_data/animal human/10489.jpg,"animal,human"
+612,612,./labeled_data/human/612.jpg,human
+11279,11279,./labeled_data/object terrain/11279.jpg,"object,terrain"
+4039,4039,./labeled_data/human/4039.jpg,human
+7255,7255,./labeled_data/object/7255.jpg,object
+13066,13066,./labeled_data/animal/13066.jpg,animal
+9902,9902,./labeled_data/human terrain/9902.jpg,"human,terrain"
+10412,10412,./labeled_data/animal human/10412.jpg,"animal,human"
+8191,8191,./labeled_data/object/8191.jpg,object
+7979,7979,./labeled_data/object/7979.jpg,object
+10466,10466,./labeled_data/animal human/10466.jpg,"animal,human"
+10326,10326,./labeled_data/animal object/10326.jpg,"animal,object"
+4662,4662,./labeled_data/human/4662.jpg,human
+11204,11204,./labeled_data/object terrain/11204.jpg,"object,terrain"
+2665,2665,./labeled_data/human/2665.jpg,human
+13860,13860,./labeled_data/animal/13860.jpg,animal
+583,583,./labeled_data/human/583.jpg,human
+4967,4967,./labeled_data/human/4967.jpg,human
+9208,9208,./labeled_data/terrain/9208.jpg,terrain
+1283,1283,./labeled_data/human/1283.jpg,human
+421,421,./labeled_data/human/421.jpg,human
+1045,1045,./labeled_data/human/1045.jpg,human
+1000,1000,./labeled_data/human/1000.jpg,human
+12398,12398,./labeled_data/animal/12398.jpg,animal
+8390,8390,./labeled_data/terrain/8390.jpg,terrain
+3976,3976,./labeled_data/human/3976.jpg,human
+2735,2735,./labeled_data/human/2735.jpg,human
+2269,2269,./labeled_data/human/2269.jpg,human
+1950,1950,./labeled_data/human/1950.jpg,human
+11636,11636,./labeled_data/object terrain/11636.jpg,"object,terrain"
+7752,7752,./labeled_data/object/7752.jpg,object
+7463,7463,./labeled_data/object/7463.jpg,object
+2922,2922,./labeled_data/human/2922.jpg,human
+7049,7049,./labeled_data/object/7049.jpg,object
+9392,9392,./labeled_data/terrain/9392.jpg,terrain
+13331,13331,./labeled_data/animal/13331.jpg,animal
+14283,14283,./labeled_data/animal/14283.jpg,animal
+624,624,./labeled_data/human/624.jpg,human
+6618,6618,./labeled_data/object/6618.jpg,object
+5926,5926,./labeled_data/human object/5926.jpg,"human,object"
+3628,3628,./labeled_data/human/3628.jpg,human
+10239,10239,./labeled_data/animal object/10239.jpg,"animal,object"
+12428,12428,./labeled_data/animal/12428.jpg,animal
+12404,12404,./labeled_data/animal/12404.jpg,animal
+765,765,./labeled_data/human/765.jpg,human
+13142,13142,./labeled_data/animal/13142.jpg,animal
+11757,11757,./labeled_data/object terrain/11757.jpg,"object,terrain"
+4531,4531,./labeled_data/human/4531.jpg,human
+4135,4135,./labeled_data/human/4135.jpg,human
+13750,13750,./labeled_data/animal/13750.jpg,animal
+6991,6991,./labeled_data/object/6991.jpg,object
+12480,12480,./labeled_data/animal/12480.jpg,animal
+9401,9401,./labeled_data/terrain/9401.jpg,terrain
+8069,8069,./labeled_data/object/8069.jpg,object
+9009,9009,./labeled_data/terrain/9009.jpg,terrain
+3209,3209,./labeled_data/human/3209.jpg,human
+11806,11806,./labeled_data/object terrain/11806.jpg,"object,terrain"
+5501,5501,./labeled_data/human object/5501.jpg,"human,object"
+742,742,./labeled_data/human/742.jpg,human
+10659,10659,./labeled_data/object terrain/10659.jpg,"object,terrain"
+13720,13720,./labeled_data/animal/13720.jpg,animal
+7359,7359,./labeled_data/object/7359.jpg,object
+7512,7512,./labeled_data/object/7512.jpg,object
+8341,8341,./labeled_data/terrain/8341.jpg,terrain
+2504,2504,./labeled_data/human/2504.jpg,human
+3786,3786,./labeled_data/human/3786.jpg,human
+3808,3808,./labeled_data/human/3808.jpg,human
+11584,11584,./labeled_data/object terrain/11584.jpg,"object,terrain"
+10814,10814,./labeled_data/object terrain/10814.jpg,"object,terrain"
+13999,13999,./labeled_data/animal/13999.jpg,animal
+8932,8932,./labeled_data/terrain/8932.jpg,terrain
+5169,5169,./labeled_data/human/5169.jpg,human
+1054,1054,./labeled_data/human/1054.jpg,human
+12588,12588,./labeled_data/animal/12588.jpg,animal
+13275,13275,./labeled_data/animal/13275.jpg,animal
+10035,10035,./labeled_data/human terrain/10035.jpg,"human,terrain"
+12276,12276,./labeled_data/animal/12276.jpg,animal
+5924,5924,./labeled_data/human object/5924.jpg,"human,object"
+169,169,./labeled_data/human/169.jpg,human
+4814,4814,./labeled_data/human/4814.jpg,human
+14286,14286,./labeled_data/animal/14286.jpg,animal
+12641,12641,./labeled_data/animal/12641.jpg,animal
+1827,1827,./labeled_data/human/1827.jpg,human
+8255,8255,./labeled_data/object/8255.jpg,object
+2036,2036,./labeled_data/human/2036.jpg,human
+14081,14081,./labeled_data/animal/14081.jpg,animal
+8618,8618,./labeled_data/terrain/8618.jpg,terrain
+10418,10418,./labeled_data/animal human/10418.jpg,"animal,human"
+8081,8081,./labeled_data/object/8081.jpg,object
+11060,11060,./labeled_data/object terrain/11060.jpg,"object,terrain"
+10272,10272,./labeled_data/animal object/10272.jpg,"animal,object"
+10982,10982,./labeled_data/object terrain/10982.jpg,"object,terrain"
+8814,8814,./labeled_data/terrain/8814.jpg,terrain
+10405,10405,./labeled_data/animal human/10405.jpg,"animal,human"
+4296,4296,./labeled_data/human/4296.jpg,human
+695,695,./labeled_data/human/695.jpg,human
+7474,7474,./labeled_data/object/7474.jpg,object
+14212,14212,./labeled_data/animal/14212.jpg,animal
+13614,13614,./labeled_data/animal/13614.jpg,animal
+2827,2827,./labeled_data/human/2827.jpg,human
+700,700,./labeled_data/human/700.jpg,human
+1047,1047,./labeled_data/human/1047.jpg,human
+9393,9393,./labeled_data/terrain/9393.jpg,terrain
+9327,9327,./labeled_data/terrain/9327.jpg,terrain
+10515,10515,./labeled_data/animal human/10515.jpg,"animal,human"
+12819,12819,./labeled_data/animal/12819.jpg,animal
+12407,12407,./labeled_data/animal/12407.jpg,animal
+876,876,./labeled_data/human/876.jpg,human
+649,649,./labeled_data/human/649.jpg,human
+9910,9910,./labeled_data/human terrain/9910.jpg,"human,terrain"
+6621,6621,./labeled_data/object/6621.jpg,object
+10761,10761,./labeled_data/object terrain/10761.jpg,"object,terrain"
+3071,3071,./labeled_data/human/3071.jpg,human
+9628,9628,./labeled_data/terrain/9628.jpg,terrain
+6763,6763,./labeled_data/object/6763.jpg,object
+13746,13746,./labeled_data/animal/13746.jpg,animal
+7097,7097,./labeled_data/object/7097.jpg,object
+1593,1593,./labeled_data/human/1593.jpg,human
+14131,14131,./labeled_data/animal/14131.jpg,animal
+9110,9110,./labeled_data/terrain/9110.jpg,terrain
+5476,5476,./labeled_data/human/5476.jpg,human
+8632,8632,./labeled_data/terrain/8632.jpg,terrain
+9024,9024,./labeled_data/terrain/9024.jpg,terrain
+3792,3792,./labeled_data/human/3792.jpg,human
+9146,9146,./labeled_data/terrain/9146.jpg,terrain
+6716,6716,./labeled_data/object/6716.jpg,object
+9759,9759,./labeled_data/terrain/9759.jpg,terrain
+13049,13049,./labeled_data/animal/13049.jpg,animal
+11953,11953,./labeled_data/object terrain/11953.jpg,"object,terrain"
+11168,11168,./labeled_data/object terrain/11168.jpg,"object,terrain"
+11914,11914,./labeled_data/object terrain/11914.jpg,"object,terrain"
+10454,10454,./labeled_data/animal human/10454.jpg,"animal,human"
+10505,10505,./labeled_data/animal human/10505.jpg,"animal,human"
+1469,1469,./labeled_data/human/1469.jpg,human
+1939,1939,./labeled_data/human/1939.jpg,human
+4743,4743,./labeled_data/human/4743.jpg,human
+8313,8313,./labeled_data/terrain/8313.jpg,terrain
+2167,2167,./labeled_data/human/2167.jpg,human
+5095,5095,./labeled_data/human/5095.jpg,human
+1506,1506,./labeled_data/human/1506.jpg,human
+7911,7911,./labeled_data/object/7911.jpg,object
+3940,3940,./labeled_data/human/3940.jpg,human
+8468,8468,./labeled_data/terrain/8468.jpg,terrain
+10773,10773,./labeled_data/object terrain/10773.jpg,"object,terrain"
+3298,3298,./labeled_data/human/3298.jpg,human
+12711,12711,./labeled_data/animal/12711.jpg,animal
+9857,9857,./labeled_data/human terrain/9857.jpg,"human,terrain"
+11694,11694,./labeled_data/object terrain/11694.jpg,"object,terrain"
+10655,10655,./labeled_data/object terrain/10655.jpg,"object,terrain"
+13622,13622,./labeled_data/animal/13622.jpg,animal
+6768,6768,./labeled_data/object/6768.jpg,object
+12181,12181,./labeled_data/animal/12181.jpg,animal
+10947,10947,./labeled_data/object terrain/10947.jpg,"object,terrain"
+7805,7805,./labeled_data/object/7805.jpg,object
+300,300,./labeled_data/human/300.jpg,human
+1733,1733,./labeled_data/human/1733.jpg,human
+11807,11807,./labeled_data/object terrain/11807.jpg,"object,terrain"
+8644,8644,./labeled_data/terrain/8644.jpg,terrain
+10269,10269,./labeled_data/animal object/10269.jpg,"animal,object"
+7664,7664,./labeled_data/object/7664.jpg,object
+9570,9570,./labeled_data/terrain/9570.jpg,terrain
+12295,12295,./labeled_data/animal/12295.jpg,animal
+10384,10384,./labeled_data/animal human/10384.jpg,"animal,human"
+4044,4044,./labeled_data/human/4044.jpg,human
+13201,13201,./labeled_data/animal/13201.jpg,animal
+1525,1525,./labeled_data/human/1525.jpg,human
+12396,12396,./labeled_data/animal/12396.jpg,animal
+294,294,./labeled_data/human/294.jpg,human
+5653,5653,./labeled_data/human object/5653.jpg,"human,object"
+7814,7814,./labeled_data/object/7814.jpg,object
+1384,1384,./labeled_data/human/1384.jpg,human
+5437,5437,./labeled_data/human/5437.jpg,human
+9276,9276,./labeled_data/terrain/9276.jpg,terrain
+10380,10380,./labeled_data/animal human/10380.jpg,"animal,human"
+12038,12038,./labeled_data/animal/12038.jpg,animal
+11036,11036,./labeled_data/object terrain/11036.jpg,"object,terrain"
+4312,4312,./labeled_data/human/4312.jpg,human
+9990,9990,./labeled_data/human terrain/9990.jpg,"human,terrain"
+7410,7410,./labeled_data/object/7410.jpg,object
+7514,7514,./labeled_data/object/7514.jpg,object
+6685,6685,./labeled_data/object/6685.jpg,object
+8350,8350,./labeled_data/terrain/8350.jpg,terrain
+11582,11582,./labeled_data/object terrain/11582.jpg,"object,terrain"
+3525,3525,./labeled_data/human/3525.jpg,human
+10119,10119,./labeled_data/human terrain/10119.jpg,"human,terrain"
+4524,4524,./labeled_data/human/4524.jpg,human
+6639,6639,./labeled_data/object/6639.jpg,object
+7884,7884,./labeled_data/object/7884.jpg,object
+8478,8478,./labeled_data/terrain/8478.jpg,terrain
+9667,9667,./labeled_data/terrain/9667.jpg,terrain
+4176,4176,./labeled_data/human/4176.jpg,human
+5284,5284,./labeled_data/human/5284.jpg,human
+854,854,./labeled_data/human/854.jpg,human
+9321,9321,./labeled_data/terrain/9321.jpg,terrain
+4805,4805,./labeled_data/human/4805.jpg,human
+11938,11938,./labeled_data/object terrain/11938.jpg,"object,terrain"
+2039,2039,./labeled_data/human/2039.jpg,human
+10604,10604,./labeled_data/object terrain/10604.jpg,"object,terrain"
+1198,1198,./labeled_data/human/1198.jpg,human
+5652,5652,./labeled_data/human object/5652.jpg,"human,object"
+14237,14237,./labeled_data/animal/14237.jpg,animal
+6488,6488,./labeled_data/object/6488.jpg,object
+13293,13293,./labeled_data/animal/13293.jpg,animal
+13781,13781,./labeled_data/animal/13781.jpg,animal
+10765,10765,./labeled_data/object terrain/10765.jpg,"object,terrain"
+6305,6305,./labeled_data/object/6305.jpg,object
+4829,4829,./labeled_data/human/4829.jpg,human
+11615,11615,./labeled_data/object terrain/11615.jpg,"object,terrain"
+13110,13110,./labeled_data/animal/13110.jpg,animal
+9520,9520,./labeled_data/terrain/9520.jpg,terrain
+5402,5402,./labeled_data/human/5402.jpg,human
+8452,8452,./labeled_data/terrain/8452.jpg,terrain
+4197,4197,./labeled_data/human/4197.jpg,human
+7630,7630,./labeled_data/object/7630.jpg,object
+5595,5595,./labeled_data/human object/5595.jpg,"human,object"
+3468,3468,./labeled_data/human/3468.jpg,human
+3542,3542,./labeled_data/human/3542.jpg,human
+8129,8129,./labeled_data/object/8129.jpg,object
+11566,11566,./labeled_data/object terrain/11566.jpg,"object,terrain"
+6410,6410,./labeled_data/object/6410.jpg,object
+2000,2000,./labeled_data/human/2000.jpg,human
+5764,5764,./labeled_data/human object/5764.jpg,"human,object"
+1180,1180,./labeled_data/human/1180.jpg,human
+12400,12400,./labeled_data/animal/12400.jpg,animal
+9706,9706,./labeled_data/terrain/9706.jpg,terrain
+7947,7947,./labeled_data/object/7947.jpg,object
+13958,13958,./labeled_data/animal/13958.jpg,animal
+1305,1305,./labeled_data/human/1305.jpg,human
+8194,8194,./labeled_data/object/8194.jpg,object
+115,115,./labeled_data/human/115.jpg,human
+7375,7375,./labeled_data/object/7375.jpg,object
+5375,5375,./labeled_data/human/5375.jpg,human
+2079,2079,./labeled_data/human/2079.jpg,human
+4317,4317,./labeled_data/human/4317.jpg,human
+4439,4439,./labeled_data/human/4439.jpg,human
+758,758,./labeled_data/human/758.jpg,human
+2068,2068,./labeled_data/human/2068.jpg,human
+1787,1787,./labeled_data/human/1787.jpg,human
+3833,3833,./labeled_data/human/3833.jpg,human
+12456,12456,./labeled_data/animal/12456.jpg,animal
+10439,10439,./labeled_data/animal human/10439.jpg,"animal,human"
+14135,14135,./labeled_data/animal/14135.jpg,animal
+8274,8274,./labeled_data/terrain/8274.jpg,terrain
+13428,13428,./labeled_data/animal/13428.jpg,animal
+6267,6267,./labeled_data/object/6267.jpg,object
+11597,11597,./labeled_data/object terrain/11597.jpg,"object,terrain"
+8938,8938,./labeled_data/terrain/8938.jpg,terrain
+6052,6052,./labeled_data/object/6052.jpg,object
+6036,6036,./labeled_data/object/6036.jpg,object
+200,200,./labeled_data/human/200.jpg,human
+12933,12933,./labeled_data/animal/12933.jpg,animal
+2987,2987,./labeled_data/human/2987.jpg,human
+6780,6780,./labeled_data/object/6780.jpg,object
+5492,5492,./labeled_data/human/5492.jpg,human
+11453,11453,./labeled_data/object terrain/11453.jpg,"object,terrain"
+13505,13505,./labeled_data/animal/13505.jpg,animal
+11346,11346,./labeled_data/object terrain/11346.jpg,"object,terrain"
+8798,8798,./labeled_data/terrain/8798.jpg,terrain
+12552,12552,./labeled_data/animal/12552.jpg,animal
+8662,8662,./labeled_data/terrain/8662.jpg,terrain
+3790,3790,./labeled_data/human/3790.jpg,human
+5129,5129,./labeled_data/human/5129.jpg,human
+996,996,./labeled_data/human/996.jpg,human
+1914,1914,./labeled_data/human/1914.jpg,human
+10307,10307,./labeled_data/animal object/10307.jpg,"animal,object"
+361,361,./labeled_data/human/361.jpg,human
+7653,7653,./labeled_data/object/7653.jpg,object
+3049,3049,./labeled_data/human/3049.jpg,human
+9314,9314,./labeled_data/terrain/9314.jpg,terrain
+7579,7579,./labeled_data/object/7579.jpg,object
+1019,1019,./labeled_data/human/1019.jpg,human
+9508,9508,./labeled_data/terrain/9508.jpg,terrain
+13579,13579,./labeled_data/animal/13579.jpg,animal
+371,371,./labeled_data/human/371.jpg,human
+1590,1590,./labeled_data/human/1590.jpg,human
+2682,2682,./labeled_data/human/2682.jpg,human
+4131,4131,./labeled_data/human/4131.jpg,human
+13868,13868,./labeled_data/animal/13868.jpg,animal
+1576,1576,./labeled_data/human/1576.jpg,human
+8806,8806,./labeled_data/terrain/8806.jpg,terrain
+13313,13313,./labeled_data/animal/13313.jpg,animal
+7144,7144,./labeled_data/object/7144.jpg,object
+1200,1200,./labeled_data/human/1200.jpg,human
+12823,12823,./labeled_data/animal/12823.jpg,animal
+8739,8739,./labeled_data/terrain/8739.jpg,terrain
+7179,7179,./labeled_data/object/7179.jpg,object
+1721,1721,./labeled_data/human/1721.jpg,human
+6425,6425,./labeled_data/object/6425.jpg,object
+11741,11741,./labeled_data/object terrain/11741.jpg,"object,terrain"
+13289,13289,./labeled_data/animal/13289.jpg,animal
+806,806,./labeled_data/human/806.jpg,human
+12464,12464,./labeled_data/animal/12464.jpg,animal
+1754,1754,./labeled_data/human/1754.jpg,human
+11541,11541,./labeled_data/object terrain/11541.jpg,"object,terrain"
+10522,10522,./labeled_data/animal human/10522.jpg,"animal,human"
+4254,4254,./labeled_data/human/4254.jpg,human
+2957,2957,./labeled_data/human/2957.jpg,human
+10904,10904,./labeled_data/object terrain/10904.jpg,"object,terrain"
+7124,7124,./labeled_data/object/7124.jpg,object
+4893,4893,./labeled_data/human/4893.jpg,human
+14023,14023,./labeled_data/animal/14023.jpg,animal
+2507,2507,./labeled_data/human/2507.jpg,human
+10213,10213,./labeled_data/human terrain/10213.jpg,"human,terrain"
+2139,2139,./labeled_data/human/2139.jpg,human
+1383,1383,./labeled_data/human/1383.jpg,human
+27,27,./labeled_data/human/27.jpg,human
+9516,9516,./labeled_data/terrain/9516.jpg,terrain
+574,574,./labeled_data/human/574.jpg,human
+2444,2444,./labeled_data/human/2444.jpg,human
+10150,10150,./labeled_data/human terrain/10150.jpg,"human,terrain"
+11839,11839,./labeled_data/object terrain/11839.jpg,"object,terrain"
+2623,2623,./labeled_data/human/2623.jpg,human
+2562,2562,./labeled_data/human/2562.jpg,human
+5019,5019,./labeled_data/human/5019.jpg,human
+3384,3384,./labeled_data/human/3384.jpg,human
+4964,4964,./labeled_data/human/4964.jpg,human
+13309,13309,./labeled_data/animal/13309.jpg,animal
+1790,1790,./labeled_data/human/1790.jpg,human
+4852,4852,./labeled_data/human/4852.jpg,human
+5905,5905,./labeled_data/human object/5905.jpg,"human,object"
+9381,9381,./labeled_data/terrain/9381.jpg,terrain
+4400,4400,./labeled_data/human/4400.jpg,human
+5269,5269,./labeled_data/human/5269.jpg,human
+12383,12383,./labeled_data/animal/12383.jpg,animal
+1965,1965,./labeled_data/human/1965.jpg,human
+14112,14112,./labeled_data/animal/14112.jpg,animal
+5645,5645,./labeled_data/human object/5645.jpg,"human,object"
+4812,4812,./labeled_data/human/4812.jpg,human
+10115,10115,./labeled_data/human terrain/10115.jpg,"human,terrain"
+3461,3461,./labeled_data/human/3461.jpg,human
+9863,9863,./labeled_data/human terrain/9863.jpg,"human,terrain"
+14173,14173,./labeled_data/animal/14173.jpg,animal
+11470,11470,./labeled_data/object terrain/11470.jpg,"object,terrain"
+5313,5313,./labeled_data/human/5313.jpg,human
+3190,3190,./labeled_data/human/3190.jpg,human
+8645,8645,./labeled_data/terrain/8645.jpg,terrain
+3144,3144,./labeled_data/human/3144.jpg,human
+12843,12843,./labeled_data/animal/12843.jpg,animal
+5345,5345,./labeled_data/human/5345.jpg,human
+10723,10723,./labeled_data/object terrain/10723.jpg,"object,terrain"
+7984,7984,./labeled_data/object/7984.jpg,object
+13828,13828,./labeled_data/animal/13828.jpg,animal
+10889,10889,./labeled_data/object terrain/10889.jpg,"object,terrain"
+12593,12593,./labeled_data/animal/12593.jpg,animal
+8663,8663,./labeled_data/terrain/8663.jpg,terrain
+10056,10056,./labeled_data/human terrain/10056.jpg,"human,terrain"
+14030,14030,./labeled_data/animal/14030.jpg,animal
+8252,8252,./labeled_data/object/8252.jpg,object
+12348,12348,./labeled_data/animal/12348.jpg,animal
+7166,7166,./labeled_data/object/7166.jpg,object
+7297,7297,./labeled_data/object/7297.jpg,object
+10258,10258,./labeled_data/animal object/10258.jpg,"animal,object"
+7663,7663,./labeled_data/object/7663.jpg,object
+4081,4081,./labeled_data/human/4081.jpg,human
+13409,13409,./labeled_data/animal/13409.jpg,animal
+2206,2206,./labeled_data/human/2206.jpg,human
+12744,12744,./labeled_data/animal/12744.jpg,animal
+9631,9631,./labeled_data/terrain/9631.jpg,terrain
+663,663,./labeled_data/human/663.jpg,human
+6709,6709,./labeled_data/object/6709.jpg,object
+994,994,./labeled_data/human/994.jpg,human
+8531,8531,./labeled_data/terrain/8531.jpg,terrain
+13133,13133,./labeled_data/animal/13133.jpg,animal
+7648,7648,./labeled_data/object/7648.jpg,object
+7398,7398,./labeled_data/object/7398.jpg,object
+9684,9684,./labeled_data/terrain/9684.jpg,terrain
+2942,2942,./labeled_data/human/2942.jpg,human
+4612,4612,./labeled_data/human/4612.jpg,human
+447,447,./labeled_data/human/447.jpg,human
+13146,13146,./labeled_data/animal/13146.jpg,animal
+2069,2069,./labeled_data/human/2069.jpg,human
+11540,11540,./labeled_data/object terrain/11540.jpg,"object,terrain"
+4389,4389,./labeled_data/human/4389.jpg,human
+4610,4610,./labeled_data/human/4610.jpg,human
+11158,11158,./labeled_data/object terrain/11158.jpg,"object,terrain"
+110,110,./labeled_data/human/110.jpg,human
+12022,12022,./labeled_data/animal/12022.jpg,animal
+3100,3100,./labeled_data/human/3100.jpg,human
+5188,5188,./labeled_data/human/5188.jpg,human
+9023,9023,./labeled_data/terrain/9023.jpg,terrain
+13627,13627,./labeled_data/animal/13627.jpg,animal
+622,622,./labeled_data/human/622.jpg,human
+11802,11802,./labeled_data/object terrain/11802.jpg,"object,terrain"
+10753,10753,./labeled_data/object terrain/10753.jpg,"object,terrain"
+12585,12585,./labeled_data/animal/12585.jpg,animal
+12441,12441,./labeled_data/animal/12441.jpg,animal
+6963,6963,./labeled_data/object/6963.jpg,object
+1651,1651,./labeled_data/human/1651.jpg,human
+10712,10712,./labeled_data/object terrain/10712.jpg,"object,terrain"
+1841,1841,./labeled_data/human/1841.jpg,human
+1702,1702,./labeled_data/human/1702.jpg,human
+783,783,./labeled_data/human/783.jpg,human
+2559,2559,./labeled_data/human/2559.jpg,human
+6307,6307,./labeled_data/object/6307.jpg,object
+12197,12197,./labeled_data/animal/12197.jpg,animal
+4383,4383,./labeled_data/human/4383.jpg,human
+2066,2066,./labeled_data/human/2066.jpg,human
+6882,6882,./labeled_data/object/6882.jpg,object
+11705,11705,./labeled_data/object terrain/11705.jpg,"object,terrain"
+13570,13570,./labeled_data/animal/13570.jpg,animal
+5710,5710,./labeled_data/human object/5710.jpg,"human,object"
+13754,13754,./labeled_data/animal/13754.jpg,animal
+13071,13071,./labeled_data/animal/13071.jpg,animal
+1108,1108,./labeled_data/human/1108.jpg,human
+7357,7357,./labeled_data/object/7357.jpg,object
+6791,6791,./labeled_data/object/6791.jpg,object
+10480,10480,./labeled_data/animal human/10480.jpg,"animal,human"
+11668,11668,./labeled_data/object terrain/11668.jpg,"object,terrain"
+6109,6109,./labeled_data/object/6109.jpg,object
+5211,5211,./labeled_data/human/5211.jpg,human
+11637,11637,./labeled_data/object terrain/11637.jpg,"object,terrain"
+12006,12006,./labeled_data/animal/12006.jpg,animal
+9159,9159,./labeled_data/terrain/9159.jpg,terrain
+7146,7146,./labeled_data/object/7146.jpg,object
+423,423,./labeled_data/human/423.jpg,human
+1913,1913,./labeled_data/human/1913.jpg,human
+6915,6915,./labeled_data/object/6915.jpg,object
+13735,13735,./labeled_data/animal/13735.jpg,animal
+13592,13592,./labeled_data/animal/13592.jpg,animal
+6617,6617,./labeled_data/object/6617.jpg,object
+9577,9577,./labeled_data/terrain/9577.jpg,terrain
+8887,8887,./labeled_data/terrain/8887.jpg,terrain
+2747,2747,./labeled_data/human/2747.jpg,human
+3625,3625,./labeled_data/human/3625.jpg,human
+1470,1470,./labeled_data/human/1470.jpg,human
+11431,11431,./labeled_data/object terrain/11431.jpg,"object,terrain"
+11216,11216,./labeled_data/object terrain/11216.jpg,"object,terrain"
+9352,9352,./labeled_data/terrain/9352.jpg,terrain
+12377,12377,./labeled_data/animal/12377.jpg,animal
+11159,11159,./labeled_data/object terrain/11159.jpg,"object,terrain"
+13274,13274,./labeled_data/animal/13274.jpg,animal
+5235,5235,./labeled_data/human/5235.jpg,human
+6209,6209,./labeled_data/object/6209.jpg,object
+2789,2789,./labeled_data/human/2789.jpg,human
+1834,1834,./labeled_data/human/1834.jpg,human
+3473,3473,./labeled_data/human/3473.jpg,human
+179,179,./labeled_data/human/179.jpg,human
+2070,2070,./labeled_data/human/2070.jpg,human
+1926,1926,./labeled_data/human/1926.jpg,human
+13853,13853,./labeled_data/animal/13853.jpg,animal
+11614,11614,./labeled_data/object terrain/11614.jpg,"object,terrain"
+5004,5004,./labeled_data/human/5004.jpg,human
+4140,4140,./labeled_data/human/4140.jpg,human
+6353,6353,./labeled_data/object/6353.jpg,object
+7563,7563,./labeled_data/object/7563.jpg,object
+12900,12900,./labeled_data/animal/12900.jpg,animal
+3391,3391,./labeled_data/human/3391.jpg,human
+5734,5734,./labeled_data/human object/5734.jpg,"human,object"
+13106,13106,./labeled_data/animal/13106.jpg,animal
+756,756,./labeled_data/human/756.jpg,human
+2041,2041,./labeled_data/human/2041.jpg,human
+10681,10681,./labeled_data/object terrain/10681.jpg,"object,terrain"
+7070,7070,./labeled_data/object/7070.jpg,object
+9,9,./labeled_data/human/9.jpg,human
+13238,13238,./labeled_data/animal/13238.jpg,animal
+6799,6799,./labeled_data/object/6799.jpg,object
+7751,7751,./labeled_data/object/7751.jpg,object
+129,129,./labeled_data/human/129.jpg,human
+2389,2389,./labeled_data/human/2389.jpg,human
+10487,10487,./labeled_data/animal human/10487.jpg,"animal,human"
+13227,13227,./labeled_data/animal/13227.jpg,animal
+1923,1923,./labeled_data/human/1923.jpg,human
+4705,4705,./labeled_data/human/4705.jpg,human
+68,68,./labeled_data/human/68.jpg,human
+10470,10470,./labeled_data/animal human/10470.jpg,"animal,human"
+6854,6854,./labeled_data/object/6854.jpg,object
+5051,5051,./labeled_data/human/5051.jpg,human
+926,926,./labeled_data/human/926.jpg,human
+7873,7873,./labeled_data/object/7873.jpg,object
+3096,3096,./labeled_data/human/3096.jpg,human
+6445,6445,./labeled_data/object/6445.jpg,object
+5871,5871,./labeled_data/human object/5871.jpg,"human,object"
+8463,8463,./labeled_data/terrain/8463.jpg,terrain
+10942,10942,./labeled_data/object terrain/10942.jpg,"object,terrain"
+2048,2048,./labeled_data/human/2048.jpg,human
+13075,13075,./labeled_data/animal/13075.jpg,animal
+13665,13665,./labeled_data/animal/13665.jpg,animal
+7692,7692,./labeled_data/object/7692.jpg,object
+7415,7415,./labeled_data/object/7415.jpg,object
+11095,11095,./labeled_data/object terrain/11095.jpg,"object,terrain"
+8373,8373,./labeled_data/terrain/8373.jpg,terrain
+8186,8186,./labeled_data/object/8186.jpg,object
+12670,12670,./labeled_data/animal/12670.jpg,animal
+7569,7569,./labeled_data/object/7569.jpg,object
+8769,8769,./labeled_data/terrain/8769.jpg,terrain
+2169,2169,./labeled_data/human/2169.jpg,human
+14270,14270,./labeled_data/animal/14270.jpg,animal
+4761,4761,./labeled_data/human/4761.jpg,human
+5948,5948,./labeled_data/human object/5948.jpg,"human,object"
+12248,12248,./labeled_data/animal/12248.jpg,animal
+5195,5195,./labeled_data/human/5195.jpg,human
+14113,14113,./labeled_data/animal/14113.jpg,animal
+6146,6146,./labeled_data/object/6146.jpg,object
+4683,4683,./labeled_data/human/4683.jpg,human
+5450,5450,./labeled_data/human/5450.jpg,human
+12649,12649,./labeled_data/animal/12649.jpg,animal
+8348,8348,./labeled_data/terrain/8348.jpg,terrain
+1399,1399,./labeled_data/human/1399.jpg,human
+7169,7169,./labeled_data/object/7169.jpg,object
+8217,8217,./labeled_data/object/8217.jpg,object
+4036,4036,./labeled_data/human/4036.jpg,human
+6568,6568,./labeled_data/object/6568.jpg,object
+11302,11302,./labeled_data/object terrain/11302.jpg,"object,terrain"
+8068,8068,./labeled_data/object/8068.jpg,object
+10334,10334,./labeled_data/animal human/10334.jpg,"animal,human"
+9165,9165,./labeled_data/terrain/9165.jpg,terrain
+14019,14019,./labeled_data/animal/14019.jpg,animal
+8394,8394,./labeled_data/terrain/8394.jpg,terrain
+6683,6683,./labeled_data/object/6683.jpg,object
+627,627,./labeled_data/human/627.jpg,human
+1104,1104,./labeled_data/human/1104.jpg,human
+1285,1285,./labeled_data/human/1285.jpg,human
+4478,4478,./labeled_data/human/4478.jpg,human
+8290,8290,./labeled_data/terrain/8290.jpg,terrain
+2105,2105,./labeled_data/human/2105.jpg,human
+13251,13251,./labeled_data/animal/13251.jpg,animal
+11596,11596,./labeled_data/object terrain/11596.jpg,"object,terrain"
+9404,9404,./labeled_data/terrain/9404.jpg,terrain
+8347,8347,./labeled_data/terrain/8347.jpg,terrain
+5874,5874,./labeled_data/human object/5874.jpg,"human,object"
+3693,3693,./labeled_data/human/3693.jpg,human
+13074,13074,./labeled_data/animal/13074.jpg,animal
+10822,10822,./labeled_data/object terrain/10822.jpg,"object,terrain"
+2911,2911,./labeled_data/human/2911.jpg,human
+5207,5207,./labeled_data/human/5207.jpg,human
+7103,7103,./labeled_data/object/7103.jpg,object
+4219,4219,./labeled_data/human/4219.jpg,human
+12096,12096,./labeled_data/animal/12096.jpg,animal
+5919,5919,./labeled_data/human object/5919.jpg,"human,object"
+3217,3217,./labeled_data/human/3217.jpg,human
+12146,12146,./labeled_data/animal/12146.jpg,animal
+2680,2680,./labeled_data/human/2680.jpg,human
+1896,1896,./labeled_data/human/1896.jpg,human
+4446,4446,./labeled_data/human/4446.jpg,human
+6629,6629,./labeled_data/object/6629.jpg,object
+13607,13607,./labeled_data/animal/13607.jpg,animal
+14332,14332,./labeled_data/animal/14332.jpg,animal
+3923,3923,./labeled_data/human/3923.jpg,human
+11148,11148,./labeled_data/object terrain/11148.jpg,"object,terrain"
+11821,11821,./labeled_data/object terrain/11821.jpg,"object,terrain"
+13628,13628,./labeled_data/animal/13628.jpg,animal
+10492,10492,./labeled_data/animal human/10492.jpg,"animal,human"
+6823,6823,./labeled_data/object/6823.jpg,object
+12137,12137,./labeled_data/animal/12137.jpg,animal
+5521,5521,./labeled_data/human object/5521.jpg,"human,object"
+4423,4423,./labeled_data/human/4423.jpg,human
+4948,4948,./labeled_data/human/4948.jpg,human
+5815,5815,./labeled_data/human object/5815.jpg,"human,object"
+13522,13522,./labeled_data/animal/13522.jpg,animal
+3432,3432,./labeled_data/human/3432.jpg,human
+7386,7386,./labeled_data/object/7386.jpg,object
+2147,2147,./labeled_data/human/2147.jpg,human
+6960,6960,./labeled_data/object/6960.jpg,object
+11291,11291,./labeled_data/object terrain/11291.jpg,"object,terrain"
+6324,6324,./labeled_data/object/6324.jpg,object
+5727,5727,./labeled_data/human object/5727.jpg,"human,object"
+7570,7570,./labeled_data/object/7570.jpg,object
+540,540,./labeled_data/human/540.jpg,human
+5055,5055,./labeled_data/human/5055.jpg,human
+10710,10710,./labeled_data/object terrain/10710.jpg,"object,terrain"
+6606,6606,./labeled_data/object/6606.jpg,object
+5615,5615,./labeled_data/human object/5615.jpg,"human,object"
+5766,5766,./labeled_data/human object/5766.jpg,"human,object"
+6871,6871,./labeled_data/object/6871.jpg,object
+10298,10298,./labeled_data/animal object/10298.jpg,"animal,object"
+7673,7673,./labeled_data/object/7673.jpg,object
+671,671,./labeled_data/human/671.jpg,human
+2428,2428,./labeled_data/human/2428.jpg,human
+11936,11936,./labeled_data/object terrain/11936.jpg,"object,terrain"
+10743,10743,./labeled_data/object terrain/10743.jpg,"object,terrain"
+3902,3902,./labeled_data/human/3902.jpg,human
+9150,9150,./labeled_data/terrain/9150.jpg,terrain
+7298,7298,./labeled_data/object/7298.jpg,object
+12963,12963,./labeled_data/animal/12963.jpg,animal
+7735,7735,./labeled_data/object/7735.jpg,object
+12572,12572,./labeled_data/animal/12572.jpg,animal
+5762,5762,./labeled_data/human object/5762.jpg,"human,object"
+11995,11995,./labeled_data/animal/11995.jpg,animal
+3260,3260,./labeled_data/human/3260.jpg,human
+2031,2031,./labeled_data/human/2031.jpg,human
+3678,3678,./labeled_data/human/3678.jpg,human
+9737,9737,./labeled_data/terrain/9737.jpg,terrain
+524,524,./labeled_data/human/524.jpg,human
+13568,13568,./labeled_data/animal/13568.jpg,animal
+11259,11259,./labeled_data/object terrain/11259.jpg,"object,terrain"
+555,555,./labeled_data/human/555.jpg,human
+10116,10116,./labeled_data/human terrain/10116.jpg,"human,terrain"
+4732,4732,./labeled_data/human/4732.jpg,human
+13447,13447,./labeled_data/animal/13447.jpg,animal
+5256,5256,./labeled_data/human/5256.jpg,human
+10225,10225,./labeled_data/animal object/10225.jpg,"animal,object"
+11647,11647,./labeled_data/object terrain/11647.jpg,"object,terrain"
+13748,13748,./labeled_data/animal/13748.jpg,animal
+7260,7260,./labeled_data/object/7260.jpg,object
+4864,4864,./labeled_data/human/4864.jpg,human
+2972,2972,./labeled_data/human/2972.jpg,human
+6080,6080,./labeled_data/object/6080.jpg,object
+5026,5026,./labeled_data/human/5026.jpg,human
+7962,7962,./labeled_data/object/7962.jpg,object
+8581,8581,./labeled_data/terrain/8581.jpg,terrain
+805,805,./labeled_data/human/805.jpg,human
+201,201,./labeled_data/human/201.jpg,human
+13959,13959,./labeled_data/animal/13959.jpg,animal
+6575,6575,./labeled_data/object/6575.jpg,object
+11915,11915,./labeled_data/object terrain/11915.jpg,"object,terrain"
+9090,9090,./labeled_data/terrain/9090.jpg,terrain
+13695,13695,./labeled_data/animal/13695.jpg,animal
+12754,12754,./labeled_data/animal/12754.jpg,animal
+5038,5038,./labeled_data/human/5038.jpg,human
+2171,2171,./labeled_data/human/2171.jpg,human
+1631,1631,./labeled_data/human/1631.jpg,human
+7011,7011,./labeled_data/object/7011.jpg,object
+4577,4577,./labeled_data/human/4577.jpg,human
+11857,11857,./labeled_data/object terrain/11857.jpg,"object,terrain"
+6521,6521,./labeled_data/object/6521.jpg,object
+10267,10267,./labeled_data/animal object/10267.jpg,"animal,object"
+10805,10805,./labeled_data/object terrain/10805.jpg,"object,terrain"
+4215,4215,./labeled_data/human/4215.jpg,human
+4509,4509,./labeled_data/human/4509.jpg,human
+11330,11330,./labeled_data/object terrain/11330.jpg,"object,terrain"
+3179,3179,./labeled_data/human/3179.jpg,human
+4922,4922,./labeled_data/human/4922.jpg,human
+8411,8411,./labeled_data/terrain/8411.jpg,terrain
+8972,8972,./labeled_data/terrain/8972.jpg,terrain
+6266,6266,./labeled_data/object/6266.jpg,object
+13453,13453,./labeled_data/animal/13453.jpg,animal
+4811,4811,./labeled_data/human/4811.jpg,human
+12669,12669,./labeled_data/animal/12669.jpg,animal
+13678,13678,./labeled_data/animal/13678.jpg,animal
+13261,13261,./labeled_data/animal/13261.jpg,animal
+957,957,./labeled_data/human/957.jpg,human
+4014,4014,./labeled_data/human/4014.jpg,human
+11754,11754,./labeled_data/object terrain/11754.jpg,"object,terrain"
+13378,13378,./labeled_data/animal/13378.jpg,animal
+9201,9201,./labeled_data/terrain/9201.jpg,terrain
+12339,12339,./labeled_data/animal/12339.jpg,animal
+3065,3065,./labeled_data/human/3065.jpg,human
+5929,5929,./labeled_data/human object/5929.jpg,"human,object"
+363,363,./labeled_data/human/363.jpg,human
+3175,3175,./labeled_data/human/3175.jpg,human
+9195,9195,./labeled_data/terrain/9195.jpg,terrain
+10551,10551,./labeled_data/animal human/10551.jpg,"animal,human"
+2247,2247,./labeled_data/human/2247.jpg,human
+3098,3098,./labeled_data/human/3098.jpg,human
+12220,12220,./labeled_data/animal/12220.jpg,animal
+2224,2224,./labeled_data/human/2224.jpg,human
+3471,3471,./labeled_data/human/3471.jpg,human
+11224,11224,./labeled_data/object terrain/11224.jpg,"object,terrain"
+5969,5969,./labeled_data/human object/5969.jpg,"human,object"
+7938,7938,./labeled_data/object/7938.jpg,object
+8115,8115,./labeled_data/object/8115.jpg,object
+12109,12109,./labeled_data/animal/12109.jpg,animal
+2651,2651,./labeled_data/human/2651.jpg,human
+9899,9899,./labeled_data/human terrain/9899.jpg,"human,terrain"
+7573,7573,./labeled_data/object/7573.jpg,object
+1407,1407,./labeled_data/human/1407.jpg,human
+2580,2580,./labeled_data/human/2580.jpg,human
+12694,12694,./labeled_data/animal/12694.jpg,animal
+3595,3595,./labeled_data/human/3595.jpg,human
+8495,8495,./labeled_data/terrain/8495.jpg,terrain
+9421,9421,./labeled_data/terrain/9421.jpg,terrain
+11059,11059,./labeled_data/object terrain/11059.jpg,"object,terrain"
+3753,3753,./labeled_data/human/3753.jpg,human
+5833,5833,./labeled_data/human object/5833.jpg,"human,object"
+6968,6968,./labeled_data/object/6968.jpg,object
+11630,11630,./labeled_data/object terrain/11630.jpg,"object,terrain"
+1545,1545,./labeled_data/human/1545.jpg,human
+6995,6995,./labeled_data/object/6995.jpg,object
+2888,2888,./labeled_data/human/2888.jpg,human
+8232,8232,./labeled_data/object/8232.jpg,object
+378,378,./labeled_data/human/378.jpg,human
+1673,1673,./labeled_data/human/1673.jpg,human
+2675,2675,./labeled_data/human/2675.jpg,human
+9967,9967,./labeled_data/human terrain/9967.jpg,"human,terrain"
+9625,9625,./labeled_data/terrain/9625.jpg,terrain
+9903,9903,./labeled_data/human terrain/9903.jpg,"human,terrain"
+3373,3373,./labeled_data/human/3373.jpg,human
+13476,13476,./labeled_data/animal/13476.jpg,animal
+12905,12905,./labeled_data/animal/12905.jpg,animal
+4754,4754,./labeled_data/human/4754.jpg,human
+4431,4431,./labeled_data/human/4431.jpg,human
+12684,12684,./labeled_data/animal/12684.jpg,animal
+6548,6548,./labeled_data/object/6548.jpg,object
+12840,12840,./labeled_data/animal/12840.jpg,animal
+5514,5514,./labeled_data/human object/5514.jpg,"human,object"
+144,144,./labeled_data/human/144.jpg,human
+2136,2136,./labeled_data/human/2136.jpg,human
+13817,13817,./labeled_data/animal/13817.jpg,animal
+7970,7970,./labeled_data/object/7970.jpg,object
+5551,5551,./labeled_data/human object/5551.jpg,"human,object"
+12161,12161,./labeled_data/animal/12161.jpg,animal
+2192,2192,./labeled_data/human/2192.jpg,human
+310,310,./labeled_data/human/310.jpg,human
+6277,6277,./labeled_data/object/6277.jpg,object
+6793,6793,./labeled_data/object/6793.jpg,object
+6373,6373,./labeled_data/object/6373.jpg,object
+4064,4064,./labeled_data/human/4064.jpg,human
+1859,1859,./labeled_data/human/1859.jpg,human
+8153,8153,./labeled_data/object/8153.jpg,object
+7471,7471,./labeled_data/object/7471.jpg,object
+1924,1924,./labeled_data/human/1924.jpg,human
+350,350,./labeled_data/human/350.jpg,human
+11238,11238,./labeled_data/object terrain/11238.jpg,"object,terrain"
+5053,5053,./labeled_data/human/5053.jpg,human
+8288,8288,./labeled_data/terrain/8288.jpg,terrain
+4980,4980,./labeled_data/human/4980.jpg,human
+13100,13100,./labeled_data/animal/13100.jpg,animal
+13519,13519,./labeled_data/animal/13519.jpg,animal
+5014,5014,./labeled_data/human/5014.jpg,human
+13539,13539,./labeled_data/animal/13539.jpg,animal
+8762,8762,./labeled_data/terrain/8762.jpg,terrain
+7282,7282,./labeled_data/object/7282.jpg,object
+5917,5917,./labeled_data/human object/5917.jpg,"human,object"
+14127,14127,./labeled_data/animal/14127.jpg,animal
+1844,1844,./labeled_data/human/1844.jpg,human
+2029,2029,./labeled_data/human/2029.jpg,human
+6935,6935,./labeled_data/object/6935.jpg,object
+4616,4616,./labeled_data/human/4616.jpg,human
+12553,12553,./labeled_data/animal/12553.jpg,animal
+752,752,./labeled_data/human/752.jpg,human
+7785,7785,./labeled_data/object/7785.jpg,object
+14195,14195,./labeled_data/animal/14195.jpg,animal
+11073,11073,./labeled_data/object terrain/11073.jpg,"object,terrain"
+13688,13688,./labeled_data/animal/13688.jpg,animal
+9564,9564,./labeled_data/terrain/9564.jpg,terrain
+3841,3841,./labeled_data/human/3841.jpg,human
+12437,12437,./labeled_data/animal/12437.jpg,animal
+11202,11202,./labeled_data/object terrain/11202.jpg,"object,terrain"
+13455,13455,./labeled_data/animal/13455.jpg,animal
+7153,7153,./labeled_data/object/7153.jpg,object
+12460,12460,./labeled_data/animal/12460.jpg,animal
+5150,5150,./labeled_data/human/5150.jpg,human
+4105,4105,./labeled_data/human/4105.jpg,human
+7399,7399,./labeled_data/object/7399.jpg,object
+8443,8443,./labeled_data/terrain/8443.jpg,terrain
+7877,7877,./labeled_data/object/7877.jpg,object
+9349,9349,./labeled_data/terrain/9349.jpg,terrain
+10392,10392,./labeled_data/animal human/10392.jpg,"animal,human"
+2604,2604,./labeled_data/human/2604.jpg,human
+5131,5131,./labeled_data/human/5131.jpg,human
+4631,4631,./labeled_data/human/4631.jpg,human
+4828,4828,./labeled_data/human/4828.jpg,human
+9646,9646,./labeled_data/terrain/9646.jpg,terrain
+8804,8804,./labeled_data/terrain/8804.jpg,terrain
+3681,3681,./labeled_data/human/3681.jpg,human
+2005,2005,./labeled_data/human/2005.jpg,human
+5163,5163,./labeled_data/human/5163.jpg,human
+616,616,./labeled_data/human/616.jpg,human
+3513,3513,./labeled_data/human/3513.jpg,human
+2014,2014,./labeled_data/human/2014.jpg,human
+981,981,./labeled_data/human/981.jpg,human
+3012,3012,./labeled_data/human/3012.jpg,human
+7530,7530,./labeled_data/object/7530.jpg,object
+5240,5240,./labeled_data/human/5240.jpg,human
+9273,9273,./labeled_data/terrain/9273.jpg,terrain
+4593,4593,./labeled_data/human/4593.jpg,human
+9993,9993,./labeled_data/human terrain/9993.jpg,"human,terrain"
+6369,6369,./labeled_data/object/6369.jpg,object
+12021,12021,./labeled_data/animal/12021.jpg,animal
+8139,8139,./labeled_data/object/8139.jpg,object
+14040,14040,./labeled_data/animal/14040.jpg,animal
+1671,1671,./labeled_data/human/1671.jpg,human
+2601,2601,./labeled_data/human/2601.jpg,human
+14029,14029,./labeled_data/animal/14029.jpg,animal
+13456,13456,./labeled_data/animal/13456.jpg,animal
+1067,1067,./labeled_data/human/1067.jpg,human
+4055,4055,./labeled_data/human/4055.jpg,human
+8749,8749,./labeled_data/terrain/8749.jpg,terrain
+6800,6800,./labeled_data/object/6800.jpg,object
+4238,4238,./labeled_data/human/4238.jpg,human
+2758,2758,./labeled_data/human/2758.jpg,human
+12592,12592,./labeled_data/animal/12592.jpg,animal
+12192,12192,./labeled_data/animal/12192.jpg,animal
+4430,4430,./labeled_data/human/4430.jpg,human
+5663,5663,./labeled_data/human object/5663.jpg,"human,object"
+232,232,./labeled_data/human/232.jpg,human
+13604,13604,./labeled_data/animal/13604.jpg,animal
+13292,13292,./labeled_data/animal/13292.jpg,animal
+13722,13722,./labeled_data/animal/13722.jpg,animal
+12421,12421,./labeled_data/animal/12421.jpg,animal
+10966,10966,./labeled_data/object terrain/10966.jpg,"object,terrain"
+8131,8131,./labeled_data/object/8131.jpg,object
+6816,6816,./labeled_data/object/6816.jpg,object
+6875,6875,./labeled_data/object/6875.jpg,object
+12362,12362,./labeled_data/animal/12362.jpg,animal
+4251,4251,./labeled_data/human/4251.jpg,human
+10626,10626,./labeled_data/object terrain/10626.jpg,"object,terrain"
+3791,3791,./labeled_data/human/3791.jpg,human
+8930,8930,./labeled_data/terrain/8930.jpg,terrain
+8737,8737,./labeled_data/terrain/8737.jpg,terrain
+6293,6293,./labeled_data/object/6293.jpg,object
+6551,6551,./labeled_data/object/6551.jpg,object
+10797,10797,./labeled_data/object terrain/10797.jpg,"object,terrain"
+8549,8549,./labeled_data/terrain/8549.jpg,terrain
+2032,2032,./labeled_data/human/2032.jpg,human
+12623,12623,./labeled_data/animal/12623.jpg,animal
+7183,7183,./labeled_data/object/7183.jpg,object
+3630,3630,./labeled_data/human/3630.jpg,human
+13531,13531,./labeled_data/animal/13531.jpg,animal
+1714,1714,./labeled_data/human/1714.jpg,human
+3342,3342,./labeled_data/human/3342.jpg,human
+12312,12312,./labeled_data/animal/12312.jpg,animal
+7929,7929,./labeled_data/object/7929.jpg,object
+2576,2576,./labeled_data/human/2576.jpg,human
+10693,10693,./labeled_data/object terrain/10693.jpg,"object,terrain"
+13176,13176,./labeled_data/animal/13176.jpg,animal
+2731,2731,./labeled_data/human/2731.jpg,human
+10883,10883,./labeled_data/object terrain/10883.jpg,"object,terrain"
+3719,3719,./labeled_data/human/3719.jpg,human
+4072,4072,./labeled_data/human/4072.jpg,human
+12206,12206,./labeled_data/animal/12206.jpg,animal
+9788,9788,./labeled_data/human terrain/9788.jpg,"human,terrain"
+10222,10222,./labeled_data/human terrain/10222.jpg,"human,terrain"
+6594,6594,./labeled_data/object/6594.jpg,object
+12253,12253,./labeled_data/animal/12253.jpg,animal
+5454,5454,./labeled_data/human/5454.jpg,human
+9929,9929,./labeled_data/human terrain/9929.jpg,"human,terrain"
+13148,13148,./labeled_data/animal/13148.jpg,animal
+12082,12082,./labeled_data/animal/12082.jpg,animal
+4787,4787,./labeled_data/human/4787.jpg,human
+2416,2416,./labeled_data/human/2416.jpg,human
+645,645,./labeled_data/human/645.jpg,human
+4307,4307,./labeled_data/human/4307.jpg,human
+13361,13361,./labeled_data/animal/13361.jpg,animal
+5092,5092,./labeled_data/human/5092.jpg,human
+5001,5001,./labeled_data/human/5001.jpg,human
+9506,9506,./labeled_data/terrain/9506.jpg,terrain
+1989,1989,./labeled_data/human/1989.jpg,human
+9339,9339,./labeled_data/terrain/9339.jpg,terrain
+14143,14143,./labeled_data/animal/14143.jpg,animal
+14083,14083,./labeled_data/animal/14083.jpg,animal
+2970,2970,./labeled_data/human/2970.jpg,human
+11292,11292,./labeled_data/object terrain/11292.jpg,"object,terrain"
+12452,12452,./labeled_data/animal/12452.jpg,animal
+4185,4185,./labeled_data/human/4185.jpg,human
+5404,5404,./labeled_data/human/5404.jpg,human
+3534,3534,./labeled_data/human/3534.jpg,human
+1306,1306,./labeled_data/human/1306.jpg,human
+2090,2090,./labeled_data/human/2090.jpg,human
+2803,2803,./labeled_data/human/2803.jpg,human
+5654,5654,./labeled_data/human object/5654.jpg,"human,object"
+13246,13246,./labeled_data/animal/13246.jpg,animal
+9306,9306,./labeled_data/terrain/9306.jpg,terrain
+7690,7690,./labeled_data/object/7690.jpg,object
+12597,12597,./labeled_data/animal/12597.jpg,animal
+6838,6838,./labeled_data/object/6838.jpg,object
+2263,2263,./labeled_data/human/2263.jpg,human
+10818,10818,./labeled_data/object terrain/10818.jpg,"object,terrain"
+3284,3284,./labeled_data/human/3284.jpg,human
+7131,7131,./labeled_data/object/7131.jpg,object
+14147,14147,./labeled_data/animal/14147.jpg,animal
+7529,7529,./labeled_data/object/7529.jpg,object
+348,348,./labeled_data/human/348.jpg,human
+633,633,./labeled_data/human/633.jpg,human
+6022,6022,./labeled_data/object/6022.jpg,object
+2448,2448,./labeled_data/human/2448.jpg,human
+7829,7829,./labeled_data/object/7829.jpg,object
+8900,8900,./labeled_data/terrain/8900.jpg,terrain
+6654,6654,./labeled_data/object/6654.jpg,object
+12413,12413,./labeled_data/animal/12413.jpg,animal
+13552,13552,./labeled_data/animal/13552.jpg,animal
+7133,7133,./labeled_data/object/7133.jpg,object
+10039,10039,./labeled_data/human terrain/10039.jpg,"human,terrain"
+230,230,./labeled_data/human/230.jpg,human
+4397,4397,./labeled_data/human/4397.jpg,human
+3621,3621,./labeled_data/human/3621.jpg,human
+11773,11773,./labeled_data/object terrain/11773.jpg,"object,terrain"
+2927,2927,./labeled_data/human/2927.jpg,human
+1272,1272,./labeled_data/human/1272.jpg,human
+10668,10668,./labeled_data/object terrain/10668.jpg,"object,terrain"
+548,548,./labeled_data/human/548.jpg,human
+7521,7521,./labeled_data/object/7521.jpg,object
+7926,7926,./labeled_data/object/7926.jpg,object
+3168,3168,./labeled_data/human/3168.jpg,human
+13446,13446,./labeled_data/animal/13446.jpg,animal
+7466,7466,./labeled_data/object/7466.jpg,object
+7277,7277,./labeled_data/object/7277.jpg,object
+9266,9266,./labeled_data/terrain/9266.jpg,terrain
+285,285,./labeled_data/human/285.jpg,human
+6139,6139,./labeled_data/object/6139.jpg,object
+8574,8574,./labeled_data/terrain/8574.jpg,terrain
+6397,6397,./labeled_data/object/6397.jpg,object
+2058,2058,./labeled_data/human/2058.jpg,human
+9337,9337,./labeled_data/terrain/9337.jpg,terrain
+10706,10706,./labeled_data/object terrain/10706.jpg,"object,terrain"
+11130,11130,./labeled_data/object terrain/11130.jpg,"object,terrain"
+3411,3411,./labeled_data/human/3411.jpg,human
+12609,12609,./labeled_data/animal/12609.jpg,animal
+7374,7374,./labeled_data/object/7374.jpg,object
+4542,4542,./labeled_data/human/4542.jpg,human
+11418,11418,./labeled_data/object terrain/11418.jpg,"object,terrain"
+9456,9456,./labeled_data/terrain/9456.jpg,terrain
+12397,12397,./labeled_data/animal/12397.jpg,animal
+4454,4454,./labeled_data/human/4454.jpg,human
+2594,2594,./labeled_data/human/2594.jpg,human
+4860,4860,./labeled_data/human/4860.jpg,human
+788,788,./labeled_data/human/788.jpg,human
+545,545,./labeled_data/human/545.jpg,human
+8907,8907,./labeled_data/terrain/8907.jpg,terrain
+10333,10333,./labeled_data/animal human/10333.jpg,"animal,human"
+4037,4037,./labeled_data/human/4037.jpg,human
+5261,5261,./labeled_data/human/5261.jpg,human
+4391,4391,./labeled_data/human/4391.jpg,human
+2919,2919,./labeled_data/human/2919.jpg,human
+7358,7358,./labeled_data/object/7358.jpg,object
+7203,7203,./labeled_data/object/7203.jpg,object
+5855,5855,./labeled_data/human object/5855.jpg,"human,object"
+11701,11701,./labeled_data/object terrain/11701.jpg,"object,terrain"
+13396,13396,./labeled_data/animal/13396.jpg,animal
+4323,4323,./labeled_data/human/4323.jpg,human
+3770,3770,./labeled_data/human/3770.jpg,human
+7025,7025,./labeled_data/object/7025.jpg,object
+10995,10995,./labeled_data/object terrain/10995.jpg,"object,terrain"
+13467,13467,./labeled_data/animal/13467.jpg,animal
+2849,2849,./labeled_data/human/2849.jpg,human
+9151,9151,./labeled_data/terrain/9151.jpg,terrain
+4707,4707,./labeled_data/human/4707.jpg,human
+9957,9957,./labeled_data/human terrain/9957.jpg,"human,terrain"
+9561,9561,./labeled_data/terrain/9561.jpg,terrain
+6464,6464,./labeled_data/object/6464.jpg,object
+10029,10029,./labeled_data/human terrain/10029.jpg,"human,terrain"
+13942,13942,./labeled_data/animal/13942.jpg,animal
+3430,3430,./labeled_data/human/3430.jpg,human
+2370,2370,./labeled_data/human/2370.jpg,human
+6386,6386,./labeled_data/object/6386.jpg,object
+7016,7016,./labeled_data/object/7016.jpg,object
+1503,1503,./labeled_data/human/1503.jpg,human
+6912,6912,./labeled_data/object/6912.jpg,object
+5132,5132,./labeled_data/human/5132.jpg,human
+10658,10658,./labeled_data/object terrain/10658.jpg,"object,terrain"
+12937,12937,./labeled_data/animal/12937.jpg,animal
+929,929,./labeled_data/human/929.jpg,human
+5539,5539,./labeled_data/human object/5539.jpg,"human,object"
+1083,1083,./labeled_data/human/1083.jpg,human
+14086,14086,./labeled_data/animal/14086.jpg,animal
+12410,12410,./labeled_data/animal/12410.jpg,animal
+9951,9951,./labeled_data/human terrain/9951.jpg,"human,terrain"
+8439,8439,./labeled_data/terrain/8439.jpg,terrain
+7605,7605,./labeled_data/object/7605.jpg,object
+5336,5336,./labeled_data/human/5336.jpg,human
+514,514,./labeled_data/human/514.jpg,human
+4579,4579,./labeled_data/human/4579.jpg,human
+9638,9638,./labeled_data/terrain/9638.jpg,terrain
+13769,13769,./labeled_data/animal/13769.jpg,animal
+6248,6248,./labeled_data/object/6248.jpg,object
+3617,3617,./labeled_data/human/3617.jpg,human
+7321,7321,./labeled_data/object/7321.jpg,object
+4547,4547,./labeled_data/human/4547.jpg,human
+12379,12379,./labeled_data/animal/12379.jpg,animal
+5773,5773,./labeled_data/human object/5773.jpg,"human,object"
+4246,4246,./labeled_data/human/4246.jpg,human
+11871,11871,./labeled_data/object terrain/11871.jpg,"object,terrain"
+9485,9485,./labeled_data/terrain/9485.jpg,terrain
+14209,14209,./labeled_data/animal/14209.jpg,animal
+4329,4329,./labeled_data/human/4329.jpg,human
+13083,13083,./labeled_data/animal/13083.jpg,animal
+1195,1195,./labeled_data/human/1195.jpg,human
+3252,3252,./labeled_data/human/3252.jpg,human
+9232,9232,./labeled_data/terrain/9232.jpg,terrain
+5518,5518,./labeled_data/human object/5518.jpg,"human,object"
+392,392,./labeled_data/human/392.jpg,human
+3238,3238,./labeled_data/human/3238.jpg,human
+7920,7920,./labeled_data/object/7920.jpg,object
+3437,3437,./labeled_data/human/3437.jpg,human
+5280,5280,./labeled_data/human/5280.jpg,human
+8801,8801,./labeled_data/terrain/8801.jpg,terrain
+7660,7660,./labeled_data/object/7660.jpg,object
+9534,9534,./labeled_data/terrain/9534.jpg,terrain
+11236,11236,./labeled_data/object terrain/11236.jpg,"object,terrain"
+2666,2666,./labeled_data/human/2666.jpg,human
+4721,4721,./labeled_data/human/4721.jpg,human
+1539,1539,./labeled_data/human/1539.jpg,human
+9130,9130,./labeled_data/terrain/9130.jpg,terrain
+6158,6158,./labeled_data/object/6158.jpg,object
+3988,3988,./labeled_data/human/3988.jpg,human
+5326,5326,./labeled_data/human/5326.jpg,human
+5003,5003,./labeled_data/human/5003.jpg,human
+2471,2471,./labeled_data/human/2471.jpg,human
+11414,11414,./labeled_data/object terrain/11414.jpg,"object,terrain"
+13036,13036,./labeled_data/animal/13036.jpg,animal
+2759,2759,./labeled_data/human/2759.jpg,human
+10803,10803,./labeled_data/object terrain/10803.jpg,"object,terrain"
+6096,6096,./labeled_data/object/6096.jpg,object
+6103,6103,./labeled_data/object/6103.jpg,object
+7152,7152,./labeled_data/object/7152.jpg,object
+12932,12932,./labeled_data/animal/12932.jpg,animal
+10792,10792,./labeled_data/object terrain/10792.jpg,"object,terrain"
+11361,11361,./labeled_data/object terrain/11361.jpg,"object,terrain"
+8171,8171,./labeled_data/object/8171.jpg,object
+4737,4737,./labeled_data/human/4737.jpg,human
+7434,7434,./labeled_data/object/7434.jpg,object
+5360,5360,./labeled_data/human/5360.jpg,human
+14064,14064,./labeled_data/animal/14064.jpg,animal
+3699,3699,./labeled_data/human/3699.jpg,human
+3017,3017,./labeled_data/human/3017.jpg,human
+9998,9998,./labeled_data/human terrain/9998.jpg,"human,terrain"
+4862,4862,./labeled_data/human/4862.jpg,human
+3321,3321,./labeled_data/human/3321.jpg,human
+5469,5469,./labeled_data/human/5469.jpg,human
+13869,13869,./labeled_data/animal/13869.jpg,animal
+3835,3835,./labeled_data/human/3835.jpg,human
+12115,12115,./labeled_data/animal/12115.jpg,animal
+12351,12351,./labeled_data/animal/12351.jpg,animal
+3780,3780,./labeled_data/human/3780.jpg,human
+6835,6835,./labeled_data/object/6835.jpg,object
+4324,4324,./labeled_data/human/4324.jpg,human
+773,773,./labeled_data/human/773.jpg,human
+10830,10830,./labeled_data/object terrain/10830.jpg,"object,terrain"
+7959,7959,./labeled_data/object/7959.jpg,object
+6986,6986,./labeled_data/object/6986.jpg,object
+13448,13448,./labeled_data/animal/13448.jpg,animal
+1431,1431,./labeled_data/human/1431.jpg,human
+2703,2703,./labeled_data/human/2703.jpg,human
+1144,1144,./labeled_data/human/1144.jpg,human
+2402,2402,./labeled_data/human/2402.jpg,human
+3566,3566,./labeled_data/human/3566.jpg,human
+6065,6065,./labeled_data/object/6065.jpg,object
+1808,1808,./labeled_data/human/1808.jpg,human
+1828,1828,./labeled_data/human/1828.jpg,human
+1847,1847,./labeled_data/human/1847.jpg,human
+1182,1182,./labeled_data/human/1182.jpg,human
+10363,10363,./labeled_data/animal human/10363.jpg,"animal,human"
+10007,10007,./labeled_data/human terrain/10007.jpg,"human,terrain"
+10885,10885,./labeled_data/object terrain/10885.jpg,"object,terrain"
+8151,8151,./labeled_data/object/8151.jpg,object
+5081,5081,./labeled_data/human/5081.jpg,human
+9083,9083,./labeled_data/terrain/9083.jpg,terrain
+13980,13980,./labeled_data/animal/13980.jpg,animal
+11432,11432,./labeled_data/object terrain/11432.jpg,"object,terrain"
+7256,7256,./labeled_data/object/7256.jpg,object
+1189,1189,./labeled_data/human/1189.jpg,human
+1717,1717,./labeled_data/human/1717.jpg,human
+822,822,./labeled_data/human/822.jpg,human
+4796,4796,./labeled_data/human/4796.jpg,human
+4733,4733,./labeled_data/human/4733.jpg,human
+6789,6789,./labeled_data/object/6789.jpg,object
+6371,6371,./labeled_data/object/6371.jpg,object
+6104,6104,./labeled_data/object/6104.jpg,object
+12434,12434,./labeled_data/animal/12434.jpg,animal
+9318,9318,./labeled_data/terrain/9318.jpg,terrain
+10580,10580,./labeled_data/animal human/10580.jpg,"animal,human"
+14088,14088,./labeled_data/animal/14088.jpg,animal
+710,710,./labeled_data/human/710.jpg,human
+1344,1344,./labeled_data/human/1344.jpg,human
+3138,3138,./labeled_data/human/3138.jpg,human
+603,603,./labeled_data/human/603.jpg,human
+1473,1473,./labeled_data/human/1473.jpg,human
+4436,4436,./labeled_data/human/4436.jpg,human
+2264,2264,./labeled_data/human/2264.jpg,human
+5205,5205,./labeled_data/human/5205.jpg,human
+10621,10621,./labeled_data/object terrain/10621.jpg,"object,terrain"
+1988,1988,./labeled_data/human/1988.jpg,human
+8383,8383,./labeled_data/terrain/8383.jpg,terrain
+13686,13686,./labeled_data/animal/13686.jpg,animal
+13413,13413,./labeled_data/animal/13413.jpg,animal
+13491,13491,./labeled_data/animal/13491.jpg,animal
+1347,1347,./labeled_data/human/1347.jpg,human
+4404,4404,./labeled_data/human/4404.jpg,human
+1222,1222,./labeled_data/human/1222.jpg,human
+13651,13651,./labeled_data/animal/13651.jpg,animal
+5202,5202,./labeled_data/human/5202.jpg,human
+7023,7023,./labeled_data/object/7023.jpg,object
+6077,6077,./labeled_data/object/6077.jpg,object
+13566,13566,./labeled_data/animal/13566.jpg,animal
+11503,11503,./labeled_data/object terrain/11503.jpg,"object,terrain"
+7417,7417,./labeled_data/object/7417.jpg,object
+24,24,./labeled_data/human/24.jpg,human
+9007,9007,./labeled_data/terrain/9007.jpg,terrain
+8530,8530,./labeled_data/terrain/8530.jpg,terrain
+13545,13545,./labeled_data/animal/13545.jpg,animal
+3322,3322,./labeled_data/human/3322.jpg,human
+3311,3311,./labeled_data/human/3311.jpg,human
+9742,9742,./labeled_data/terrain/9742.jpg,terrain
+8880,8880,./labeled_data/terrain/8880.jpg,terrain
+8690,8690,./labeled_data/terrain/8690.jpg,terrain
+970,970,./labeled_data/human/970.jpg,human
+7784,7784,./labeled_data/object/7784.jpg,object
+12822,12822,./labeled_data/animal/12822.jpg,animal
+11493,11493,./labeled_data/object terrain/11493.jpg,"object,terrain"
+10080,10080,./labeled_data/human terrain/10080.jpg,"human,terrain"
+12908,12908,./labeled_data/animal/12908.jpg,animal
+4330,4330,./labeled_data/human/4330.jpg,human
+6894,6894,./labeled_data/object/6894.jpg,object
+4386,4386,./labeled_data/human/4386.jpg,human
+10491,10491,./labeled_data/animal human/10491.jpg,"animal,human"
+12506,12506,./labeled_data/animal/12506.jpg,animal
+1675,1675,./labeled_data/human/1675.jpg,human
+1811,1811,./labeled_data/human/1811.jpg,human
+3885,3885,./labeled_data/human/3885.jpg,human
+9095,9095,./labeled_data/terrain/9095.jpg,terrain
+6562,6562,./labeled_data/object/6562.jpg,object
+9851,9851,./labeled_data/human terrain/9851.jpg,"human,terrain"
+772,772,./labeled_data/human/772.jpg,human
+13744,13744,./labeled_data/animal/13744.jpg,animal
+2084,2084,./labeled_data/human/2084.jpg,human
+12081,12081,./labeled_data/animal/12081.jpg,animal
+1307,1307,./labeled_data/human/1307.jpg,human
+12653,12653,./labeled_data/animal/12653.jpg,animal
+5021,5021,./labeled_data/human/5021.jpg,human
+8133,8133,./labeled_data/object/8133.jpg,object
+12045,12045,./labeled_data/animal/12045.jpg,animal
+3944,3944,./labeled_data/human/3944.jpg,human
+9407,9407,./labeled_data/terrain/9407.jpg,terrain
+2467,2467,./labeled_data/human/2467.jpg,human
+7335,7335,./labeled_data/object/7335.jpg,object
+4807,4807,./labeled_data/human/4807.jpg,human
+10504,10504,./labeled_data/animal human/10504.jpg,"animal,human"
+8493,8493,./labeled_data/terrain/8493.jpg,terrain
+9568,9568,./labeled_data/terrain/9568.jpg,terrain
+6591,6591,./labeled_data/object/6591.jpg,object
+4091,4091,./labeled_data/human/4091.jpg,human
+11047,11047,./labeled_data/object terrain/11047.jpg,"object,terrain"
+4905,4905,./labeled_data/human/4905.jpg,human
+10695,10695,./labeled_data/object terrain/10695.jpg,"object,terrain"
+7577,7577,./labeled_data/object/7577.jpg,object
+11050,11050,./labeled_data/object terrain/11050.jpg,"object,terrain"
+3502,3502,./labeled_data/human/3502.jpg,human
+604,604,./labeled_data/human/604.jpg,human
+5578,5578,./labeled_data/human object/5578.jpg,"human,object"
+9975,9975,./labeled_data/human terrain/9975.jpg,"human,terrain"
+5541,5541,./labeled_data/human object/5541.jpg,"human,object"
+2783,2783,./labeled_data/human/2783.jpg,human
+95,95,./labeled_data/human/95.jpg,human
+11450,11450,./labeled_data/object terrain/11450.jpg,"object,terrain"
+6554,6554,./labeled_data/object/6554.jpg,object
+11217,11217,./labeled_data/object terrain/11217.jpg,"object,terrain"
+873,873,./labeled_data/human/873.jpg,human
+11182,11182,./labeled_data/object terrain/11182.jpg,"object,terrain"
+877,877,./labeled_data/human/877.jpg,human
+3938,3938,./labeled_data/human/3938.jpg,human
+753,753,./labeled_data/human/753.jpg,human
+621,621,./labeled_data/human/621.jpg,human
+7001,7001,./labeled_data/object/7001.jpg,object
+9258,9258,./labeled_data/terrain/9258.jpg,terrain
+5358,5358,./labeled_data/human/5358.jpg,human
+12459,12459,./labeled_data/animal/12459.jpg,animal
+3134,3134,./labeled_data/human/3134.jpg,human
+11132,11132,./labeled_data/object terrain/11132.jpg,"object,terrain"
+13498,13498,./labeled_data/animal/13498.jpg,animal
+7248,7248,./labeled_data/object/7248.jpg,object
+1216,1216,./labeled_data/human/1216.jpg,human
+2326,2326,./labeled_data/human/2326.jpg,human
+2481,2481,./labeled_data/human/2481.jpg,human
+11912,11912,./labeled_data/object terrain/11912.jpg,"object,terrain"
+8384,8384,./labeled_data/terrain/8384.jpg,terrain
+2663,2663,./labeled_data/human/2663.jpg,human
+8412,8412,./labeled_data/terrain/8412.jpg,terrain
+4847,4847,./labeled_data/human/4847.jpg,human
+5278,5278,./labeled_data/human/5278.jpg,human
+12278,12278,./labeled_data/animal/12278.jpg,animal
+11163,11163,./labeled_data/object terrain/11163.jpg,"object,terrain"
+10788,10788,./labeled_data/object terrain/10788.jpg,"object,terrain"
+4919,4919,./labeled_data/human/4919.jpg,human
+10299,10299,./labeled_data/animal object/10299.jpg,"animal,object"
+12769,12769,./labeled_data/animal/12769.jpg,animal
+5942,5942,./labeled_data/human object/5942.jpg,"human,object"
+13117,13117,./labeled_data/animal/13117.jpg,animal
+8143,8143,./labeled_data/object/8143.jpg,object
+12251,12251,./labeled_data/animal/12251.jpg,animal
+7857,7857,./labeled_data/object/7857.jpg,object
+11790,11790,./labeled_data/object terrain/11790.jpg,"object,terrain"
+10657,10657,./labeled_data/object terrain/10657.jpg,"object,terrain"
+98,98,./labeled_data/human/98.jpg,human
+9683,9683,./labeled_data/terrain/9683.jpg,terrain
+7334,7334,./labeled_data/object/7334.jpg,object
+1363,1363,./labeled_data/human/1363.jpg,human
+12208,12208,./labeled_data/animal/12208.jpg,animal
+13685,13685,./labeled_data/animal/13685.jpg,animal
+794,794,./labeled_data/human/794.jpg,human
+7174,7174,./labeled_data/object/7174.jpg,object
+12982,12982,./labeled_data/animal/12982.jpg,animal
+12928,12928,./labeled_data/animal/12928.jpg,animal
+4356,4356,./labeled_data/human/4356.jpg,human
+2836,2836,./labeled_data/human/2836.jpg,human
+12075,12075,./labeled_data/animal/12075.jpg,animal
+4729,4729,./labeled_data/human/4729.jpg,human
+1762,1762,./labeled_data/human/1762.jpg,human
+8025,8025,./labeled_data/object/8025.jpg,object
+10777,10777,./labeled_data/object terrain/10777.jpg,"object,terrain"
+5868,5868,./labeled_data/human object/5868.jpg,"human,object"
+8573,8573,./labeled_data/terrain/8573.jpg,terrain
+4393,4393,./labeled_data/human/4393.jpg,human
+12204,12204,./labeled_data/animal/12204.jpg,animal
+6608,6608,./labeled_data/object/6608.jpg,object
+10815,10815,./labeled_data/object terrain/10815.jpg,"object,terrain"
+145,145,./labeled_data/human/145.jpg,human
+1821,1821,./labeled_data/human/1821.jpg,human
+3629,3629,./labeled_data/human/3629.jpg,human
+340,340,./labeled_data/human/340.jpg,human
+1777,1777,./labeled_data/human/1777.jpg,human
+6748,6748,./labeled_data/object/6748.jpg,object
+13616,13616,./labeled_data/animal/13616.jpg,animal
+9152,9152,./labeled_data/terrain/9152.jpg,terrain
+4728,4728,./labeled_data/human/4728.jpg,human
+7585,7585,./labeled_data/object/7585.jpg,object
+10867,10867,./labeled_data/object terrain/10867.jpg,"object,terrain"
+8425,8425,./labeled_data/terrain/8425.jpg,terrain
+11947,11947,./labeled_data/object terrain/11947.jpg,"object,terrain"
+13351,13351,./labeled_data/animal/13351.jpg,animal
+12969,12969,./labeled_data/animal/12969.jpg,animal
+5911,5911,./labeled_data/human object/5911.jpg,"human,object"
+8948,8948,./labeled_data/terrain/8948.jpg,terrain
+9492,9492,./labeled_data/terrain/9492.jpg,terrain
+8986,8986,./labeled_data/terrain/8986.jpg,terrain
+7561,7561,./labeled_data/object/7561.jpg,object
+12508,12508,./labeled_data/animal/12508.jpg,animal
+11213,11213,./labeled_data/object terrain/11213.jpg,"object,terrain"
+10811,10811,./labeled_data/object terrain/10811.jpg,"object,terrain"
+14125,14125,./labeled_data/animal/14125.jpg,animal
+11862,11862,./labeled_data/object terrain/11862.jpg,"object,terrain"
+14008,14008,./labeled_data/animal/14008.jpg,animal
+8214,8214,./labeled_data/object/8214.jpg,object
+10637,10637,./labeled_data/object terrain/10637.jpg,"object,terrain"
+6165,6165,./labeled_data/object/6165.jpg,object
+6690,6690,./labeled_data/object/6690.jpg,object
+13692,13692,./labeled_data/animal/13692.jpg,animal
+5781,5781,./labeled_data/human object/5781.jpg,"human,object"
+5023,5023,./labeled_data/human/5023.jpg,human
+10868,10868,./labeled_data/object terrain/10868.jpg,"object,terrain"
+10601,10601,./labeled_data/object terrain/10601.jpg,"object,terrain"
+1124,1124,./labeled_data/human/1124.jpg,human
+4712,4712,./labeled_data/human/4712.jpg,human
+1320,1320,./labeled_data/human/1320.jpg,human
+11797,11797,./labeled_data/object terrain/11797.jpg,"object,terrain"
+1338,1338,./labeled_data/human/1338.jpg,human
+5707,5707,./labeled_data/human object/5707.jpg,"human,object"
+1635,1635,./labeled_data/human/1635.jpg,human
+6625,6625,./labeled_data/object/6625.jpg,object
+13879,13879,./labeled_data/animal/13879.jpg,animal
+11901,11901,./labeled_data/object terrain/11901.jpg,"object,terrain"
+9136,9136,./labeled_data/terrain/9136.jpg,terrain
+11971,11971,./labeled_data/object terrain/11971.jpg,"object,terrain"
+11955,11955,./labeled_data/object terrain/11955.jpg,"object,terrain"
+5039,5039,./labeled_data/human/5039.jpg,human
+6669,6669,./labeled_data/object/6669.jpg,object
+8866,8866,./labeled_data/terrain/8866.jpg,terrain
+6580,6580,./labeled_data/object/6580.jpg,object
+4822,4822,./labeled_data/human/4822.jpg,human
+9361,9361,./labeled_data/terrain/9361.jpg,terrain
+6478,6478,./labeled_data/object/6478.jpg,object
+212,212,./labeled_data/human/212.jpg,human
+6485,6485,./labeled_data/object/6485.jpg,object
+7756,7756,./labeled_data/object/7756.jpg,object
+7445,7445,./labeled_data/object/7445.jpg,object
+2837,2837,./labeled_data/human/2837.jpg,human
+5838,5838,./labeled_data/human object/5838.jpg,"human,object"
+5122,5122,./labeled_data/human/5122.jpg,human
+3884,3884,./labeled_data/human/3884.jpg,human
+7557,7557,./labeled_data/object/7557.jpg,object
+11226,11226,./labeled_data/object terrain/11226.jpg,"object,terrain"
+12018,12018,./labeled_data/animal/12018.jpg,animal
+12232,12232,./labeled_data/animal/12232.jpg,animal
+3858,3858,./labeled_data/human/3858.jpg,human
+1530,1530,./labeled_data/human/1530.jpg,human
+9809,9809,./labeled_data/human terrain/9809.jpg,"human,terrain"
+503,503,./labeled_data/human/503.jpg,human
+3737,3737,./labeled_data/human/3737.jpg,human
+3037,3037,./labeled_data/human/3037.jpg,human
+6581,6581,./labeled_data/object/6581.jpg,object
+3970,3970,./labeled_data/human/3970.jpg,human
+5064,5064,./labeled_data/human/5064.jpg,human
+10518,10518,./labeled_data/animal human/10518.jpg,"animal,human"
+5756,5756,./labeled_data/human object/5756.jpg,"human,object"
+11278,11278,./labeled_data/object terrain/11278.jpg,"object,terrain"
+7150,7150,./labeled_data/object/7150.jpg,object
+10314,10314,./labeled_data/animal object/10314.jpg,"animal,object"
+10091,10091,./labeled_data/human terrain/10091.jpg,"human,terrain"
+11509,11509,./labeled_data/object terrain/11509.jpg,"object,terrain"
+4894,4894,./labeled_data/human/4894.jpg,human
+11442,11442,./labeled_data/object terrain/11442.jpg,"object,terrain"
+9077,9077,./labeled_data/terrain/9077.jpg,terrain
+6687,6687,./labeled_data/object/6687.jpg,object
+6843,6843,./labeled_data/object/6843.jpg,object
+10444,10444,./labeled_data/animal human/10444.jpg,"animal,human"
+7304,7304,./labeled_data/object/7304.jpg,object
+11064,11064,./labeled_data/object terrain/11064.jpg,"object,terrain"
+1583,1583,./labeled_data/human/1583.jpg,human
+7844,7844,./labeled_data/object/7844.jpg,object
+9879,9879,./labeled_data/human terrain/9879.jpg,"human,terrain"
+4854,4854,./labeled_data/human/4854.jpg,human
+12433,12433,./labeled_data/animal/12433.jpg,animal
+4559,4559,./labeled_data/human/4559.jpg,human
+2368,2368,./labeled_data/human/2368.jpg,human
+1707,1707,./labeled_data/human/1707.jpg,human
+13308,13308,./labeled_data/animal/13308.jpg,animal
+6193,6193,./labeled_data/object/6193.jpg,object
+5482,5482,./labeled_data/human/5482.jpg,human
+9428,9428,./labeled_data/terrain/9428.jpg,terrain
+3097,3097,./labeled_data/human/3097.jpg,human
+12280,12280,./labeled_data/animal/12280.jpg,animal
+7253,7253,./labeled_data/object/7253.jpg,object
+7368,7368,./labeled_data/object/7368.jpg,object
+6447,6447,./labeled_data/object/6447.jpg,object
+3405,3405,./labeled_data/human/3405.jpg,human
+6586,6586,./labeled_data/object/6586.jpg,object
+4270,4270,./labeled_data/human/4270.jpg,human
+3899,3899,./labeled_data/human/3899.jpg,human
+4137,4137,./labeled_data/human/4137.jpg,human
+9858,9858,./labeled_data/human terrain/9858.jpg,"human,terrain"
+13585,13585,./labeled_data/animal/13585.jpg,animal
+10588,10588,./labeled_data/animal human/10588.jpg,"animal,human"
+7915,7915,./labeled_data/object/7915.jpg,object
+5792,5792,./labeled_data/human object/5792.jpg,"human,object"
+5452,5452,./labeled_data/human/5452.jpg,human
+10495,10495,./labeled_data/animal human/10495.jpg,"animal,human"
+13705,13705,./labeled_data/animal/13705.jpg,animal
+13266,13266,./labeled_data/animal/13266.jpg,animal
+865,865,./labeled_data/human/865.jpg,human
+12516,12516,./labeled_data/animal/12516.jpg,animal
+10469,10469,./labeled_data/animal human/10469.jpg,"animal,human"
+7105,7105,./labeled_data/object/7105.jpg,object
+8797,8797,./labeled_data/terrain/8797.jpg,terrain
+9372,9372,./labeled_data/terrain/9372.jpg,terrain
+8060,8060,./labeled_data/object/8060.jpg,object
+5074,5074,./labeled_data/human/5074.jpg,human
+8950,8950,./labeled_data/terrain/8950.jpg,terrain
+9804,9804,./labeled_data/human terrain/9804.jpg,"human,terrain"
+3999,3999,./labeled_data/human/3999.jpg,human
+407,407,./labeled_data/human/407.jpg,human
+5159,5159,./labeled_data/human/5159.jpg,human
+11312,11312,./labeled_data/object terrain/11312.jpg,"object,terrain"
+258,258,./labeled_data/human/258.jpg,human
+13820,13820,./labeled_data/animal/13820.jpg,animal
+67,67,./labeled_data/human/67.jpg,human
+11893,11893,./labeled_data/object terrain/11893.jpg,"object,terrain"
+3447,3447,./labeled_data/human/3447.jpg,human
+8551,8551,./labeled_data/terrain/8551.jpg,terrain
+14176,14176,./labeled_data/animal/14176.jpg,animal
+11409,11409,./labeled_data/object terrain/11409.jpg,"object,terrain"
+3335,3335,./labeled_data/human/3335.jpg,human
+13325,13325,./labeled_data/animal/13325.jpg,animal
+10973,10973,./labeled_data/object terrain/10973.jpg,"object,terrain"
+1063,1063,./labeled_data/human/1063.jpg,human
+3425,3425,./labeled_data/human/3425.jpg,human
+10168,10168,./labeled_data/human terrain/10168.jpg,"human,terrain"
+639,639,./labeled_data/human/639.jpg,human
+6598,6598,./labeled_data/object/6598.jpg,object
+11142,11142,./labeled_data/object terrain/11142.jpg,"object,terrain"
+2796,2796,./labeled_data/human/2796.jpg,human
+7968,7968,./labeled_data/object/7968.jpg,object
+5025,5025,./labeled_data/human/5025.jpg,human
+9632,9632,./labeled_data/terrain/9632.jpg,terrain
+1435,1435,./labeled_data/human/1435.jpg,human
+13740,13740,./labeled_data/animal/13740.jpg,animal
+4472,4472,./labeled_data/human/4472.jpg,human
+7624,7624,./labeled_data/object/7624.jpg,object
+10371,10371,./labeled_data/animal human/10371.jpg,"animal,human"
+5777,5777,./labeled_data/human object/5777.jpg,"human,object"
+11696,11696,./labeled_data/object terrain/11696.jpg,"object,terrain"
+1703,1703,./labeled_data/human/1703.jpg,human
+11876,11876,./labeled_data/object terrain/11876.jpg,"object,terrain"
+4914,4914,./labeled_data/human/4914.jpg,human
+7259,7259,./labeled_data/object/7259.jpg,object
+8744,8744,./labeled_data/terrain/8744.jpg,terrain
+4572,4572,./labeled_data/human/4572.jpg,human
+2900,2900,./labeled_data/human/2900.jpg,human
+2067,2067,./labeled_data/human/2067.jpg,human
+7539,7539,./labeled_data/object/7539.jpg,object
+4396,4396,./labeled_data/human/4396.jpg,human
+12652,12652,./labeled_data/animal/12652.jpg,animal
+12439,12439,./labeled_data/animal/12439.jpg,animal
+11323,11323,./labeled_data/object terrain/11323.jpg,"object,terrain"
+8634,8634,./labeled_data/terrain/8634.jpg,terrain
+9775,9775,./labeled_data/terrain/9775.jpg,terrain
+4308,4308,./labeled_data/human/4308.jpg,human
+4237,4237,./labeled_data/human/4237.jpg,human
+11468,11468,./labeled_data/object terrain/11468.jpg,"object,terrain"
+8262,8262,./labeled_data/object/8262.jpg,object
+11256,11256,./labeled_data/object terrain/11256.jpg,"object,terrain"
+10263,10263,./labeled_data/animal object/10263.jpg,"animal,object"
+9704,9704,./labeled_data/terrain/9704.jpg,terrain
+8820,8820,./labeled_data/terrain/8820.jpg,terrain
+7839,7839,./labeled_data/object/7839.jpg,object
+5042,5042,./labeled_data/human/5042.jpg,human
+5513,5513,./labeled_data/human object/5513.jpg,"human,object"
+1562,1562,./labeled_data/human/1562.jpg,human
+3708,3708,./labeled_data/human/3708.jpg,human
+4040,4040,./labeled_data/human/4040.jpg,human
+10853,10853,./labeled_data/object terrain/10853.jpg,"object,terrain"
+12975,12975,./labeled_data/animal/12975.jpg,animal
+8451,8451,./labeled_data/terrain/8451.jpg,terrain
+9573,9573,./labeled_data/terrain/9573.jpg,terrain
+13993,13993,./labeled_data/animal/13993.jpg,animal
+4768,4768,./labeled_data/human/4768.jpg,human
+9686,9686,./labeled_data/terrain/9686.jpg,terrain
+3794,3794,./labeled_data/human/3794.jpg,human
+5420,5420,./labeled_data/human/5420.jpg,human
+4141,4141,./labeled_data/human/4141.jpg,human
+11126,11126,./labeled_data/object terrain/11126.jpg,"object,terrain"
+939,939,./labeled_data/human/939.jpg,human
+13426,13426,./labeled_data/animal/13426.jpg,animal
+7351,7351,./labeled_data/object/7351.jpg,object
+7197,7197,./labeled_data/object/7197.jpg,object
+11107,11107,./labeled_data/object terrain/11107.jpg,"object,terrain"
+2813,2813,./labeled_data/human/2813.jpg,human
+12180,12180,./labeled_data/animal/12180.jpg,animal
+7791,7791,./labeled_data/object/7791.jpg,object
+1433,1433,./labeled_data/human/1433.jpg,human
+7622,7622,./labeled_data/object/7622.jpg,object
+9730,9730,./labeled_data/terrain/9730.jpg,terrain
+3636,3636,./labeled_data/human/3636.jpg,human
+10209,10209,./labeled_data/human terrain/10209.jpg,"human,terrain"
+7126,7126,./labeled_data/object/7126.jpg,object
+4537,4537,./labeled_data/human/4537.jpg,human
+11563,11563,./labeled_data/object terrain/11563.jpg,"object,terrain"
+4779,4779,./labeled_data/human/4779.jpg,human
+11788,11788,./labeled_data/object terrain/11788.jpg,"object,terrain"
+11443,11443,./labeled_data/object terrain/11443.jpg,"object,terrain"
+14009,14009,./labeled_data/animal/14009.jpg,animal
+13137,13137,./labeled_data/animal/13137.jpg,animal
+7322,7322,./labeled_data/object/7322.jpg,object
+6284,6284,./labeled_data/object/6284.jpg,object
+9749,9749,./labeled_data/terrain/9749.jpg,terrain
+10389,10389,./labeled_data/animal human/10389.jpg,"animal,human"
+2051,2051,./labeled_data/human/2051.jpg,human
+1614,1614,./labeled_data/human/1614.jpg,human
+2465,2465,./labeled_data/human/2465.jpg,human
+13756,13756,./labeled_data/animal/13756.jpg,animal
+6850,6850,./labeled_data/object/6850.jpg,object
+5709,5709,./labeled_data/human object/5709.jpg,"human,object"
+1845,1845,./labeled_data/human/1845.jpg,human
+13033,13033,./labeled_data/animal/13033.jpg,animal
+12613,12613,./labeled_data/animal/12613.jpg,animal
+205,205,./labeled_data/human/205.jpg,human
+12028,12028,./labeled_data/animal/12028.jpg,animal
+12270,12270,./labeled_data/animal/12270.jpg,animal
+12221,12221,./labeled_data/animal/12221.jpg,animal
+7220,7220,./labeled_data/object/7220.jpg,object
+7522,7522,./labeled_data/object/7522.jpg,object
+11659,11659,./labeled_data/object terrain/11659.jpg,"object,terrain"
+7761,7761,./labeled_data/object/7761.jpg,object
+7045,7045,./labeled_data/object/7045.jpg,object
+7289,7289,./labeled_data/object/7289.jpg,object
+7568,7568,./labeled_data/object/7568.jpg,object
+9714,9714,./labeled_data/terrain/9714.jpg,terrain
+8106,8106,./labeled_data/object/8106.jpg,object
+11471,11471,./labeled_data/object terrain/11471.jpg,"object,terrain"
+659,659,./labeled_data/human/659.jpg,human
+5105,5105,./labeled_data/human/5105.jpg,human
+12256,12256,./labeled_data/animal/12256.jpg,animal
+11761,11761,./labeled_data/object terrain/11761.jpg,"object,terrain"
+1709,1709,./labeled_data/human/1709.jpg,human
+9367,9367,./labeled_data/terrain/9367.jpg,terrain
+7897,7897,./labeled_data/object/7897.jpg,object
+12874,12874,./labeled_data/animal/12874.jpg,animal
+9169,9169,./labeled_data/terrain/9169.jpg,terrain
+14298,14298,./labeled_data/animal/14298.jpg,animal
+2052,2052,./labeled_data/human/2052.jpg,human
+4687,4687,./labeled_data/human/4687.jpg,human
+8215,8215,./labeled_data/object/8215.jpg,object
+1650,1650,./labeled_data/human/1650.jpg,human
+2936,2936,./labeled_data/human/2936.jpg,human
+8756,8756,./labeled_data/terrain/8756.jpg,terrain
+1684,1684,./labeled_data/human/1684.jpg,human
+10983,10983,./labeled_data/object terrain/10983.jpg,"object,terrain"
+11376,11376,./labeled_data/object terrain/11376.jpg,"object,terrain"
+7944,7944,./labeled_data/object/7944.jpg,object
+9880,9880,./labeled_data/human terrain/9880.jpg,"human,terrain"
+549,549,./labeled_data/human/549.jpg,human
+2622,2622,./labeled_data/human/2622.jpg,human
+3268,3268,./labeled_data/human/3268.jpg,human
+9135,9135,./labeled_data/terrain/9135.jpg,terrain
+6088,6088,./labeled_data/object/6088.jpg,object
+7636,7636,./labeled_data/object/7636.jpg,object
+14277,14277,./labeled_data/animal/14277.jpg,animal
+13759,13759,./labeled_data/animal/13759.jpg,animal
+3025,3025,./labeled_data/human/3025.jpg,human
+11810,11810,./labeled_data/object terrain/11810.jpg,"object,terrain"
+4667,4667,./labeled_data/human/4667.jpg,human
+3294,3294,./labeled_data/human/3294.jpg,human
+3866,3866,./labeled_data/human/3866.jpg,human
+9453,9453,./labeled_data/terrain/9453.jpg,terrain
+9460,9460,./labeled_data/terrain/9460.jpg,terrain
+8352,8352,./labeled_data/terrain/8352.jpg,terrain
+3680,3680,./labeled_data/human/3680.jpg,human
+8114,8114,./labeled_data/object/8114.jpg,object
+3316,3316,./labeled_data/human/3316.jpg,human
+2116,2116,./labeled_data/human/2116.jpg,human
+9060,9060,./labeled_data/terrain/9060.jpg,terrain
+12650,12650,./labeled_data/animal/12650.jpg,animal
+10590,10590,./labeled_data/animal human/10590.jpg,"animal,human"
+7598,7598,./labeled_data/object/7598.jpg,object
+6908,6908,./labeled_data/object/6908.jpg,object
+11304,11304,./labeled_data/object terrain/11304.jpg,"object,terrain"
+13279,13279,./labeled_data/animal/13279.jpg,animal
+11231,11231,./labeled_data/object terrain/11231.jpg,"object,terrain"
+1967,1967,./labeled_data/human/1967.jpg,human
+7455,7455,./labeled_data/object/7455.jpg,object
+10031,10031,./labeled_data/human terrain/10031.jpg,"human,terrain"
+14011,14011,./labeled_data/animal/14011.jpg,animal
+10399,10399,./labeled_data/animal human/10399.jpg,"animal,human"
+4850,4850,./labeled_data/human/4850.jpg,human
+1779,1779,./labeled_data/human/1779.jpg,human
+6657,6657,./labeled_data/object/6657.jpg,object
+1687,1687,./labeled_data/human/1687.jpg,human
+243,243,./labeled_data/human/243.jpg,human
+2565,2565,./labeled_data/human/2565.jpg,human
+565,565,./labeled_data/human/565.jpg,human
+6660,6660,./labeled_data/object/6660.jpg,object
+5611,5611,./labeled_data/human object/5611.jpg,"human,object"
+6469,6469,./labeled_data/object/6469.jpg,object
+6631,6631,./labeled_data/object/6631.jpg,object
+6315,6315,./labeled_data/object/6315.jpg,object
+11080,11080,./labeled_data/object terrain/11080.jpg,"object,terrain"
+8157,8157,./labeled_data/object/8157.jpg,object
+10974,10974,./labeled_data/object terrain/10974.jpg,"object,terrain"
+8824,8824,./labeled_data/terrain/8824.jpg,terrain
+2516,2516,./labeled_data/human/2516.jpg,human
+9345,9345,./labeled_data/terrain/9345.jpg,terrain
+12934,12934,./labeled_data/animal/12934.jpg,animal
+8962,8962,./labeled_data/terrain/8962.jpg,terrain
+7830,7830,./labeled_data/object/7830.jpg,object
+680,680,./labeled_data/human/680.jpg,human
+10613,10613,./labeled_data/object terrain/10613.jpg,"object,terrain"
+11940,11940,./labeled_data/object terrain/11940.jpg,"object,terrain"
+5973,5973,./labeled_data/human object/5973.jpg,"human,object"
+256,256,./labeled_data/human/256.jpg,human
+12724,12724,./labeled_data/animal/12724.jpg,animal
+2381,2381,./labeled_data/human/2381.jpg,human
+8360,8360,./labeled_data/terrain/8360.jpg,terrain
+7997,7997,./labeled_data/object/7997.jpg,object
+1598,1598,./labeled_data/human/1598.jpg,human
+6681,6681,./labeled_data/object/6681.jpg,object
+47,47,./labeled_data/human/47.jpg,human
+4942,4942,./labeled_data/human/4942.jpg,human
+331,331,./labeled_data/human/331.jpg,human
+12731,12731,./labeled_data/animal/12731.jpg,animal
+2505,2505,./labeled_data/human/2505.jpg,human
+3218,3218,./labeled_data/human/3218.jpg,human
+1084,1084,./labeled_data/human/1084.jpg,human
+3656,3656,./labeled_data/human/3656.jpg,human
+3067,3067,./labeled_data/human/3067.jpg,human
+8301,8301,./labeled_data/terrain/8301.jpg,terrain
+1900,1900,./labeled_data/human/1900.jpg,human
+1842,1842,./labeled_data/human/1842.jpg,human
+3414,3414,./labeled_data/human/3414.jpg,human
+282,282,./labeled_data/human/282.jpg,human
+13160,13160,./labeled_data/animal/13160.jpg,animal
+9750,9750,./labeled_data/terrain/9750.jpg,terrain
+12279,12279,./labeled_data/animal/12279.jpg,animal
+5218,5218,./labeled_data/human/5218.jpg,human
+1947,1947,./labeled_data/human/1947.jpg,human
+11626,11626,./labeled_data/object terrain/11626.jpg,"object,terrain"
+13452,13452,./labeled_data/animal/13452.jpg,animal
+686,686,./labeled_data/human/686.jpg,human
+12274,12274,./labeled_data/animal/12274.jpg,animal
+3208,3208,./labeled_data/human/3208.jpg,human
+9431,9431,./labeled_data/terrain/9431.jpg,terrain
+7966,7966,./labeled_data/object/7966.jpg,object
+7329,7329,./labeled_data/object/7329.jpg,object
+13767,13767,./labeled_data/animal/13767.jpg,animal
+8998,8998,./labeled_data/terrain/8998.jpg,terrain
+4866,4866,./labeled_data/human/4866.jpg,human
+2587,2587,./labeled_data/human/2587.jpg,human
+5720,5720,./labeled_data/human object/5720.jpg,"human,object"
+10432,10432,./labeled_data/animal human/10432.jpg,"animal,human"
+563,563,./labeled_data/human/563.jpg,human
+8980,8980,./labeled_data/terrain/8980.jpg,terrain
+2826,2826,./labeled_data/human/2826.jpg,human
+3345,3345,./labeled_data/human/3345.jpg,human
+2757,2757,./labeled_data/human/2757.jpg,human
+1403,1403,./labeled_data/human/1403.jpg,human
+10181,10181,./labeled_data/human terrain/10181.jpg,"human,terrain"
+3254,3254,./labeled_data/human/3254.jpg,human
+3933,3933,./labeled_data/human/3933.jpg,human
+3875,3875,./labeled_data/human/3875.jpg,human
+59,59,./labeled_data/human/59.jpg,human
+10701,10701,./labeled_data/object terrain/10701.jpg,"object,terrain"
+5897,5897,./labeled_data/human object/5897.jpg,"human,object"
+5348,5348,./labeled_data/human/5348.jpg,human
+1241,1241,./labeled_data/human/1241.jpg,human
+202,202,./labeled_data/human/202.jpg,human
+5029,5029,./labeled_data/human/5029.jpg,human
+6262,6262,./labeled_data/object/6262.jpg,object
+6972,6972,./labeled_data/object/6972.jpg,object
+11085,11085,./labeled_data/object terrain/11085.jpg,"object,terrain"
+1211,1211,./labeled_data/human/1211.jpg,human
+6128,6128,./labeled_data/object/6128.jpg,object
+11934,11934,./labeled_data/object terrain/11934.jpg,"object,terrain"
+14193,14193,./labeled_data/animal/14193.jpg,animal
+13948,13948,./labeled_data/animal/13948.jpg,animal
+533,533,./labeled_data/human/533.jpg,human
+12217,12217,./labeled_data/animal/12217.jpg,animal
+9379,9379,./labeled_data/terrain/9379.jpg,terrain
+1688,1688,./labeled_data/human/1688.jpg,human
+6658,6658,./labeled_data/object/6658.jpg,object
+3489,3489,./labeled_data/human/3489.jpg,human
+2178,2178,./labeled_data/human/2178.jpg,human
+2805,2805,./labeled_data/human/2805.jpg,human
+9505,9505,./labeled_data/terrain/9505.jpg,terrain
+7490,7490,./labeled_data/object/7490.jpg,object
+2195,2195,./labeled_data/human/2195.jpg,human
+6089,6089,./labeled_data/object/6089.jpg,object
+7441,7441,./labeled_data/object/7441.jpg,object
+6897,6897,./labeled_data/object/6897.jpg,object
+8023,8023,./labeled_data/object/8023.jpg,object
+6439,6439,./labeled_data/object/6439.jpg,object
+2240,2240,./labeled_data/human/2240.jpg,human
+10633,10633,./labeled_data/object terrain/10633.jpg,"object,terrain"
+3403,3403,./labeled_data/human/3403.jpg,human
+127,127,./labeled_data/human/127.jpg,human
+3203,3203,./labeled_data/human/3203.jpg,human
+2519,2519,./labeled_data/human/2519.jpg,human
+9791,9791,./labeled_data/human terrain/9791.jpg,"human,terrain"
+14025,14025,./labeled_data/animal/14025.jpg,animal
+10683,10683,./labeled_data/object terrain/10683.jpg,"object,terrain"
+1315,1315,./labeled_data/human/1315.jpg,human
+9285,9285,./labeled_data/terrain/9285.jpg,terrain
+5593,5593,./labeled_data/human object/5593.jpg,"human,object"
+3593,3593,./labeled_data/human/3593.jpg,human
+5610,5610,./labeled_data/human object/5610.jpg,"human,object"
+9739,9739,./labeled_data/terrain/9739.jpg,terrain
+8423,8423,./labeled_data/terrain/8423.jpg,terrain
+1877,1877,./labeled_data/human/1877.jpg,human
+1785,1785,./labeled_data/human/1785.jpg,human
+11952,11952,./labeled_data/object terrain/11952.jpg,"object,terrain"
+1089,1089,./labeled_data/human/1089.jpg,human
+13666,13666,./labeled_data/animal/13666.jpg,animal
+6304,6304,./labeled_data/object/6304.jpg,object
+12051,12051,./labeled_data/animal/12051.jpg,animal
+14273,14273,./labeled_data/animal/14273.jpg,animal
+13026,13026,./labeled_data/animal/13026.jpg,animal
+13830,13830,./labeled_data/animal/13830.jpg,animal
+9293,9293,./labeled_data/terrain/9293.jpg,terrain
+11820,11820,./labeled_data/object terrain/11820.jpg,"object,terrain"
+9168,9168,./labeled_data/terrain/9168.jpg,terrain
+1076,1076,./labeled_data/human/1076.jpg,human
+626,626,./labeled_data/human/626.jpg,human
+10795,10795,./labeled_data/object terrain/10795.jpg,"object,terrain"
+1256,1256,./labeled_data/human/1256.jpg,human
+4477,4477,./labeled_data/human/4477.jpg,human
+8182,8182,./labeled_data/object/8182.jpg,object

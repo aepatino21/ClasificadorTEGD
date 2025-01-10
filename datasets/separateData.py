@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # Cargar el archivo CSV
-df = pd.read_csv('output.csv')
+df = pd.read_csv('data.csv')
 
 # Separar aleatoriamente el DataFrame
 df = df.sample(frac=1).reset_index(drop=True)
