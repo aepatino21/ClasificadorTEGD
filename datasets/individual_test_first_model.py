@@ -29,7 +29,7 @@ def load_and_preprocess_image(image_path):
     return image_array
 
 # Ruta de la imagen que deseas probar
-image_path = '../images/WhatsApp Image 2025-01-10 at 1.52.51 PM.jpeg'
+image_path = '../images/Sin título.jpg'
 
 # Cargar y preprocesar la imagen
 preprocessed_image = load_and_preprocess_image(image_path)
