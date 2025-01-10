@@ -52,7 +52,7 @@ datagen = ImageDataGenerator(rescale=1./255)
 train_generator = datagen.flow_from_dataframe(
       train_data,
       x_col='url',
-      y_col = 'one_hot_labels',
+      y_col = 'one_hot_labels'.tolist(),
       target_size=(224,224),
       batch_size=32,
       class_mode='raw'  # raw para multietiquetas
@@ -62,7 +62,7 @@ train_generator = datagen.flow_from_dataframe(
 val_generator = datagen.flow_from_dataframe(
       val_data,
       x_col='url',
-      y_col='one_hot_labels',
+      y_col='one_hot_labels'.tolist(),
       target_size=(224,224),
       batch_size=32,
       class_mode='raw' # raw para multietiquetas
