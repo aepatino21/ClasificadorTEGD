@@ -32,11 +32,11 @@ test_generator = test_datagen.flow_from_dataframe(
 )
 
 # Paso 5: Evaluar el modelo en el conjunto de pruebas
-#loss, accuracy = model.evaluate(test_generator)
-#print(f'Pérdida: {loss}, Precisión: {accuracy}')
+loss, accuracy = model.evaluate(test_generator)
+print(f'Pérdida: {loss}, Precisión: {accuracy}')
 
 # Reiniciar el generador para asegurarse de que esté al principio
-#test_generator.reset()
+test_generator.reset()
 
 # Obtener todas las imágenes y etiquetas verdaderas del generador
 all_images, all_true_labels = next(test_generator)
