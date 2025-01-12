@@ -1,2 +1,9 @@
 /datasets/labeled_data/
 /datasets/labeled_data_backup/
+/datasets/tribes_data/
+/images
+/datasets/*h5
+/datasets/*.keras
+.venv
+*.csv
+*.png
