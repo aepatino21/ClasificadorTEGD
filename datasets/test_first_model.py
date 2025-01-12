@@ -38,8 +38,17 @@ print(f'Pérdida: {loss}, Precisión: {accuracy}')
 # Reiniciar el generador para asegurarse de que esté al principio
 test_generator.reset()
 
-# Obtener todas las imágenes y etiquetas verdaderas del generador
-all_images, all_true_labels = next(test_generator)
+# Acumular todas las imágenes y etiquetas verdaderas del generador
+all_images = []
+all_true_labels = []
+
+for _ in range(len(test_generator)):
+    imgs, labels = next(test_generator)
+    all_images.append(imgs)
+    all_true_labels.append(labels)
+
+all_images = np.vstack(all_images)
+all_true_labels = np.vstack(all_true_labels)
 
 # Seleccionar 9 índices aleatorios
 random_indices = np.random.choice(len(all_images), 9, replace=False)
@@ -62,3 +71,4 @@ for i, ax in enumerate(axs.flat):
 # Guardar la figura como un archivo de imagen
 plt.savefig('predicciones_random.png')
 print("La figura se guardó como 'predicciones_random.png'")
+

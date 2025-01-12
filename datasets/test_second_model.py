@@ -43,8 +43,20 @@ print(f'Pérdida: {loss}, Precisión: {accuracy}')
 # Reiniciar el generador para asegurarse de que esté al principio
 test_generator.reset()
 
+# Acumular todas las imágenes y etiquetas verdaderas del generador
+all_images = []
+all_true_labels = []
+
+for _ in range(len(test_generator)):
+    imgs, labels = next(test_generator)
+    all_images.append(imgs)
+    all_true_labels.append(labels)
+
+all_images = np.vstack(all_images)
+all_true_labels = np.vstack(all_true_labels)
+
 # Realizar predicciones con el modelo
-predictions = model.predict(test_generator)
+predictions = model.predict(all_images)
 
 # Definir el umbral de predicción
 threshold = 0.5
@@ -52,19 +64,21 @@ threshold = 0.5
 # Obtener las etiquetas predichas según el umbral
 predicted_labels = (predictions > threshold).astype(int)
 
+# Seleccionar 8 índices aleatorios
+random_indices = np.random.choice(len(all_images), 8, replace=False)
+
 # Mostrar algunas imágenes con sus etiquetas predichas
 fig, axes = plt.subplots(2, 4, figsize=(20, 10))
 axes = axes.flatten()
 for i, ax in enumerate(axes):
-    if i >= len(test_generator):
-        break
-    img, true_labels = next(test_generator)
-    img = img[0]
-    true_labels = true_labels[0]
+    img_idx = random_indices[i]
+    img = all_images[img_idx]
+    true_labels = all_true_labels[img_idx]
+
     ax.imshow(img)
     ax.axis('off')
 
-    pred_labels = predicted_labels[i]
+    pred_labels = predicted_labels[img_idx]
     true_labels_str = ', '.join(test_labels.columns[true_labels == 1])
     pred_labels_str = ', '.join(test_labels.columns[pred_labels == 1])
     ax.set_title(f'True: {true_labels_str}\nPred: {pred_labels_str}', fontsize=12)
