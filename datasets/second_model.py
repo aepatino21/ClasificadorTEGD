@@ -64,51 +64,6 @@ val_generator = val_datagen.flow_from_dataframe(
     class_mode='raw'
 )
 
-# Definir función Mixup
-def mixup(data, labels, alpha=0.2):
-    batch_size = data.shape[0]
-    lambda_val = np.random.beta(alpha, alpha, batch_size)
-    lambda_val = np.maximum(lambda_val, 1 - lambda_val)
-    index = np.random.permutation(batch_size)
-    mixed_data = lambda_val[:, None, None, None] * data + (1 - lambda_val[:, None, None, None]) * data[index]
-    mixed_labels = lambda_val[:, None] * labels + (1 - lambda_val[:, None]) * labels[index]
-    return mixed_data, mixed_labels
-
-def mixup_augment(batch_data, batch_labels):
-    return tf.numpy_function(mixup, [batch_data, batch_labels], [tf.float32, tf.float32])
-
-# Definir función Cutmix
-def cutmix(data, labels, alpha=0.2):
-    batch_size = data.shape[0]
-    img_h, img_w, _ = data.shape[1:]
-    index = np.random.permutation(batch_size)
-    lambda_val = np.random.beta(alpha, alpha)
-    cut_ratio = np.sqrt(1 - lambda_val)
-    cut_w = np.int(img_w * cut_ratio)
-    cut_h = np.int(img_h * cut_ratio)
-    cx = np.random.randint(img_w)
-    cy = np.random.randint(img_h)
-    bbx1 = np.clip(cx - cut_w // 2, 0, img_w)
-    bby1 = np.clip(cy - cut_h // 2, 0, img_h)
-    bbx2 = np.clip(cx + cut_w // 2, 0, img_w)
-    bby2 = np.clip(cy + cut_h // 2, 0, img_h)
-    data[:, bby1:bby2, bbx1:bbx2, :] = data[index, bby1:bby2, bbx1:bbx2, :]
-    lambda_val = 1 - ((bbx2 - bbx1) * (bby2 - bby1) / (img_h * img_w))
-    labels = lambda_val * labels + (1 - lambda_val) * labels[index]
-    return data, labels
-
-def cutmix_augment(batch_data, batch_labels):
-    return tf.numpy_function(cutmix, [batch_data, batch_labels], [tf.float32, tf.float32])
-
-# Crear el dataset y aplicar Mixup y Cutmix
-train_dataset = tf.data.Dataset.from_generator(
-    lambda: train_generator,
-    output_types=(tf.float32, tf.float32),
-    output_shapes=([None, 224, 224, 3], [None, num_labels])
-)
-train_dataset = train_dataset.map(mixup_augment)
-train_dataset = train_dataset.map(cutmix_augment)
-
 # Construir el modelo usando MobileNet
 base_model = MobileNet(weights='imagenet', include_top=False, input_shape=(224, 224, 3))
 x = base_model.output
@@ -127,7 +82,7 @@ reduce_lr = ReduceLROnPlateau(monitor='val_loss', factor=0.2, patience=5, min_lr
 
 # Entrenar el modelo
 # Aumentemos el numero de epocas para ver si con mas entrenamiento el modelo prospera, si no lo hace, bajar el numero de epocas
-model.fit(train_dataset, validation_data=val_generator, epochs=20, callbacks=[reduce_lr])
+model.fit(train_generator, validation_data=val_generator, epochs=20, callbacks=[reduce_lr])
 
 # Ultimo recurso para aumentar la precision desde la modificacion del modelo
 # Descongelar algunas capas superiores del modelo base para ajuste fino
