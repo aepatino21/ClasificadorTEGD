@@ -22,6 +22,14 @@ def get_image_features(img_path):
 img_path = 'ruta_a_tu_imagen.jpg'
 features = get_image_features(img_path)
 
+# Función para asignar valores difusos basados en las características de la imagen con aceptación >= 0.5
+def assign_fuzzy_values(feature_name):
+    for feature in features:
+        if feature_name in feature[1] and feature[2] >= 0.5:
+            return feature[2] * 100  # Escalar la probabilidad a un valor entre 0 y 100
+    return 0
+
+
 # LOGICA DIFUSA
 # Crear las variables difusas
 pendant = ctrl.Antecedent(np.arange(0, 2, 1), 'pendant')
@@ -133,20 +141,20 @@ ethnic_ctrl = ctrl.ControlSystem([akawayo_rule, karina_rule, arawak_rule, enepa_
 ethnic_sim = ctrl.ControlSystemSimulation(ethnic_ctrl)
 
 # Asignar valores a las variables difusas basadas en las características de la imagen
-ethnic_sim.input['pendant'] = 1 if 'pendant' in [f[1] for f in features] else 0
-ethnic_sim.input['corporal_paint'] = 1 if 'corporal_paint' in [f[1] for f in features] else 0
-ethnic_sim.input['face_paint'] = 1 if 'face_paint' in [f[1] for f in features] else 0
-ethnic_sim.input['modern_clothing'] = 1 if 'modern_clothing' in [f[1] for f in features] else 0
-ethnic_sim.input['creole_clothing'] = 1 if 'creole_clothing' in [f[1] for f in features] else 0
-ethnic_sim.input['ancestral_clothing'] = 1 if 'ancestral_clothing' in [f[1] for f in features] else 0
-ethnic_sim.input['animal_fur'] = 1 if 'animal_fur' in [f[1] for f in features] else 0
-ethnic_sim.input['feathers'] = 1 if 'feathers' in [f[1] for f in features] else 0
-ethnic_sim.input['hat'] = 1 if 'hat' in [f[1] for f in features] else 0
-ethnic_sim.input['nose_piercing'] = 1 if 'nose_piercing' in [f[1] for f in features] else 0
-ethnic_sim.input['bowl_cut'] = 1 if 'bowl_cut' in [f[1] for f in features] else 0
-ethnic_sim.input['tendrils'] = 1 if 'tendrils' in [f[1] for f in features] else 0
-ethnic_sim.input['arm_accesory'] = 1 if 'arm_accesory' in [f[1] for f in features] else 0
-ethnic_sim.input['bracelets'] = 1 if 'bracelets' in [f[1] for f in features] else 0
+ethnic_sim.input['pendant'] = assign_fuzzy_values('pendant')
+ethnic_sim.input['corporal_paint'] = assign_fuzzy_values('corporal_paint')
+ethnic_sim.input['face_paint'] = assign_fuzzy_values('face_paint')
+ethnic_sim.input['modern_clothing'] = assign_fuzzy_values('modern_clothing')
+ethnic_sim.input['creole_clothing'] = assign_fuzzy_values('creole_clothing')
+ethnic_sim.input['ancestral_clothing'] = assign_fuzzy_values('ancestral_clothing')
+ethnic_sim.input['animal_fur'] = assign_fuzzy_values('animal_fur')
+ethnic_sim.input['feathers'] = assign_fuzzy_values('feathers')
+ethnic_sim.input['hat'] = assign_fuzzy_values('hat')
+ethnic_sim.input['nose_piercing'] = assign_fuzzy_values('nose_piercing')
+ethnic_sim.input['bowl_cut'] = assign_fuzzy_values('bowl_cut')
+ethnic_sim.input['tendrils'] = assign_fuzzy_values('tendrils')
+ethnic_sim.input['arm_accesory'] = assign_fuzzy_values('arm_accesory')
+ethnic_sim.input['bracelets'] = assign_fuzzy_values('bracelets')
 
 # Ejecutar la simulación
 ethnic_sim.compute()
@@ -166,3 +174,4 @@ print('Piaroa:', ethnic_sim.output['piaroa'])
 print('Warao:', ethnic_sim.output['warao'])
 print('Yanomami:', ethnic_sim.output['yanomami'])
 print('Yekwana:', ethnic_sim.output['yekwana'])
+
