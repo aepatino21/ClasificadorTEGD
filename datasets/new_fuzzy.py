@@ -23,7 +23,7 @@ def get_image_features(img_path, threshold=0.50):
                      'bowl_cut', 'tendrils', 'arm_accesory', 'bracelets']
 
     # Crear un diccionario con los nombres de las características
-    features_dict = {name: pred for name, pred in zip(feature_names, preds[0]) if pred >= threshold}
+    features_dict = {name: (1 if pred >= threshold else 0) for name, pred in zip(feature_names, preds[0])}
     return features_dict
 
 # Cargar la imagen y obtener características
@@ -142,20 +142,21 @@ ethnic_ctrl = ctrl.ControlSystem([akawayo_rule, karina_rule, arawak_rule, enepa_
 ethnic_sim = ctrl.ControlSystemSimulation(ethnic_ctrl)
 
 # Usar las características obtenidas de la imagen para las variables difusas desde el diccionario
-ethnic_sim.input['pendant'] = features_dict.get('pendant', 0)
-ethnic_sim.input['corporal_paint'] = features_dict.get('corporal_paint', 0)
-ethnic_sim.input['face_paint'] = features_dict.get('face_paint', 0)
-ethnic_sim.input['modern_clothing'] = features_dict.get('modern_clothing', 0)
-ethnic_sim.input['creole_clothing'] = features_dict.get('creole_clothing', 0)
-ethnic_sim.input['ancestral_clothing'] = features_dict.get('ancestral_clothing', 0)
-ethnic_sim.input['animal_fur'] = features_dict.get('animal_fur', 0)
-ethnic_sim.input['feathers'] = features_dict.get('feathers', 0)
-ethnic_sim.input['hat'] = features_dict.get('hat', 0)
-ethnic_sim.input['nose_piercing'] = features_dict.get('nose_piercing', 0)
-ethnic_sim.input['bowl_cut'] = features_dict.get('bowl_cut', 0)
-ethnic_sim.input['tendrils'] = features_dict.get('tendrils', 0)
-ethnic_sim.input['arm_accesory'] = features_dict.get('arm_accesory', 0)
-ethnic_sim.input['bracelets'] = features_dict.get('bracelets', 0)
+default_value = 0
+ethnic_sim.input['pendant'] = features_dict.get('pendant', default_value)
+ethnic_sim.input['corporal_paint'] = features_dict.get('corporal_paint', default_value)
+ethnic_sim.input['face_paint'] = features_dict.get('face_paint', default_value)
+ethnic_sim.input['modern_clothing'] = features_dict.get('modern_clothing', default_value)
+ethnic_sim.input['creole_clothing'] = features_dict.get('creole_clothing', default_value)
+ethnic_sim.input['ancestral_clothing'] = features_dict.get('ancestral_clothing', default_value)
+ethnic_sim.input['animal_fur'] = features_dict.get('animal_fur', default_value)
+ethnic_sim.input['feathers'] = features_dict.get('feathers', default_value)
+ethnic_sim.input['hat'] = features_dict.get('hat', default_value)
+ethnic_sim.input['nose_piercing'] = features_dict.get('nose_piercing', default_value)
+ethnic_sim.input['bowl_cut'] = features_dict.get('bowl_cut', default_value)
+ethnic_sim.input['tendrils'] = features_dict.get('tendrils', default_value)
+ethnic_sim.input['arm_accesory'] = features_dict.get('arm_accesory', default_value)
+ethnic_sim.input['bracelets'] = features_dict.get('bracelets', default_value)
 
 # Computar las predicciones
 ethnic_sim.compute()
@@ -163,10 +164,10 @@ ethnic_sim.compute()
 # Mostrar los resultados
 print("Predicciones basadas en la imagen:")
 print(f"Akawayo: {ethnic_sim.output['akawayo']}")
-#print(f"Karina: {ethnic_sim.output['karina']}")
-#print(f"Arawak: {ethnic_sim.output['arawak']}")
-#print(f"E'ñepa: {ethnic_sim.output['enepa']}")
-#print(f"Mapoyo: {ethnic_sim.output['mapoyo']}")
+print(f"Karina: {ethnic_sim.output['karina']}")
+print(f"Arawak: {ethnic_sim.output['arawak']}")
+print(f"E'ñepa: {ethnic_sim.output['enepa']}")
+print(f"Mapoyo: {ethnic_sim.output['mapoyo']}")
 print(f"Yabarana: {ethnic_sim.output['yabarana']}")
 print(f"Jivi: {ethnic_sim.output['jivi']}")
 print(f"Jodi: {ethnic_sim.output['jodi']}")
@@ -174,5 +175,5 @@ print(f"Pemón: {ethnic_sim.output['pemon']}")
 print(f"Puinave: {ethnic_sim.output['puinave']}")
 print(f"Piaroa: {ethnic_sim.output['piaroa']}")
 print(f"Warao: {ethnic_sim.output['warao']}")
-#print(f"Yanomami: {ethnic_sim.output['yanomami']}")
+print(f"Yanomami: {ethnic_sim.output['yanomami']}")
 print(f"Ye'kwana: {ethnic_sim.output['yekwana']}")
