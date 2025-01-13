@@ -10,7 +10,7 @@ from tensorflow.keras.applications.mobilenet import preprocess_input
 model = load_model('second_modelv69_definitive.keras')
 
 # Función para obtener características de la imagen
-def get_image_features(img_path):
+def get_image_features(img_path, threshold=0.50):
     img = image.load_img(img_path, target_size=(224, 224))
     img_array = image.img_to_array(img)
     img_array = np.expand_dims(img_array, axis=0)
@@ -23,12 +23,13 @@ def get_image_features(img_path):
                      'bowl_cut', 'tendrils', 'arm_accesory', 'bracelets']
 
     # Crear un diccionario con los nombres de las características
-    features_dict = {name: pred for name, pred in zip(feature_names, preds[0])}
+    features_dict = {name: pred for name, pred in zip(feature_names, preds[0]) if pred >= threshold}
     return features_dict
 
 # Cargar la imagen y obtener características
 img_path = '../images/1.jpeg'
 features_dict = get_image_features(img_path)
+print(features_dict)
 
 # Definir las variables difusas y las reglas
 pendant = ctrl.Antecedent(np.arange(0, 2, 1), 'pendant')
@@ -162,10 +163,10 @@ ethnic_sim.compute()
 # Mostrar los resultados
 print("Predicciones basadas en la imagen:")
 print(f"Akawayo: {ethnic_sim.output['akawayo']}")
-print(f"Karina: {ethnic_sim.output['karina']}")
-print(f"Arawak: {ethnic_sim.output['arawak']}")
-print(f"E'ñepa: {ethnic_sim.output['enepa']}")
-print(f"Mapoyo: {ethnic_sim.output['mapoyo']}")
+#print(f"Karina: {ethnic_sim.output['karina']}")
+#print(f"Arawak: {ethnic_sim.output['arawak']}")
+#print(f"E'ñepa: {ethnic_sim.output['enepa']}")
+#print(f"Mapoyo: {ethnic_sim.output['mapoyo']}")
 print(f"Yabarana: {ethnic_sim.output['yabarana']}")
 print(f"Jivi: {ethnic_sim.output['jivi']}")
 print(f"Jodi: {ethnic_sim.output['jodi']}")
@@ -173,5 +174,5 @@ print(f"Pemón: {ethnic_sim.output['pemon']}")
 print(f"Puinave: {ethnic_sim.output['puinave']}")
 print(f"Piaroa: {ethnic_sim.output['piaroa']}")
 print(f"Warao: {ethnic_sim.output['warao']}")
-print(f"Yanomami: {ethnic_sim.output['yanomami']}")
+#print(f"Yanomami: {ethnic_sim.output['yanomami']}")
 print(f"Ye'kwana: {ethnic_sim.output['yekwana']}")
