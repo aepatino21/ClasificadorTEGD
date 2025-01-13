@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Paso 1: Cargar el modelo guardado
-model = load_model('first_modelv2.h5')
+model = load_model('first_modelv4.h5')
 
 # Paso 2: Configurar ImageDataGenerator para el conjunto de pruebas
 test_datagen = ImageDataGenerator(rescale=1./255)
@@ -71,4 +71,3 @@ for i, ax in enumerate(axs.flat):
 # Guardar la figura como un archivo de imagen
 plt.savefig('predicciones_random.png')
 print("La figura se guardó como 'predicciones_random.png'")
-

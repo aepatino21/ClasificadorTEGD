@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # Path del directorio principal
-base_dir = './tribes_data'
+base_dir = './labeled_data'
 
 # Inicializar el contador de id
 id_counter = 1
@@ -42,7 +42,7 @@ for subdir, dirs, files in os.walk(base_dir):
 df = pd.DataFrame(csv_data, columns=['id', 'name', 'url', 'labels'])
 
 # Definir el nombre del archivo .csv
-csv_file_name = 'tribes_data.csv'
+csv_file_name = 'data.csv'
 
 # Guardar el DataFrame en un archivo .csv
 df.to_csv(csv_file_name, index=False)

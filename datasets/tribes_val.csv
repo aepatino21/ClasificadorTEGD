@@ -1,220 +1,816 @@
 id,name,url,labels
-1403,1403,./tribes_data/pendant ancestral_clothing face_paint corporal_paint feathers bracelets/1403.jpg,"pendant,ancestral_clothing,face_paint,corporal_paint,feathers,bracelets"
-718,718,./tribes_data/pendant feathers/718.jpg,"pendant,feathers"
-584,584,./tribes_data/modern_clothing/584.jpg,modern_clothing
-1022,1022,./tribes_data/pendant face_paint modern_clothing tendrils/1022.jpg,"pendant,face_paint,modern_clothing,tendrils"
-79,79,./tribes_data/pendant face_paint ancestral_clothing feathers/79.jpg,"pendant,face_paint,ancestral_clothing,feathers"
-625,625,./tribes_data/modern_clothing/625.jpg,modern_clothing
-340,340,./tribes_data/pendant face_paint feathers/340.jpg,"pendant,face_paint,feathers"
-1159,1159,./tribes_data/face_paint ancestral_clothing/1159.jpg,"face_paint,ancestral_clothing"
-676,676,./tribes_data/modern_clothing/676.jpg,modern_clothing
-33,33,./tribes_data/pendant ancestral_clothing/33.jpg,"pendant,ancestral_clothing"
-258,258,./tribes_data/pendant face_paint corporal_paint feathers/258.jpg,"pendant,face_paint,corporal_paint,feathers"
-461,461,./tribes_data/modern_clothing/461.jpg,modern_clothing
-1067,1067,./tribes_data/face_paint modern_clothing/1067.jpg,"face_paint,modern_clothing"
-460,460,./tribes_data/modern_clothing/460.jpg,modern_clothing
-1385,1385,./tribes_data/pendant ancestral_clothing face_paint corporal_paint feathers/1385.jpg,"pendant,ancestral_clothing,face_paint,corporal_paint,feathers"
-1360,1360,./tribes_data/modern_clothing tendrils/1360.jpg,"modern_clothing,tendrils"
-590,590,./tribes_data/modern_clothing/590.jpg,modern_clothing
-1033,1033,./tribes_data/pendant ancestral_clothing feathers bracelets/1033.jpg,"pendant,ancestral_clothing,feathers,bracelets"
-1100,1100,./tribes_data/pendant face_paint corporal_paint ancestral_clothing feathers/1100.jpg,"pendant,face_paint,corporal_paint,ancestral_clothing,feathers"
-1423,1423,./tribes_data/ancestral_clothing/1423.jpg,ancestral_clothing
-1195,1195,./tribes_data/pendant/1195.jpg,pendant
-246,246,./tribes_data/pendant face_paint corporal_paint ancestral_clothing bracelets tendrils/246.jpg,"pendant,face_paint,corporal_paint,ancestral_clothing,bracelets,tendrils"
-1461,1461,./tribes_data/pendant nose_piercing face_paint feathers/1461.jpg,"pendant,nose_piercing,face_paint,feathers"
-1193,1193,./tribes_data/pendant ancestral_clothing face_paint tendrils/1193.jpg,"pendant,ancestral_clothing,face_paint,tendrils"
-1281,1281,./tribes_data/ancestral_clothing face_paint feathers arm_accesory/1281.jpg,"ancestral_clothing,face_paint,feathers,arm_accesory"
-808,808,./tribes_data/pendant ancestral_clothing face_paint feathers arm_accesory bracelets/808.jpg,"pendant,ancestral_clothing,face_paint,feathers,arm_accesory,bracelets"
-1453,1453,./tribes_data/ancestral_clothing/1453.jpg,ancestral_clothing
-775,775,./tribes_data/pendant face_paint ancestral_clothing/775.jpg,"pendant,face_paint,ancestral_clothing"
-85,85,./tribes_data/pendant bowl_cut/85.jpg,"pendant,bowl_cut"
-618,618,./tribes_data/modern_clothing/618.jpg,modern_clothing
-1247,1247,./tribes_data/feathers arm_accesory/1247.jpg,"feathers,arm_accesory"
-1417,1417,./tribes_data/ancestral_clothing/1417.jpg,ancestral_clothing
-611,611,./tribes_data/modern_clothing/611.jpg,modern_clothing
-990,990,./tribes_data/pendant modern_clothing tendrils/990.jpg,"pendant,modern_clothing,tendrils"
-661,661,./tribes_data/modern_clothing/661.jpg,modern_clothing
-1152,1152,./tribes_data/pendant face_paint feathers tendrils/1152.jpg,"pendant,face_paint,feathers,tendrils"
-1238,1238,./tribes_data/pendant ancestral_clothing tendrils/1238.jpg,"pendant,ancestral_clothing,tendrils"
-14,14,./tribes_data/pendant ancestral_clothing/14.jpg,"pendant,ancestral_clothing"
-790,790,./tribes_data/pendant face_paint feathers bracelets/790.jpg,"pendant,face_paint,feathers,bracelets"
-585,585,./tribes_data/modern_clothing/585.jpg,modern_clothing
-960,960,./tribes_data/pendant ancestral_clothing feathers/960.jpg,"pendant,ancestral_clothing,feathers"
-383,383,./tribes_data/pendant face_paint feathers/383.jpg,"pendant,face_paint,feathers"
-885,885,./tribes_data/pendant face_paint/885.jpg,"pendant,face_paint"
-1212,1212,./tribes_data/face_paint/1212.jpg,face_paint
-487,487,./tribes_data/modern_clothing/487.jpg,modern_clothing
-953,953,./tribes_data/pendant ancestral_clothing feathers/953.jpg,"pendant,ancestral_clothing,feathers"
-881,881,./tribes_data/pendant face_paint/881.jpg,"pendant,face_paint"
-1231,1231,./tribes_data/pendant modern_clothing bracelets/1231.jpg,"pendant,modern_clothing,bracelets"
-1025,1025,./tribes_data/pendant face_paint ancestral_clothing modern_clothing feathers/1025.jpg,"pendant,face_paint,ancestral_clothing,modern_clothing,feathers"
-850,850,./tribes_data/pendant face_paint/850.jpg,"pendant,face_paint"
-734,734,./tribes_data/pendant face_paint ancestral_clothing tendrils/734.jpg,"pendant,face_paint,ancestral_clothing,tendrils"
-290,290,./tribes_data/pendant modern_clothing feathers/290.jpg,"pendant,modern_clothing,feathers"
-780,780,./tribes_data/face_paint modern_clothing feathers/780.jpg,"face_paint,modern_clothing,feathers"
-558,558,./tribes_data/modern_clothing/558.jpg,modern_clothing
-692,692,./tribes_data/pendant face_paint modern_clothing feathers tendrils/692.jpg,"pendant,face_paint,modern_clothing,feathers,tendrils"
-1013,1013,./tribes_data/pendant face_paint modern_clothing tendrils/1013.jpg,"pendant,face_paint,modern_clothing,tendrils"
-560,560,./tribes_data/modern_clothing/560.jpg,modern_clothing
-586,586,./tribes_data/modern_clothing/586.jpg,modern_clothing
-1363,1363,./tribes_data/face_paint tendrils/1363.jpg,"face_paint,tendrils"
-179,179,./tribes_data/pendant face_paint tendrils/179.jpg,"pendant,face_paint,tendrils"
-906,906,./tribes_data/pendant face_paint/906.jpg,"pendant,face_paint"
-823,823,./tribes_data/pendant modern_clothing/823.jpg,"pendant,modern_clothing"
-561,561,./tribes_data/modern_clothing/561.jpg,modern_clothing
-9,9,./tribes_data/ancestral_clothing face_paint/9.jpg,"ancestral_clothing,face_paint"
-438,438,./tribes_data/pendant face_paint feathers/438.jpg,"pendant,face_paint,feathers"
-100,100,./tribes_data/pendant face_paint tendrils ancestral_clothing/100.jpg,"pendant,face_paint,tendrils,ancestral_clothing"
-1235,1235,./tribes_data/pendant ancestral_clothing modern_clothing/1235.jpg,"pendant,ancestral_clothing,modern_clothing"
-1017,1017,./tribes_data/pendant face_paint modern_clothing tendrils/1017.jpg,"pendant,face_paint,modern_clothing,tendrils"
-791,791,./tribes_data/pendant face_paint feathers bracelets/791.jpg,"pendant,face_paint,feathers,bracelets"
-729,729,./tribes_data/feathers/729.jpg,feathers
-829,829,./tribes_data/pendant ancestral_clothing face_paint corporal_paint arm_accesory/829.jpg,"pendant,ancestral_clothing,face_paint,corporal_paint,arm_accesory"
-474,474,./tribes_data/modern_clothing/474.jpg,modern_clothing
-300,300,./tribes_data/face_paint corporal_paint feathers/300.jpg,"face_paint,corporal_paint,feathers"
-776,776,./tribes_data/pendant face_paint ancestral_clothing/776.jpg,"pendant,face_paint,ancestral_clothing"
-1345,1345,./tribes_data/ancestral_clothing feathers bracelets/1345.jpg,"ancestral_clothing,feathers,bracelets"
-264,264,./tribes_data/pendant modern_clothing face_paint feathers/264.jpg,"pendant,modern_clothing,face_paint,feathers"
-412,412,./tribes_data/pendant face_paint feathers/412.jpg,"pendant,face_paint,feathers"
-1216,1216,./tribes_data/face_paint/1216.jpg,face_paint
-1370,1370,./tribes_data/face_paint tendrils/1370.jpg,"face_paint,tendrils"
-772,772,./tribes_data/pendant face_paint ancestral_clothing/772.jpg,"pendant,face_paint,ancestral_clothing"
-706,706,./tribes_data/pendant corporal_paint feathers/706.jpg,"pendant,corporal_paint,feathers"
-138,138,./tribes_data/pendant ancestral_clothing face_paint feathers/138.jpg,"pendant,ancestral_clothing,face_paint,feathers"
-908,908,./tribes_data/pendant face_paint/908.jpg,"pendant,face_paint"
-1192,1192,./tribes_data/pendant face_paint feathers modern_clothing bracelets/1192.jpg,"pendant,face_paint,feathers,modern_clothing,bracelets"
-1135,1135,./tribes_data/pendant face_paint modern_clothing/1135.jpg,"pendant,face_paint,modern_clothing"
-1061,1061,./tribes_data/face_paint modern_clothing/1061.jpg,"face_paint,modern_clothing"
-1384,1384,./tribes_data/pendant ancestral_clothing face_paint corporal_paint feathers/1384.jpg,"pendant,ancestral_clothing,face_paint,corporal_paint,feathers"
-1251,1251,./tribes_data/pendant ancestral_clothing bracelets/1251.jpg,"pendant,ancestral_clothing,bracelets"
-1386,1386,./tribes_data/pendant ancestral_clothing face_paint corporal_paint feathers/1386.jpg,"pendant,ancestral_clothing,face_paint,corporal_paint,feathers"
-980,980,./tribes_data/pendant ancestral_clothing corporal_paint feathers/980.jpg,"pendant,ancestral_clothing,corporal_paint,feathers"
-803,803,./tribes_data/pendant face_paint ancestral_clothing modern_clothing bracelets tendrils/803.jpg,"pendant,face_paint,ancestral_clothing,modern_clothing,bracelets,tendrils"
-1035,1035,./tribes_data/pendant ancestral_clothing feathers bracelets/1035.jpg,"pendant,ancestral_clothing,feathers,bracelets"
-1327,1327,./tribes_data/ancestral_clothing feathers/1327.jpg,"ancestral_clothing,feathers"
-1115,1115,./tribes_data/pendant corporal_paint ancestral_clothing/1115.jpg,"pendant,corporal_paint,ancestral_clothing"
-838,838,./tribes_data/pendant arm_accesory face_paint ancestral_clothing feathers/838.jpg,"pendant,arm_accesory,face_paint,ancestral_clothing,feathers"
-124,124,./tribes_data/pendant ancestral_clothing face_paint feathers/124.jpg,"pendant,ancestral_clothing,face_paint,feathers"
-944,944,./tribes_data/pendant ancestral_clothing feathers/944.jpg,"pendant,ancestral_clothing,feathers"
-1359,1359,./tribes_data/modern_clothing tendrils/1359.jpg,"modern_clothing,tendrils"
-1436,1436,./tribes_data/ancestral_clothing/1436.jpg,ancestral_clothing
-158,158,./tribes_data/pendant ancestral_clothing face_paint feathers/158.jpg,"pendant,ancestral_clothing,face_paint,feathers"
-779,779,./tribes_data/pendant face_paint ancestral_clothing/779.jpg,"pendant,face_paint,ancestral_clothing"
-644,644,./tribes_data/modern_clothing/644.jpg,modern_clothing
-1119,1119,./tribes_data/face_paint ancestral_clothing feathers/1119.jpg,"face_paint,ancestral_clothing,feathers"
-792,792,./tribes_data/pendant face_paint feathers bracelets/792.jpg,"pendant,face_paint,feathers,bracelets"
-510,510,./tribes_data/modern_clothing/510.jpg,modern_clothing
-447,447,./tribes_data/pendant face_paint feathers/447.jpg,"pendant,face_paint,feathers"
-1356,1356,./tribes_data/pendant face_paint ancestral_clothing feathers tendrils/1356.jpg,"pendant,face_paint,ancestral_clothing,feathers,tendrils"
-1420,1420,./tribes_data/ancestral_clothing/1420.jpg,ancestral_clothing
-795,795,./tribes_data/pendant face_paint feathers bracelets/795.jpg,"pendant,face_paint,feathers,bracelets"
-989,989,./tribes_data/pendant modern_clothing tendrils/989.jpg,"pendant,modern_clothing,tendrils"
-583,583,./tribes_data/modern_clothing/583.jpg,modern_clothing
-667,667,./tribes_data/modern_clothing/667.jpg,modern_clothing
-295,295,./tribes_data/pendant arm_accesory face_paint feathers/295.jpg,"pendant,arm_accesory,face_paint,feathers"
-1150,1150,./tribes_data/pendant face_paint feathers tendrils/1150.jpg,"pendant,face_paint,feathers,tendrils"
-958,958,./tribes_data/pendant ancestral_clothing feathers/958.jpg,"pendant,ancestral_clothing,feathers"
-1027,1027,./tribes_data/pendant face_paint ancestral_clothing modern_clothing feathers/1027.jpg,"pendant,face_paint,ancestral_clothing,modern_clothing,feathers"
-398,398,./tribes_data/pendant face_paint feathers/398.jpg,"pendant,face_paint,feathers"
-589,589,./tribes_data/modern_clothing/589.jpg,modern_clothing
-936,936,./tribes_data/pendant arm_accesory face_paint corporal_paint ancestral_clothing feathers bracelets/936.jpg,"pendant,arm_accesory,face_paint,corporal_paint,ancestral_clothing,feathers,bracelets"
-547,547,./tribes_data/modern_clothing/547.jpg,modern_clothing
-467,467,./tribes_data/modern_clothing/467.jpg,modern_clothing
-1107,1107,./tribes_data/pendant face_paint corporal_paint ancestral_clothing feathers/1107.jpg,"pendant,face_paint,corporal_paint,ancestral_clothing,feathers"
-1144,1144,./tribes_data/pendant arm_accesory face_paint corporal_paint modern_clothing feathers/1144.jpg,"pendant,arm_accesory,face_paint,corporal_paint,modern_clothing,feathers"
-753,753,./tribes_data/pendant face_paint ancestral_clothing/753.jpg,"pendant,face_paint,ancestral_clothing"
-21,21,./tribes_data/pendant ancestral_clothing/21.jpg,"pendant,ancestral_clothing"
-1422,1422,./tribes_data/ancestral_clothing/1422.jpg,ancestral_clothing
-728,728,./tribes_data/feathers/728.jpg,feathers
-859,859,./tribes_data/pendant face_paint/859.jpg,"pendant,face_paint"
-86,86,./tribes_data/pendant creole_clothing bracelets tendrils/86.jpg,"pendant,creole_clothing,bracelets,tendrils"
-1208,1208,./tribes_data/face_paint/1208.jpg,face_paint
-344,344,./tribes_data/pendant face_paint feathers/344.jpg,"pendant,face_paint,feathers"
-1079,1079,./tribes_data/pendant face_paint modern_clothing feathers/1079.jpg,"pendant,face_paint,modern_clothing,feathers"
-1101,1101,./tribes_data/pendant face_paint corporal_paint ancestral_clothing feathers/1101.jpg,"pendant,face_paint,corporal_paint,ancestral_clothing,feathers"
-1065,1065,./tribes_data/face_paint modern_clothing/1065.jpg,"face_paint,modern_clothing"
-18,18,./tribes_data/pendant ancestral_clothing/18.jpg,"pendant,ancestral_clothing"
-458,458,./tribes_data/pendant face_paint modern_clothing feathers bracelets tendrils/458.jpg,"pendant,face_paint,modern_clothing,feathers,bracelets,tendrils"
-541,541,./tribes_data/modern_clothing/541.jpg,modern_clothing
-1051,1051,./tribes_data/face_paint modern_clothing/1051.jpg,"face_paint,modern_clothing"
-519,519,./tribes_data/modern_clothing/519.jpg,modern_clothing
-1401,1401,./tribes_data/pendant nose_piercing corporal_paint feathers/1401.jpg,"pendant,nose_piercing,corporal_paint,feathers"
-174,174,./tribes_data/pendant face_paint tendrils/174.jpg,"pendant,face_paint,tendrils"
-1205,1205,./tribes_data/face_paint/1205.jpg,face_paint
-564,564,./tribes_data/modern_clothing/564.jpg,modern_clothing
-798,798,./tribes_data/ancestral_clothing feathers face_paint bracelets/798.jpg,"ancestral_clothing,feathers,face_paint,bracelets"
-65,65,./tribes_data/pendant face_paint ancestral_clothing feathers/65.jpg,"pendant,face_paint,ancestral_clothing,feathers"
-202,202,./tribes_data/pendant ancestral_clothing face_paint/202.jpg,"pendant,ancestral_clothing,face_paint"
-1343,1343,./tribes_data/ancestral_clothing feathers/1343.jpg,"ancestral_clothing,feathers"
-1242,1242,./tribes_data/pendant ancestral_clothing tendrils/1242.jpg,"pendant,ancestral_clothing,tendrils"
-1169,1169,./tribes_data/ancestral_clothing corporal_paint/1169.jpg,"ancestral_clothing,corporal_paint"
-1140,1140,./tribes_data/pendant nose_piercing arm_accesory face_paint corporal_paint feathers/1140.jpg,"pendant,nose_piercing,arm_accesory,face_paint,corporal_paint,feathers"
-862,862,./tribes_data/pendant face_paint/862.jpg,"pendant,face_paint"
-591,591,./tribes_data/modern_clothing/591.jpg,modern_clothing
-1297,1297,./tribes_data/pendant arm_accesory face_paint ancestral_clothing/1297.jpg,"pendant,arm_accesory,face_paint,ancestral_clothing"
-182,182,./tribes_data/pendant face_paint tendrils/182.jpg,"pendant,face_paint,tendrils"
-1398,1398,./tribes_data/pendant arm_accesory face_paint corporal_paint ancestral_clothing modern_clothing feathers/1398.jpg,"pendant,arm_accesory,face_paint,corporal_paint,ancestral_clothing,modern_clothing,feathers"
-500,500,./tribes_data/modern_clothing/500.jpg,modern_clothing
-402,402,./tribes_data/pendant face_paint feathers/402.jpg,"pendant,face_paint,feathers"
-1437,1437,./tribes_data/ancestral_clothing/1437.jpg,ancestral_clothing
-1225,1225,./tribes_data/face_paint/1225.jpg,face_paint
-385,385,./tribes_data/pendant face_paint feathers/385.jpg,"pendant,face_paint,feathers"
-1124,1124,./tribes_data/pendant nose_piercing/1124.jpg,"pendant,nose_piercing"
-185,185,./tribes_data/pendant face_paint tendrils/185.jpg,"pendant,face_paint,tendrils"
-1429,1429,./tribes_data/ancestral_clothing/1429.jpg,ancestral_clothing
-211,211,./tribes_data/pendant ancestral_clothing face_paint/211.jpg,"pendant,ancestral_clothing,face_paint"
-836,836,./tribes_data/pendant face_paint corporal_paint/836.jpg,"pendant,face_paint,corporal_paint"
-1369,1369,./tribes_data/face_paint tendrils/1369.jpg,"face_paint,tendrils"
-324,324,./tribes_data/pendant face_paint feathers/324.jpg,"pendant,face_paint,feathers"
-285,285,./tribes_data/modern_clothing corporal_paint/285.jpg,"modern_clothing,corporal_paint"
-319,319,./tribes_data/pendant face_paint feathers/319.jpg,"pendant,face_paint,feathers"
-1040,1040,./tribes_data/pendant face_paint ancestral_clothing bracelets/1040.jpg,"pendant,face_paint,ancestral_clothing,bracelets"
-452,452,./tribes_data/pendant face_paint feathers/452.jpg,"pendant,face_paint,feathers"
-112,112,./tribes_data/ancestral_clothing corporal_paint feathers/112.jpg,"ancestral_clothing,corporal_paint,feathers"
-406,406,./tribes_data/pendant face_paint feathers/406.jpg,"pendant,face_paint,feathers"
-1146,1146,./tribes_data/pendant ancestral_clothing feathers tendrils/1146.jpg,"pendant,ancestral_clothing,feathers,tendrils"
-154,154,./tribes_data/pendant ancestral_clothing face_paint feathers/154.jpg,"pendant,ancestral_clothing,face_paint,feathers"
-983,983,./tribes_data/pendant ancestral_clothing corporal_paint feathers/983.jpg,"pendant,ancestral_clothing,corporal_paint,feathers"
-1052,1052,./tribes_data/face_paint modern_clothing/1052.jpg,"face_paint,modern_clothing"
-64,64,./tribes_data/pendant face_paint ancestral_clothing feathers/64.jpg,"pendant,face_paint,ancestral_clothing,feathers"
-81,81,./tribes_data/pendant face_paint ancestral_clothing feathers/81.jpg,"pendant,face_paint,ancestral_clothing,feathers"
-1184,1184,./tribes_data/pendant face_paint corporal_paint ancestral_clothing feathers tendrils/1184.jpg,"pendant,face_paint,corporal_paint,ancestral_clothing,feathers,tendrils"
-917,917,./tribes_data/pendant face_paint feathers corporal_paint/917.jpg,"pendant,face_paint,feathers,corporal_paint"
-566,566,./tribes_data/modern_clothing/566.jpg,modern_clothing
-241,241,./tribes_data/pendant feathers ancestral_clothing face_paint/241.jpg,"pendant,feathers,ancestral_clothing,face_paint"
-1167,1167,./tribes_data/ancestral_clothing corporal_paint/1167.jpg,"ancestral_clothing,corporal_paint"
-1123,1123,./tribes_data/pendant face_paint ancestral_clothing modern_clothing feathers tendrils/1123.jpg,"pendant,face_paint,ancestral_clothing,modern_clothing,feathers,tendrils"
-387,387,./tribes_data/pendant face_paint feathers/387.jpg,"pendant,face_paint,feathers"
-451,451,./tribes_data/pendant face_paint feathers/451.jpg,"pendant,face_paint,feathers"
-1299,1299,./tribes_data/pendant arm_accesory face_paint ancestral_clothing/1299.jpg,"pendant,arm_accesory,face_paint,ancestral_clothing"
-1252,1252,./tribes_data/pendant ancestral_clothing bracelets/1252.jpg,"pendant,ancestral_clothing,bracelets"
-1183,1183,./tribes_data/pendant arm_accesory ancestral_clothing face_paint feathers/1183.jpg,"pendant,arm_accesory,ancestral_clothing,face_paint,feathers"
-101,101,./tribes_data/pendant face_paint tendrils ancestral_clothing/101.jpg,"pendant,face_paint,tendrils,ancestral_clothing"
-766,766,./tribes_data/pendant face_paint ancestral_clothing/766.jpg,"pendant,face_paint,ancestral_clothing"
-572,572,./tribes_data/modern_clothing/572.jpg,modern_clothing
-534,534,./tribes_data/modern_clothing/534.jpg,modern_clothing
-294,294,./tribes_data/pendant arm_accesory face_paint feathers/294.jpg,"pendant,arm_accesory,face_paint,feathers"
-630,630,./tribes_data/modern_clothing/630.jpg,modern_clothing
-1020,1020,./tribes_data/pendant face_paint modern_clothing tendrils/1020.jpg,"pendant,face_paint,modern_clothing,tendrils"
-731,731,./tribes_data/feathers/731.jpg,feathers
-724,724,./tribes_data/pendant feathers arm_accesory/724.jpg,"pendant,feathers,arm_accesory"
-410,410,./tribes_data/pendant face_paint feathers/410.jpg,"pendant,face_paint,feathers"
-553,553,./tribes_data/modern_clothing/553.jpg,modern_clothing
-132,132,./tribes_data/pendant ancestral_clothing face_paint feathers/132.jpg,"pendant,ancestral_clothing,face_paint,feathers"
-97,97,./tribes_data/pendant face_paint tendrils ancestral_clothing/97.jpg,"pendant,face_paint,tendrils,ancestral_clothing"
-1255,1255,./tribes_data/pendant ancestral_clothing bracelets/1255.jpg,"pendant,ancestral_clothing,bracelets"
-800,800,./tribes_data/ancestral_clothing feathers face_paint bracelets/800.jpg,"ancestral_clothing,feathers,face_paint,bracelets"
-48,48,./tribes_data/face_paint feathers/48.jpg,"face_paint,feathers"
-224,224,./tribes_data/pendant arm_accesory face_paint corporal_paint ancestral_clothing/224.jpg,"pendant,arm_accesory,face_paint,corporal_paint,ancestral_clothing"
-764,764,./tribes_data/pendant face_paint ancestral_clothing/764.jpg,"pendant,face_paint,ancestral_clothing"
-19,19,./tribes_data/pendant ancestral_clothing/19.jpg,"pendant,ancestral_clothing"
-548,548,./tribes_data/modern_clothing/548.jpg,modern_clothing
-337,337,./tribes_data/pendant face_paint feathers/337.jpg,"pendant,face_paint,feathers"
-668,668,./tribes_data/modern_clothing/668.jpg,modern_clothing
-1304,1304,./tribes_data/pendant arm_accesory face_paint corporal_paint modern_clothing bracelets/1304.jpg,"pendant,arm_accesory,face_paint,corporal_paint,modern_clothing,bracelets"
-722,722,./tribes_data/ancestral_clothing face_paint corporal_paint feathers/722.jpg,"ancestral_clothing,face_paint,corporal_paint,feathers"
-371,371,./tribes_data/pendant face_paint feathers/371.jpg,"pendant,face_paint,feathers"
-511,511,./tribes_data/modern_clothing/511.jpg,modern_clothing
-457,457,./tribes_data/pendant face_paint modern_clothing feathers bracelets tendrils/457.jpg,"pendant,face_paint,modern_clothing,feathers,bracelets,tendrils"
-935,935,./tribes_data/pendant arm_accesory face_paint corporal_paint ancestral_clothing feathers bracelets/935.jpg,"pendant,arm_accesory,face_paint,corporal_paint,ancestral_clothing,feathers,bracelets"
-314,314,./tribes_data/pendant face_paint feathers/314.jpg,"pendant,face_paint,feathers"
+3308,3308,./tribes_data/train/face_paint feathers modern_clothing pendant tendrils/3308.jpg,"face_paint,feathers,modern_clothing,pendant,tendrils"
+984,984,./tribes_data/train/face_paint modern_clothing pendant/984.jpg,"face_paint,modern_clothing,pendant"
+3979,3979,./tribes_data/train/face_paint/3979.jpg,face_paint
+698,698,./tribes_data/train/ancestral_clothing face_paint feathers pendant/698.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+97,97,./tribes_data/train/ancestral_clothing corporal_paint face_paint feathers pendant/97.jpg,"ancestral_clothing,corporal_paint,face_paint,feathers,pendant"
+1126,1126,./tribes_data/train/bracelets face_paint feathers modern_clothing pendant tendrils/1126.jpg,"bracelets,face_paint,feathers,modern_clothing,pendant,tendrils"
+2598,2598,./tribes_data/train/face_paint feathers pendant/2598.jpg,"face_paint,feathers,pendant"
+5182,5182,./tribes_data/train/ancestral_clothing/5182.jpg,ancestral_clothing
+990,990,./tribes_data/train/face_paint modern_clothing pendant/990.jpg,"face_paint,modern_clothing,pendant"
+461,461,./tribes_data/train/ancestral_clothing face_paint pendant/461.jpg,"ancestral_clothing,face_paint,pendant"
+1364,1364,./tribes_data/train/modern_clothing/1364.jpg,modern_clothing
+2880,2880,./tribes_data/train/face_paint feathers modern_clothing pendant/2880.jpg,"face_paint,feathers,modern_clothing,pendant"
+2268,2268,./tribes_data/train/face_paint feathers pendant/2268.jpg,"face_paint,feathers,pendant"
+576,576,./tribes_data/train/ancestral_clothing face_paint feathers pendant/576.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+2584,2584,./tribes_data/train/face_paint feathers pendant/2584.jpg,"face_paint,feathers,pendant"
+4034,4034,./tribes_data/train/face_paint/4034.jpg,face_paint
+1105,1105,./tribes_data/train/ancestral_clothing arm_accesory bracelets corporal_paint face_paint/1105.jpg,"ancestral_clothing,arm_accesory,bracelets,corporal_paint,face_paint"
+4648,4648,./tribes_data/train/ancestral_clothing feathers/4648.jpg,"ancestral_clothing,feathers"
+5265,5265,./tribes_data/train/ancestral_clothing/5265.jpg,ancestral_clothing
+2062,2062,./tribes_data/train/bowl_cut/2062.jpg,bowl_cut
+4784,4784,./tribes_data/train/face_paint pendant/4784.jpg,"face_paint,pendant"
+2134,2134,./tribes_data/train/feathers/2134.jpg,feathers
+2220,2220,./tribes_data/train/face_paint feathers pendant/2220.jpg,"face_paint,feathers,pendant"
+3659,3659,./tribes_data/train/ancestral_clothing corporal_paint/3659.jpg,"ancestral_clothing,corporal_paint"
+4761,4761,./tribes_data/train/face_paint pendant/4761.jpg,"face_paint,pendant"
+3570,3570,./tribes_data/train/face_paint feathers pendant tendrils/3570.jpg,"face_paint,feathers,pendant,tendrils"
+4376,4376,./tribes_data/train/ancestral_clothing arm_accesory face_paint feathers pendant/4376.jpg,"ancestral_clothing,arm_accesory,face_paint,feathers,pendant"
+2349,2349,./tribes_data/train/face_paint feathers pendant/2349.jpg,"face_paint,feathers,pendant"
+197,197,./tribes_data/train/face_paint feathers/197.jpg,"face_paint,feathers"
+3929,3929,./tribes_data/train/pendant/3929.jpg,pendant
+4770,4770,./tribes_data/train/face_paint pendant/4770.jpg,"face_paint,pendant"
+1844,1844,./tribes_data/train/modern_clothing/1844.jpg,modern_clothing
+3455,3455,./tribes_data/train/bowl_cut face_paint nose_piercing tendrils/3455.jpg,"bowl_cut,face_paint,nose_piercing,tendrils"
+2287,2287,./tribes_data/train/face_paint feathers pendant/2287.jpg,"face_paint,feathers,pendant"
+2182,2182,./tribes_data/train/corporal_paint pendant/2182.jpg,"corporal_paint,pendant"
+4632,4632,./tribes_data/train/ancestral_clothing feathers/4632.jpg,"ancestral_clothing,feathers"
+131,131,./tribes_data/train/ancestral_clothing face_paint/131.jpg,"ancestral_clothing,face_paint"
+2339,2339,./tribes_data/train/face_paint feathers pendant/2339.jpg,"face_paint,feathers,pendant"
+1509,1509,./tribes_data/train/modern_clothing/1509.jpg,modern_clothing
+3551,3551,./tribes_data/train/corporal_paint face_paint pendant/3551.jpg,"corporal_paint,face_paint,pendant"
+1676,1676,./tribes_data/train/modern_clothing/1676.jpg,modern_clothing
+4677,4677,./tribes_data/train/ancestral_clothing feathers/4677.jpg,"ancestral_clothing,feathers"
+1211,1211,./tribes_data/train/modern_clothing/1211.jpg,modern_clothing
+2711,2711,./tribes_data/train/ancestral_clothing bracelets pendant/2711.jpg,"ancestral_clothing,bracelets,pendant"
+2616,2616,./tribes_data/train/face_paint feathers pendant/2616.jpg,"face_paint,feathers,pendant"
+1382,1382,./tribes_data/train/modern_clothing/1382.jpg,modern_clothing
+1694,1694,./tribes_data/train/modern_clothing/1694.jpg,modern_clothing
+1268,1268,./tribes_data/train/modern_clothing/1268.jpg,modern_clothing
+3720,3720,./tribes_data/train/ancestral_clothing feathers pendant/3720.jpg,"ancestral_clothing,feathers,pendant"
+3772,3772,./tribes_data/train/ancestral_clothing feathers pendant/3772.jpg,"ancestral_clothing,feathers,pendant"
+4726,4726,./tribes_data/train/corporal_paint face_paint modern_clothing/4726.jpg,"corporal_paint,face_paint,modern_clothing"
+3367,3367,./tribes_data/train/ancestral_clothing bracelets face_paint feathers pendant/3367.jpg,"ancestral_clothing,bracelets,face_paint,feathers,pendant"
+624,624,./tribes_data/train/ancestral_clothing face_paint feathers pendant/624.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+1741,1741,./tribes_data/train/modern_clothing/1741.jpg,modern_clothing
+4490,4490,./tribes_data/train/corporal_paint face_paint feathers pendant/4490.jpg,"corporal_paint,face_paint,feathers,pendant"
+1657,1657,./tribes_data/train/modern_clothing/1657.jpg,modern_clothing
+1595,1595,./tribes_data/train/modern_clothing/1595.jpg,modern_clothing
+4355,4355,./tribes_data/train/ancestral_clothing face_paint nose_piercing pendant tendrils/4355.jpg,"ancestral_clothing,face_paint,nose_piercing,pendant,tendrils"
+1447,1447,./tribes_data/train/modern_clothing/1447.jpg,modern_clothing
+3479,3479,./tribes_data/train/ancestral_clothing bracelets face_paint feathers/3479.jpg,"ancestral_clothing,bracelets,face_paint,feathers"
+2244,2244,./tribes_data/train/face_paint feathers pendant/2244.jpg,"face_paint,feathers,pendant"
+677,677,./tribes_data/train/ancestral_clothing face_paint feathers pendant/677.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+873,873,./tribes_data/train/ancestral_clothing pendant/873.jpg,"ancestral_clothing,pendant"
+3638,3638,./tribes_data/train/ancestral_clothing corporal_paint/3638.jpg,"ancestral_clothing,corporal_paint"
+483,483,./tribes_data/train/ancestral_clothing face_paint pendant/483.jpg,"ancestral_clothing,face_paint,pendant"
+860,860,./tribes_data/train/ancestral_clothing pendant/860.jpg,"ancestral_clothing,pendant"
+4425,4425,./tribes_data/train/arm_accesory corporal_paint face_paint feathers pendant/4425.jpg,"arm_accesory,corporal_paint,face_paint,feathers,pendant"
+2353,2353,./tribes_data/train/face_paint feathers pendant/2353.jpg,"face_paint,feathers,pendant"
+2847,2847,./tribes_data/train/arm_accesory corporal_paint face_paint feathers modern_clothing nose_piercing pendant/2847.jpg,"arm_accesory,corporal_paint,face_paint,feathers,modern_clothing,nose_piercing,pendant"
+2973,2973,./tribes_data/train/arm_accesory modern_clothing/2973.jpg,"arm_accesory,modern_clothing"
+2498,2498,./tribes_data/train/face_paint feathers pendant/2498.jpg,"face_paint,feathers,pendant"
+4869,4869,./tribes_data/train/face_paint pendant/4869.jpg,"face_paint,pendant"
+3000,3000,./tribes_data/train/bowl_cut face_paint nose_piercing/3000.jpg,"bowl_cut,face_paint,nose_piercing"
+4370,4370,./tribes_data/train/ancestral_clothing arm_accesory face_paint feathers pendant/4370.jpg,"ancestral_clothing,arm_accesory,face_paint,feathers,pendant"
+1426,1426,./tribes_data/train/modern_clothing/1426.jpg,modern_clothing
+3992,3992,./tribes_data/train/face_paint/3992.jpg,face_paint
+1815,1815,./tribes_data/train/modern_clothing/1815.jpg,modern_clothing
+3694,3694,./tribes_data/train/ancestral_clothing corporal_paint/3694.jpg,"ancestral_clothing,corporal_paint"
+3279,3279,./tribes_data/train/face_paint pendant tendrils/3279.jpg,"face_paint,pendant,tendrils"
+247,247,./tribes_data/train/face_paint feathers/247.jpg,"face_paint,feathers"
+908,908,./tribes_data/train/ancestral_clothing pendant/908.jpg,"ancestral_clothing,pendant"
+4608,4608,./tribes_data/train/ancestral_clothing feathers/4608.jpg,"ancestral_clothing,feathers"
+4052,4052,./tribes_data/train/face_paint/4052.jpg,face_paint
+596,596,./tribes_data/train/ancestral_clothing face_paint feathers pendant/596.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+1525,1525,./tribes_data/train/modern_clothing/1525.jpg,modern_clothing
+3673,3673,./tribes_data/train/ancestral_clothing corporal_paint/3673.jpg,"ancestral_clothing,corporal_paint"
+4909,4909,./tribes_data/train/face_paint pendant/4909.jpg,"face_paint,pendant"
+3985,3985,./tribes_data/train/face_paint/3985.jpg,face_paint
+3142,3142,./tribes_data/train/face_paint modern_clothing/3142.jpg,"face_paint,modern_clothing"
+5358,5358,./tribes_data/train/ancestral_clothing/5358.jpg,ancestral_clothing
+789,789,./tribes_data/train/ancestral_clothing face_paint feathers pendant/789.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+3932,3932,./tribes_data/train/pendant/3932.jpg,pendant
+615,615,./tribes_data/train/ancestral_clothing face_paint feathers pendant/615.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+4825,4825,./tribes_data/train/face_paint pendant/4825.jpg,"face_paint,pendant"
+5136,5136,./tribes_data/train/bracelets corporal_paint face_paint feathers pendant/5136.jpg,"bracelets,corporal_paint,face_paint,feathers,pendant"
+4564,4564,./tribes_data/train/ancestral_clothing modern_clothing pendant/4564.jpg,"ancestral_clothing,modern_clothing,pendant"
+3871,3871,./tribes_data/train/ancestral_clothing face_paint pendant tendrils/3871.jpg,"ancestral_clothing,face_paint,pendant,tendrils"
+2583,2583,./tribes_data/train/face_paint feathers pendant/2583.jpg,"face_paint,feathers,pendant"
+2197,2197,./tribes_data/train/ancestral_clothing bracelets corporal_paint face_paint feathers/2197.jpg,"ancestral_clothing,bracelets,corporal_paint,face_paint,feathers"
+1665,1665,./tribes_data/train/modern_clothing/1665.jpg,modern_clothing
+253,253,./tribes_data/train/face_paint feathers/253.jpg,"face_paint,feathers"
+3371,3371,./tribes_data/train/ancestral_clothing bracelets face_paint feathers pendant/3371.jpg,"ancestral_clothing,bracelets,face_paint,feathers,pendant"
+2767,2767,./tribes_data/train/modern_clothing pendant/2767.jpg,"modern_clothing,pendant"
+2945,2945,./tribes_data/train/ancestral_clothing face_paint feathers pendant tendrils/2945.jpg,"ancestral_clothing,face_paint,feathers,pendant,tendrils"
+300,300,./tribes_data/train/bracelets modern_clothing/300.jpg,"bracelets,modern_clothing"
+3589,3589,./tribes_data/train/face_paint feathers pendant tendrils/3589.jpg,"face_paint,feathers,pendant,tendrils"
+3080,3080,./tribes_data/train/feathers modern_clothing pendant/3080.jpg,"feathers,modern_clothing,pendant"
+4174,4174,./tribes_data/train/corporal_paint modern_clothing/4174.jpg,"corporal_paint,modern_clothing"
+1315,1315,./tribes_data/train/modern_clothing/1315.jpg,modern_clothing
+4299,4299,./tribes_data/train/feathers pendant/4299.jpg,"feathers,pendant"
+1371,1371,./tribes_data/train/modern_clothing/1371.jpg,modern_clothing
+5276,5276,./tribes_data/train/ancestral_clothing/5276.jpg,ancestral_clothing
+1354,1354,./tribes_data/train/modern_clothing/1354.jpg,modern_clothing
+2541,2541,./tribes_data/train/face_paint feathers pendant/2541.jpg,"face_paint,feathers,pendant"
+2657,2657,./tribes_data/train/face_paint feathers pendant/2657.jpg,"face_paint,feathers,pendant"
+1066,1066,./tribes_data/train/ancestral_clothing corporal_paint face_paint feathers modern_clothing pendant/1066.jpg,"ancestral_clothing,corporal_paint,face_paint,feathers,modern_clothing,pendant"
+5071,5071,./tribes_data/train/ancestral_clothing bracelets face_paint feathers pendant tendrils/5071.jpg,"ancestral_clothing,bracelets,face_paint,feathers,pendant,tendrils"
+3143,3143,./tribes_data/train/face_paint modern_clothing/3143.jpg,"face_paint,modern_clothing"
+2185,2185,./tribes_data/train/corporal_paint pendant/2185.jpg,"corporal_paint,pendant"
+5105,5105,./tribes_data/train/ancestral_clothing bracelets face_paint feathers pendant tendrils/5105.jpg,"ancestral_clothing,bracelets,face_paint,feathers,pendant,tendrils"
+1904,1904,./tribes_data/train/bowl_cut corporal_paint face_paint/1904.jpg,"bowl_cut,corporal_paint,face_paint"
+4189,4189,./tribes_data/train/corporal_paint modern_clothing/4189.jpg,"corporal_paint,modern_clothing"
+4701,4701,./tribes_data/train/corporal_paint feathers pendant/4701.jpg,"corporal_paint,feathers,pendant"
+3962,3962,./tribes_data/train/face_paint/3962.jpg,face_paint
+359,359,./tribes_data/train/ancestral_clothing corporal_paint feathers/359.jpg,"ancestral_clothing,corporal_paint,feathers"
+4866,4866,./tribes_data/train/face_paint pendant/4866.jpg,"face_paint,pendant"
+3280,3280,./tribes_data/train/face_paint pendant tendrils/3280.jpg,"face_paint,pendant,tendrils"
+4241,4241,./tribes_data/train/ancestral_clothing arm_accesory bracelets corporal_paint face_paint pendant/4241.jpg,"ancestral_clothing,arm_accesory,bracelets,corporal_paint,face_paint,pendant"
+431,431,./tribes_data/train/ancestral_clothing face_paint pendant/431.jpg,"ancestral_clothing,face_paint,pendant"
+4062,4062,./tribes_data/train/bracelets modern_clothing pendant/4062.jpg,"bracelets,modern_clothing,pendant"
+2811,2811,./tribes_data/train/modern_clothing pendant/2811.jpg,"modern_clothing,pendant"
+1276,1276,./tribes_data/train/modern_clothing/1276.jpg,modern_clothing
+3138,3138,./tribes_data/train/face_paint modern_clothing/3138.jpg,"face_paint,modern_clothing"
+544,544,./tribes_data/train/ancestral_clothing face_paint pendant/544.jpg,"ancestral_clothing,face_paint,pendant"
+3261,3261,./tribes_data/train/face_paint pendant tendrils/3261.jpg,"face_paint,pendant,tendrils"
+1263,1263,./tribes_data/train/modern_clothing/1263.jpg,modern_clothing
+4023,4023,./tribes_data/train/face_paint/4023.jpg,face_paint
+4977,4977,./tribes_data/train/face_paint tendrils/4977.jpg,"face_paint,tendrils"
+5406,5406,./tribes_data/train/ancestral_clothing/5406.jpg,ancestral_clothing
+3380,3380,./tribes_data/train/corporal_paint/3380.jpg,corporal_paint
+145,145,./tribes_data/train/ancestral_clothing face_paint/145.jpg,"ancestral_clothing,face_paint"
+3432,3432,./tribes_data/train/ancestral_clothing arm_accesory corporal_paint face_paint feathers pendant/3432.jpg,"ancestral_clothing,arm_accesory,corporal_paint,face_paint,feathers,pendant"
+2521,2521,./tribes_data/train/face_paint feathers pendant/2521.jpg,"face_paint,feathers,pendant"
+2737,2737,./tribes_data/train/ancestral_clothing bracelets corporal_paint face_paint pendant/2737.jpg,"ancestral_clothing,bracelets,corporal_paint,face_paint,pendant"
+726,726,./tribes_data/train/ancestral_clothing face_paint feathers pendant/726.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+1545,1545,./tribes_data/train/modern_clothing/1545.jpg,modern_clothing
+2915,2915,./tribes_data/train/corporal_paint face_paint/2915.jpg,"corporal_paint,face_paint"
+4010,4010,./tribes_data/train/face_paint/4010.jpg,face_paint
+4102,4102,./tribes_data/train/ancestral_clothing corporal_paint feathers pendant/4102.jpg,"ancestral_clothing,corporal_paint,feathers,pendant"
+1374,1374,./tribes_data/train/modern_clothing/1374.jpg,modern_clothing
+57,57,./tribes_data/train/ancestral_clothing corporal_paint face_paint feathers pendant/57.jpg,"ancestral_clothing,corporal_paint,face_paint,feathers,pendant"
+4267,4267,./tribes_data/train/ancestral_clothing arm_accesory corporal_paint face_paint feathers modern_clothing pendant/4267.jpg,"ancestral_clothing,arm_accesory,corporal_paint,face_paint,feathers,modern_clothing,pendant"
+1588,1588,./tribes_data/train/modern_clothing/1588.jpg,modern_clothing
+1214,1214,./tribes_data/train/modern_clothing/1214.jpg,modern_clothing
+1726,1726,./tribes_data/train/modern_clothing/1726.jpg,modern_clothing
+1037,1037,./tribes_data/train/feathers modern_clothing/1037.jpg,"feathers,modern_clothing"
+5320,5320,./tribes_data/train/ancestral_clothing/5320.jpg,ancestral_clothing
+2474,2474,./tribes_data/train/face_paint feathers pendant/2474.jpg,"face_paint,feathers,pendant"
+5021,5021,./tribes_data/train/ancestral_clothing arm_accesory face_paint pendant/5021.jpg,"ancestral_clothing,arm_accesory,face_paint,pendant"
+3969,3969,./tribes_data/train/face_paint/3969.jpg,face_paint
+1322,1322,./tribes_data/train/modern_clothing/1322.jpg,modern_clothing
+1745,1745,./tribes_data/train/modern_clothing/1745.jpg,modern_clothing
+2433,2433,./tribes_data/train/face_paint feathers pendant/2433.jpg,"face_paint,feathers,pendant"
+3575,3575,./tribes_data/train/face_paint feathers pendant tendrils/3575.jpg,"face_paint,feathers,pendant,tendrils"
+89,89,./tribes_data/train/ancestral_clothing corporal_paint face_paint feathers pendant/89.jpg,"ancestral_clothing,corporal_paint,face_paint,feathers,pendant"
+325,325,./tribes_data/train/bracelets face_paint feathers pendant/325.jpg,"bracelets,face_paint,feathers,pendant"
+3776,3776,./tribes_data/train/ancestral_clothing feathers pendant/3776.jpg,"ancestral_clothing,feathers,pendant"
+627,627,./tribes_data/train/ancestral_clothing face_paint feathers pendant/627.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+1551,1551,./tribes_data/train/modern_clothing/1551.jpg,modern_clothing
+2891,2891,./tribes_data/train/face_paint feathers modern_clothing pendant/2891.jpg,"face_paint,feathers,modern_clothing,pendant"
+1112,1112,./tribes_data/train/arm_accesory face_paint feathers modern_clothing pendant tendrils/1112.jpg,"arm_accesory,face_paint,feathers,modern_clothing,pendant,tendrils"
+105,105,./tribes_data/train/ancestral_clothing corporal_paint face_paint feathers pendant/105.jpg,"ancestral_clothing,corporal_paint,face_paint,feathers,pendant"
+4323,4323,./tribes_data/train/feathers pendant/4323.jpg,"feathers,pendant"
+1319,1319,./tribes_data/train/modern_clothing/1319.jpg,modern_clothing
+3166,3166,./tribes_data/train/face_paint modern_clothing/3166.jpg,"face_paint,modern_clothing"
+1390,1390,./tribes_data/train/modern_clothing/1390.jpg,modern_clothing
+3458,3458,./tribes_data/train/corporal_paint feathers nose_piercing pendant/3458.jpg,"corporal_paint,feathers,nose_piercing,pendant"
+2237,2237,./tribes_data/train/face_paint feathers pendant/2237.jpg,"face_paint,feathers,pendant"
+130,130,./tribes_data/train/ancestral_clothing face_paint/130.jpg,"ancestral_clothing,face_paint"
+1400,1400,./tribes_data/train/modern_clothing/1400.jpg,modern_clothing
+2720,2720,./tribes_data/train/ancestral_clothing bracelets pendant/2720.jpg,"ancestral_clothing,bracelets,pendant"
+551,551,./tribes_data/train/ancestral_clothing face_paint pendant/551.jpg,"ancestral_clothing,face_paint,pendant"
+99,99,./tribes_data/train/ancestral_clothing corporal_paint face_paint feathers pendant/99.jpg,"ancestral_clothing,corporal_paint,face_paint,feathers,pendant"
+2554,2554,./tribes_data/train/face_paint feathers pendant/2554.jpg,"face_paint,feathers,pendant"
+1648,1648,./tribes_data/train/modern_clothing/1648.jpg,modern_clothing
+4205,4205,./tribes_data/train/ancestral_clothing arm_accesory corporal_paint face_paint pendant/4205.jpg,"ancestral_clothing,arm_accesory,corporal_paint,face_paint,pendant"
+2222,2222,./tribes_data/train/face_paint feathers pendant/2222.jpg,"face_paint,feathers,pendant"
+4122,4122,./tribes_data/train/ancestral_clothing face_paint feathers/4122.jpg,"ancestral_clothing,face_paint,feathers"
+5184,5184,./tribes_data/train/ancestral_clothing/5184.jpg,ancestral_clothing
+4884,4884,./tribes_data/train/face_paint pendant/4884.jpg,"face_paint,pendant"
+2506,2506,./tribes_data/train/face_paint feathers pendant/2506.jpg,"face_paint,feathers,pendant"
+4785,4785,./tribes_data/train/face_paint pendant/4785.jpg,"face_paint,pendant"
+881,881,./tribes_data/train/ancestral_clothing pendant/881.jpg,"ancestral_clothing,pendant"
+843,843,./tribes_data/train/ancestral_clothing pendant/843.jpg,"ancestral_clothing,pendant"
+2167,2167,./tribes_data/train/arm_accesory corporal_paint face_paint modern_clothing pendant/2167.jpg,"arm_accesory,corporal_paint,face_paint,modern_clothing,pendant"
+4794,4794,./tribes_data/train/face_paint pendant/4794.jpg,"face_paint,pendant"
+1971,1971,./tribes_data/train/face_paint feathers nose_piercing pendant/1971.jpg,"face_paint,feathers,nose_piercing,pendant"
+3216,3216,./tribes_data/train/ancestral_clothing pendant tendrils/3216.jpg,"ancestral_clothing,pendant,tendrils"
+5049,5049,./tribes_data/train/ancestral_clothing arm_accesory/5049.jpg,"ancestral_clothing,arm_accesory"
+4626,4626,./tribes_data/train/ancestral_clothing feathers/4626.jpg,"ancestral_clothing,feathers"
+2257,2257,./tribes_data/train/face_paint feathers pendant/2257.jpg,"face_paint,feathers,pendant"
+1368,1368,./tribes_data/train/modern_clothing/1368.jpg,modern_clothing
+5236,5236,./tribes_data/train/ancestral_clothing/5236.jpg,ancestral_clothing
+3248,3248,./tribes_data/train/face_paint pendant tendrils/3248.jpg,"face_paint,pendant,tendrils"
+1006,1006,./tribes_data/train/face_paint modern_clothing pendant/1006.jpg,"face_paint,modern_clothing,pendant"
+2469,2469,./tribes_data/train/face_paint feathers pendant/2469.jpg,"face_paint,feathers,pendant"
+3645,3645,./tribes_data/train/ancestral_clothing corporal_paint/3645.jpg,"ancestral_clothing,corporal_paint"
+2483,2483,./tribes_data/train/face_paint feathers pendant/2483.jpg,"face_paint,feathers,pendant"
+4597,4597,./tribes_data/train/ancestral_clothing feathers/4597.jpg,"ancestral_clothing,feathers"
+1943,1943,./tribes_data/train/ancestral_clothing bracelets corporal_paint face_paint feathers pendant/1943.jpg,"ancestral_clothing,bracelets,corporal_paint,face_paint,feathers,pendant"
+4492,4492,./tribes_data/train/corporal_paint face_paint feathers pendant/4492.jpg,"corporal_paint,face_paint,feathers,pendant"
+3980,3980,./tribes_data/train/face_paint/3980.jpg,face_paint
+2380,2380,./tribes_data/train/face_paint feathers pendant/2380.jpg,"face_paint,feathers,pendant"
+3099,3099,./tribes_data/train/feathers modern_clothing pendant/3099.jpg,"feathers,modern_clothing,pendant"
+94,94,./tribes_data/train/ancestral_clothing corporal_paint face_paint feathers pendant/94.jpg,"ancestral_clothing,corporal_paint,face_paint,feathers,pendant"
+2644,2644,./tribes_data/train/face_paint feathers pendant/2644.jpg,"face_paint,feathers,pendant"
+4479,4479,./tribes_data/train/corporal_paint face_paint feathers pendant/4479.jpg,"corporal_paint,face_paint,feathers,pendant"
+4828,4828,./tribes_data/train/face_paint pendant/4828.jpg,"face_paint,pendant"
+4072,4072,./tribes_data/train/feathers modern_clothing tendrils/4072.jpg,"feathers,modern_clothing,tendrils"
+2012,2012,./tribes_data/train/corporal_paint face_paint feathers modern_clothing pendant/2012.jpg,"corporal_paint,face_paint,feathers,modern_clothing,pendant"
+1541,1541,./tribes_data/train/modern_clothing/1541.jpg,modern_clothing
+3860,3860,./tribes_data/train/ancestral_clothing face_paint pendant tendrils/3860.jpg,"ancestral_clothing,face_paint,pendant,tendrils"
+3775,3775,./tribes_data/train/ancestral_clothing feathers pendant/3775.jpg,"ancestral_clothing,feathers,pendant"
+5156,5156,./tribes_data/train/bracelets corporal_paint face_paint feathers pendant/5156.jpg,"bracelets,corporal_paint,face_paint,feathers,pendant"
+3858,3858,./tribes_data/train/ancestral_clothing face_paint pendant tendrils/3858.jpg,"ancestral_clothing,face_paint,pendant,tendrils"
+1013,1013,./tribes_data/train/feathers modern_clothing/1013.jpg,"feathers,modern_clothing"
+1363,1363,./tribes_data/train/modern_clothing/1363.jpg,modern_clothing
+5214,5214,./tribes_data/train/ancestral_clothing/5214.jpg,ancestral_clothing
+4269,4269,./tribes_data/train/ancestral_clothing arm_accesory corporal_paint face_paint feathers modern_clothing pendant/4269.jpg,"ancestral_clothing,arm_accesory,corporal_paint,face_paint,feathers,modern_clothing,pendant"
+3009,3009,./tribes_data/train/face_paint modern_clothing pendant tendrils/3009.jpg,"face_paint,modern_clothing,pendant,tendrils"
+77,77,./tribes_data/train/ancestral_clothing corporal_paint face_paint feathers pendant/77.jpg,"ancestral_clothing,corporal_paint,face_paint,feathers,pendant"
+464,464,./tribes_data/train/ancestral_clothing face_paint pendant/464.jpg,"ancestral_clothing,face_paint,pendant"
+4807,4807,./tribes_data/train/face_paint pendant/4807.jpg,"face_paint,pendant"
+5284,5284,./tribes_data/train/ancestral_clothing/5284.jpg,ancestral_clothing
+2163,2163,./tribes_data/train/arm_accesory face_paint feathers pendant/2163.jpg,"arm_accesory,face_paint,feathers,pendant"
+996,996,./tribes_data/train/face_paint modern_clothing pendant/996.jpg,"face_paint,modern_clothing,pendant"
+4524,4524,./tribes_data/train/corporal_paint face_paint feathers pendant/4524.jpg,"corporal_paint,face_paint,feathers,pendant"
+264,264,./tribes_data/train/ancestral_clothing arm_accesory bracelets corporal_paint face_paint feathers pendant/264.jpg,"ancestral_clothing,arm_accesory,bracelets,corporal_paint,face_paint,feathers,pendant"
+542,542,./tribes_data/train/ancestral_clothing face_paint pendant/542.jpg,"ancestral_clothing,face_paint,pendant"
+4314,4314,./tribes_data/train/feathers pendant/4314.jpg,"feathers,pendant"
+4495,4495,./tribes_data/train/corporal_paint face_paint feathers pendant/4495.jpg,"corporal_paint,face_paint,feathers,pendant"
+2590,2590,./tribes_data/train/face_paint feathers pendant/2590.jpg,"face_paint,feathers,pendant"
+4879,4879,./tribes_data/train/face_paint pendant/4879.jpg,"face_paint,pendant"
+2544,2544,./tribes_data/train/face_paint feathers pendant/2544.jpg,"face_paint,feathers,pendant"
+1562,1562,./tribes_data/train/modern_clothing/1562.jpg,modern_clothing
+780,780,./tribes_data/train/ancestral_clothing face_paint feathers pendant/780.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+4240,4240,./tribes_data/train/ancestral_clothing arm_accesory bracelets corporal_paint face_paint pendant/4240.jpg,"ancestral_clothing,arm_accesory,bracelets,corporal_paint,face_paint,pendant"
+5220,5220,./tribes_data/train/ancestral_clothing/5220.jpg,ancestral_clothing
+1986,1986,./tribes_data/train/corporal_paint face_paint feathers/1986.jpg,"corporal_paint,face_paint,feathers"
+3275,3275,./tribes_data/train/face_paint pendant tendrils/3275.jpg,"face_paint,pendant,tendrils"
+4232,4232,./tribes_data/train/ancestral_clothing arm_accesory corporal_paint face_paint pendant/4232.jpg,"ancestral_clothing,arm_accesory,corporal_paint,face_paint,pendant"
+1328,1328,./tribes_data/train/modern_clothing/1328.jpg,modern_clothing
+4435,4435,./tribes_data/train/ancestral_clothing bracelets feathers pendant/4435.jpg,"ancestral_clothing,bracelets,feathers,pendant"
+2414,2414,./tribes_data/train/face_paint feathers pendant/2414.jpg,"face_paint,feathers,pendant"
+303,303,./tribes_data/train/feathers nose_piercing pendant tendrils/303.jpg,"feathers,nose_piercing,pendant,tendrils"
+2647,2647,./tribes_data/train/face_paint feathers pendant/2647.jpg,"face_paint,feathers,pendant"
+2779,2779,./tribes_data/train/modern_clothing pendant/2779.jpg,"modern_clothing,pendant"
+1960,1960,./tribes_data/train/face_paint feathers nose_piercing pendant/1960.jpg,"face_paint,feathers,nose_piercing,pendant"
+3598,3598,./tribes_data/train/face_paint feathers pendant tendrils/3598.jpg,"face_paint,feathers,pendant,tendrils"
+2337,2337,./tribes_data/train/face_paint feathers pendant/2337.jpg,"face_paint,feathers,pendant"
+2797,2797,./tribes_data/train/modern_clothing pendant/2797.jpg,"modern_clothing,pendant"
+5387,5387,./tribes_data/train/ancestral_clothing/5387.jpg,ancestral_clothing
+4304,4304,./tribes_data/train/feathers pendant/4304.jpg,"feathers,pendant"
+1774,1774,./tribes_data/train/modern_clothing/1774.jpg,modern_clothing
+1326,1326,./tribes_data/train/modern_clothing/1326.jpg,modern_clothing
+1204,1204,./tribes_data/train/modern_clothing/1204.jpg,modern_clothing
+3695,3695,./tribes_data/train/ancestral_clothing corporal_paint/3695.jpg,"ancestral_clothing,corporal_paint"
+4759,4759,./tribes_data/train/face_paint pendant/4759.jpg,"face_paint,pendant"
+4911,4911,./tribes_data/train/face_paint pendant/4911.jpg,"face_paint,pendant"
+2827,2827,./tribes_data/train/modern_clothing pendant/2827.jpg,"modern_clothing,pendant"
+1226,1226,./tribes_data/train/modern_clothing/1226.jpg,modern_clothing
+5205,5205,./tribes_data/train/ancestral_clothing/5205.jpg,ancestral_clothing
+2487,2487,./tribes_data/train/face_paint feathers pendant/2487.jpg,"face_paint,feathers,pendant"
+3317,3317,./tribes_data/train/face_paint feathers modern_clothing pendant tendrils/3317.jpg,"face_paint,feathers,modern_clothing,pendant,tendrils"
+3104,3104,./tribes_data/train/feathers modern_clothing pendant/3104.jpg,"feathers,modern_clothing,pendant"
+1936,1936,./tribes_data/train/face_paint nose_piercing/1936.jpg,"face_paint,nose_piercing"
+351,351,./tribes_data/train/bracelets face_paint feathers pendant/351.jpg,"bracelets,face_paint,feathers,pendant"
+4316,4316,./tribes_data/train/feathers pendant/4316.jpg,"feathers,pendant"
+3085,3085,./tribes_data/train/feathers modern_clothing pendant/3085.jpg,"feathers,modern_clothing,pendant"
+1087,1087,./tribes_data/train/ancestral_clothing bracelets face_paint pendant/1087.jpg,"ancestral_clothing,bracelets,face_paint,pendant"
+3554,3554,./tribes_data/train/corporal_paint face_paint pendant/3554.jpg,"corporal_paint,face_paint,pendant"
+1780,1780,./tribes_data/train/modern_clothing/1780.jpg,modern_clothing
+4360,4360,./tribes_data/train/ancestral_clothing face_paint nose_piercing pendant tendrils/4360.jpg,"ancestral_clothing,face_paint,nose_piercing,pendant,tendrils"
+4962,4962,./tribes_data/train/face_paint pendant/4962.jpg,"face_paint,pendant"
+2552,2552,./tribes_data/train/face_paint feathers pendant/2552.jpg,"face_paint,feathers,pendant"
+1163,1163,./tribes_data/train/modern_clothing/1163.jpg,modern_clothing
+731,731,./tribes_data/train/ancestral_clothing face_paint feathers pendant/731.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+4686,4686,./tribes_data/train/arm_accesory face_paint feathers modern_clothing pendant/4686.jpg,"arm_accesory,face_paint,feathers,modern_clothing,pendant"
+4384,4384,./tribes_data/train/ancestral_clothing arm_accesory face_paint feathers pendant/4384.jpg,"ancestral_clothing,arm_accesory,face_paint,feathers,pendant"
+1496,1496,./tribes_data/train/modern_clothing/1496.jpg,modern_clothing
+2911,2911,./tribes_data/train/face_paint feathers tendrils/2911.jpg,"face_paint,feathers,tendrils"
+1850,1850,./tribes_data/train/modern_clothing/1850.jpg,modern_clothing
+2317,2317,./tribes_data/train/face_paint feathers pendant/2317.jpg,"face_paint,feathers,pendant"
+1619,1619,./tribes_data/train/modern_clothing/1619.jpg,modern_clothing
+4557,4557,./tribes_data/train/ancestral_clothing modern_clothing pendant/4557.jpg,"ancestral_clothing,modern_clothing,pendant"
+1689,1689,./tribes_data/train/modern_clothing/1689.jpg,modern_clothing
+4963,4963,./tribes_data/train/face_paint pendant/4963.jpg,"face_paint,pendant"
+1572,1572,./tribes_data/train/modern_clothing/1572.jpg,modern_clothing
+4197,4197,./tribes_data/train/ancestral_clothing arm_accesory corporal_paint face_paint pendant/4197.jpg,"ancestral_clothing,arm_accesory,corporal_paint,face_paint,pendant"
+1008,1008,./tribes_data/train/face_paint modern_clothing pendant/1008.jpg,"face_paint,modern_clothing,pendant"
+2684,2684,./tribes_data/train/ancestral_clothing corporal_paint face_paint pendant/2684.jpg,"ancestral_clothing,corporal_paint,face_paint,pendant"
+2893,2893,./tribes_data/train/face_paint feathers modern_clothing pendant/2893.jpg,"face_paint,feathers,modern_clothing,pendant"
+904,904,./tribes_data/train/ancestral_clothing pendant/904.jpg,"ancestral_clothing,pendant"
+673,673,./tribes_data/train/ancestral_clothing face_paint feathers pendant/673.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+639,639,./tribes_data/train/ancestral_clothing face_paint feathers pendant/639.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+2264,2264,./tribes_data/train/face_paint feathers pendant/2264.jpg,"face_paint,feathers,pendant"
+1376,1376,./tribes_data/train/modern_clothing/1376.jpg,modern_clothing
+5043,5043,./tribes_data/train/ancestral_clothing arm_accesory face_paint pendant/5043.jpg,"ancestral_clothing,arm_accesory,face_paint,pendant"
+1878,1878,./tribes_data/train/modern_clothing/1878.jpg,modern_clothing
+688,688,./tribes_data/train/ancestral_clothing face_paint feathers pendant/688.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+4618,4618,./tribes_data/train/ancestral_clothing feathers/4618.jpg,"ancestral_clothing,feathers"
+5188,5188,./tribes_data/train/ancestral_clothing/5188.jpg,ancestral_clothing
+227,227,./tribes_data/train/face_paint feathers/227.jpg,"face_paint,feathers"
+4992,4992,./tribes_data/train/face_paint tendrils/4992.jpg,"face_paint,tendrils"
+1140,1140,./tribes_data/train/nose_piercing pendant/1140.jpg,"nose_piercing,pendant"
+209,209,./tribes_data/train/face_paint feathers/209.jpg,"face_paint,feathers"
+2473,2473,./tribes_data/train/face_paint feathers pendant/2473.jpg,"face_paint,feathers,pendant"
+4826,4826,./tribes_data/train/face_paint pendant/4826.jpg,"face_paint,pendant"
+2877,2877,./tribes_data/train/face_paint feathers modern_clothing pendant/2877.jpg,"face_paint,feathers,modern_clothing,pendant"
+5384,5384,./tribes_data/train/ancestral_clothing/5384.jpg,ancestral_clothing
+125,125,./tribes_data/train/ancestral_clothing face_paint/125.jpg,"ancestral_clothing,face_paint"
+2416,2416,./tribes_data/train/face_paint feathers pendant/2416.jpg,"face_paint,feathers,pendant"
+736,736,./tribes_data/train/ancestral_clothing face_paint feathers pendant/736.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+3076,3076,./tribes_data/train/feathers modern_clothing pendant/3076.jpg,"feathers,modern_clothing,pendant"
+5375,5375,./tribes_data/train/ancestral_clothing/5375.jpg,ancestral_clothing
+5285,5285,./tribes_data/train/ancestral_clothing/5285.jpg,ancestral_clothing
+366,366,./tribes_data/train/ancestral_clothing corporal_paint feathers/366.jpg,"ancestral_clothing,corporal_paint,feathers"
+2130,2130,./tribes_data/train/feathers/2130.jpg,feathers
+2571,2571,./tribes_data/train/face_paint feathers pendant/2571.jpg,"face_paint,feathers,pendant"
+523,523,./tribes_data/train/ancestral_clothing face_paint pendant/523.jpg,"ancestral_clothing,face_paint,pendant"
+3399,3399,./tribes_data/train/corporal_paint face_paint pendant tendrils/3399.jpg,"corporal_paint,face_paint,pendant,tendrils"
+3226,3226,./tribes_data/train/ancestral_clothing pendant tendrils/3226.jpg,"ancestral_clothing,pendant,tendrils"
+265,265,./tribes_data/train/ancestral_clothing arm_accesory bracelets corporal_paint face_paint feathers pendant/265.jpg,"ancestral_clothing,arm_accesory,bracelets,corporal_paint,face_paint,feathers,pendant"
+288,288,./tribes_data/train/bracelets modern_clothing/288.jpg,"bracelets,modern_clothing"
+2325,2325,./tribes_data/train/face_paint feathers pendant/2325.jpg,"face_paint,feathers,pendant"
+3966,3966,./tribes_data/train/face_paint/3966.jpg,face_paint
+733,733,./tribes_data/train/ancestral_clothing face_paint feathers pendant/733.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+769,769,./tribes_data/train/ancestral_clothing face_paint feathers pendant/769.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+2594,2594,./tribes_data/train/face_paint feathers pendant/2594.jpg,"face_paint,feathers,pendant"
+2166,2166,./tribes_data/train/arm_accesory corporal_paint face_paint modern_clothing pendant/2166.jpg,"arm_accesory,corporal_paint,face_paint,modern_clothing,pendant"
+3825,3825,./tribes_data/train/ancestral_clothing feathers pendant/3825.jpg,"ancestral_clothing,feathers,pendant"
+2254,2254,./tribes_data/train/face_paint feathers pendant/2254.jpg,"face_paint,feathers,pendant"
+4461,4461,./tribes_data/train/corporal_paint face_paint feathers pendant/4461.jpg,"corporal_paint,face_paint,feathers,pendant"
+3783,3783,./tribes_data/train/ancestral_clothing feathers pendant/3783.jpg,"ancestral_clothing,feathers,pendant"
+4930,4930,./tribes_data/train/face_paint pendant/4930.jpg,"face_paint,pendant"
+3513,3513,./tribes_data/train/arm_accesory corporal_paint face_paint pendant/3513.jpg,"arm_accesory,corporal_paint,face_paint,pendant"
+2499,2499,./tribes_data/train/face_paint feathers pendant/2499.jpg,"face_paint,feathers,pendant"
+4717,4717,./tribes_data/train/face_paint nose_piercing pendant tendrils/4717.jpg,"face_paint,nose_piercing,pendant,tendrils"
+5099,5099,./tribes_data/train/ancestral_clothing bracelets face_paint feathers pendant tendrils/5099.jpg,"ancestral_clothing,bracelets,face_paint,feathers,pendant,tendrils"
+2389,2389,./tribes_data/train/face_paint feathers pendant/2389.jpg,"face_paint,feathers,pendant"
+3054,3054,./tribes_data/train/ancestral_clothing bowl_cut/3054.jpg,"ancestral_clothing,bowl_cut"
+4649,4649,./tribes_data/train/ancestral_clothing feathers/4649.jpg,"ancestral_clothing,feathers"
+2926,2926,./tribes_data/train/ancestral_clothing face_paint feathers pendant tendrils/2926.jpg,"ancestral_clothing,face_paint,feathers,pendant,tendrils"
+1645,1645,./tribes_data/train/modern_clothing/1645.jpg,modern_clothing
+5356,5356,./tribes_data/train/ancestral_clothing/5356.jpg,ancestral_clothing
+2453,2453,./tribes_data/train/face_paint feathers pendant/2453.jpg,"face_paint,feathers,pendant"
+4827,4827,./tribes_data/train/face_paint pendant/4827.jpg,"face_paint,pendant"
+2305,2305,./tribes_data/train/face_paint feathers pendant/2305.jpg,"face_paint,feathers,pendant"
+2593,2593,./tribes_data/train/face_paint feathers pendant/2593.jpg,"face_paint,feathers,pendant"
+3770,3770,./tribes_data/train/ancestral_clothing feathers pendant/3770.jpg,"ancestral_clothing,feathers,pendant"
+4109,4109,./tribes_data/train/ancestral_clothing corporal_paint feathers pendant/4109.jpg,"ancestral_clothing,corporal_paint,feathers,pendant"
+1681,1681,./tribes_data/train/modern_clothing/1681.jpg,modern_clothing
+5237,5237,./tribes_data/train/ancestral_clothing/5237.jpg,ancestral_clothing
+3191,3191,./tribes_data/train/face_paint modern_clothing/3191.jpg,"face_paint,modern_clothing"
+5135,5135,./tribes_data/train/arm_accesory feathers/5135.jpg,"arm_accesory,feathers"
+4513,4513,./tribes_data/train/corporal_paint face_paint feathers pendant/4513.jpg,"corporal_paint,face_paint,feathers,pendant"
+616,616,./tribes_data/train/ancestral_clothing face_paint feathers pendant/616.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+3237,3237,./tribes_data/train/ancestral_clothing pendant tendrils/3237.jpg,"ancestral_clothing,pendant,tendrils"
+3924,3924,./tribes_data/train/pendant/3924.jpg,pendant
+4016,4016,./tribes_data/train/face_paint/4016.jpg,face_paint
+1247,1247,./tribes_data/train/modern_clothing/1247.jpg,modern_clothing
+3253,3253,./tribes_data/train/face_paint pendant tendrils/3253.jpg,"face_paint,pendant,tendrils"
+3978,3978,./tribes_data/train/face_paint/3978.jpg,face_paint
+1701,1701,./tribes_data/train/modern_clothing/1701.jpg,modern_clothing
+3213,3213,./tribes_data/train/ancestral_clothing pendant tendrils/3213.jpg,"ancestral_clothing,pendant,tendrils"
+4620,4620,./tribes_data/train/ancestral_clothing feathers/4620.jpg,"ancestral_clothing,feathers"
+924,924,./tribes_data/train/ancestral_clothing pendant/924.jpg,"ancestral_clothing,pendant"
+2618,2618,./tribes_data/train/face_paint feathers pendant/2618.jpg,"face_paint,feathers,pendant"
+4096,4096,./tribes_data/train/ancestral_clothing corporal_paint feathers pendant/4096.jpg,"ancestral_clothing,corporal_paint,feathers,pendant"
+3088,3088,./tribes_data/train/feathers modern_clothing pendant/3088.jpg,"feathers,modern_clothing,pendant"
+2531,2531,./tribes_data/train/face_paint feathers pendant/2531.jpg,"face_paint,feathers,pendant"
+2925,2925,./tribes_data/train/ancestral_clothing face_paint feathers pendant tendrils/2925.jpg,"ancestral_clothing,face_paint,feathers,pendant,tendrils"
+4633,4633,./tribes_data/train/ancestral_clothing feathers/4633.jpg,"ancestral_clothing,feathers"
+3745,3745,./tribes_data/train/ancestral_clothing feathers pendant/3745.jpg,"ancestral_clothing,feathers,pendant"
+3414,3414,./tribes_data/train/ancestral_clothing arm_accesory corporal_paint face_paint feathers pendant/3414.jpg,"ancestral_clothing,arm_accesory,corporal_paint,face_paint,feathers,pendant"
+5092,5092,./tribes_data/train/ancestral_clothing bracelets face_paint feathers pendant tendrils/5092.jpg,"ancestral_clothing,bracelets,face_paint,feathers,pendant,tendrils"
+5025,5025,./tribes_data/train/ancestral_clothing arm_accesory face_paint pendant/5025.jpg,"ancestral_clothing,arm_accesory,face_paint,pendant"
+5323,5323,./tribes_data/train/ancestral_clothing/5323.jpg,ancestral_clothing
+4846,4846,./tribes_data/train/face_paint pendant/4846.jpg,"face_paint,pendant"
+1485,1485,./tribes_data/train/modern_clothing/1485.jpg,modern_clothing
+2107,2107,./tribes_data/train/feathers/2107.jpg,feathers
+5062,5062,./tribes_data/train/ancestral_clothing bracelets face_paint feathers pendant tendrils/5062.jpg,"ancestral_clothing,bracelets,face_paint,feathers,pendant,tendrils"
+4368,4368,./tribes_data/train/ancestral_clothing arm_accesory face_paint feathers pendant/4368.jpg,"ancestral_clothing,arm_accesory,face_paint,feathers,pendant"
+761,761,./tribes_data/train/ancestral_clothing face_paint feathers pendant/761.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+3777,3777,./tribes_data/train/ancestral_clothing feathers pendant/3777.jpg,"ancestral_clothing,feathers,pendant"
+4127,4127,./tribes_data/train/ancestral_clothing face_paint feathers/4127.jpg,"ancestral_clothing,face_paint,feathers"
+4008,4008,./tribes_data/train/face_paint/4008.jpg,face_paint
+4175,4175,./tribes_data/train/corporal_paint modern_clothing/4175.jpg,"corporal_paint,modern_clothing"
+3435,3435,./tribes_data/train/ancestral_clothing arm_accesory corporal_paint face_paint feathers pendant/3435.jpg,"ancestral_clothing,arm_accesory,corporal_paint,face_paint,feathers,pendant"
+2328,2328,./tribes_data/train/face_paint feathers pendant/2328.jpg,"face_paint,feathers,pendant"
+3912,3912,./tribes_data/train/ancestral_clothing face_paint feathers tendrils/3912.jpg,"ancestral_clothing,face_paint,feathers,tendrils"
+3356,3356,./tribes_data/train/ancestral_clothing corporal_paint face_paint/3356.jpg,"ancestral_clothing,corporal_paint,face_paint"
+1178,1178,./tribes_data/train/modern_clothing/1178.jpg,modern_clothing
+4128,4128,./tribes_data/train/ancestral_clothing face_paint feathers/4128.jpg,"ancestral_clothing,face_paint,feathers"
+3150,3150,./tribes_data/train/face_paint modern_clothing/3150.jpg,"face_paint,modern_clothing"
+1186,1186,./tribes_data/train/modern_clothing/1186.jpg,modern_clothing
+447,447,./tribes_data/train/ancestral_clothing face_paint pendant/447.jpg,"ancestral_clothing,face_paint,pendant"
+3063,3063,./tribes_data/train/ancestral_clothing bowl_cut/3063.jpg,"ancestral_clothing,bowl_cut"
+4999,4999,./tribes_data/train/face_paint tendrils/4999.jpg,"face_paint,tendrils"
+1352,1352,./tribes_data/train/modern_clothing/1352.jpg,modern_clothing
+4203,4203,./tribes_data/train/ancestral_clothing arm_accesory corporal_paint face_paint pendant/4203.jpg,"ancestral_clothing,arm_accesory,corporal_paint,face_paint,pendant"
+1063,1063,./tribes_data/train/corporal_paint face_paint feathers modern_clothing pendant tendrils/1063.jpg,"corporal_paint,face_paint,feathers,modern_clothing,pendant,tendrils"
+3245,3245,./tribes_data/train/face_paint pendant tendrils/3245.jpg,"face_paint,pendant,tendrils"
+3951,3951,./tribes_data/train/face_paint/3951.jpg,face_paint
+4952,4952,./tribes_data/train/face_paint pendant/4952.jpg,"face_paint,pendant"
+4702,4702,./tribes_data/train/corporal_paint feathers pendant/4702.jpg,"corporal_paint,feathers,pendant"
+136,136,./tribes_data/train/ancestral_clothing face_paint/136.jpg,"ancestral_clothing,face_paint"
+1703,1703,./tribes_data/train/modern_clothing/1703.jpg,modern_clothing
+2041,2041,./tribes_data/train/arm_accesory bracelets corporal_paint feathers pendant/2041.jpg,"arm_accesory,bracelets,corporal_paint,feathers,pendant"
+1239,1239,./tribes_data/train/modern_clothing/1239.jpg,modern_clothing
+1947,1947,./tribes_data/train/ancestral_clothing bracelets corporal_paint face_paint feathers pendant/1947.jpg,"ancestral_clothing,bracelets,corporal_paint,face_paint,feathers,pendant"
+1860,1860,./tribes_data/train/modern_clothing/1860.jpg,modern_clothing
+4352,4352,./tribes_data/train/ancestral_clothing face_paint nose_piercing pendant tendrils/4352.jpg,"ancestral_clothing,face_paint,nose_piercing,pendant,tendrils"
+2408,2408,./tribes_data/train/face_paint feathers pendant/2408.jpg,"face_paint,feathers,pendant"
+1199,1199,./tribes_data/train/modern_clothing/1199.jpg,modern_clothing
+2284,2284,./tribes_data/train/face_paint feathers pendant/2284.jpg,"face_paint,feathers,pendant"
+159,159,./tribes_data/train/arm_accesory bracelets corporal_paint face_paint modern_clothing pendant/159.jpg,"arm_accesory,bracelets,corporal_paint,face_paint,modern_clothing,pendant"
+1439,1439,./tribes_data/train/modern_clothing/1439.jpg,modern_clothing
+1375,1375,./tribes_data/train/modern_clothing/1375.jpg,modern_clothing
+4141,4141,./tribes_data/train/ancestral_clothing face_paint feathers/4141.jpg,"ancestral_clothing,face_paint,feathers"
+2889,2889,./tribes_data/train/face_paint feathers modern_clothing pendant/2889.jpg,"face_paint,feathers,modern_clothing,pendant"
+4100,4100,./tribes_data/train/ancestral_clothing corporal_paint feathers pendant/4100.jpg,"ancestral_clothing,corporal_paint,feathers,pendant"
+2282,2282,./tribes_data/train/face_paint feathers pendant/2282.jpg,"face_paint,feathers,pendant"
+142,142,./tribes_data/train/ancestral_clothing face_paint/142.jpg,"ancestral_clothing,face_paint"
+2985,2985,./tribes_data/train/arm_accesory corporal_paint face_paint feathers nose_piercing pendant/2985.jpg,"arm_accesory,corporal_paint,face_paint,feathers,nose_piercing,pendant"
+1029,1029,./tribes_data/train/feathers modern_clothing/1029.jpg,"feathers,modern_clothing"
+1735,1735,./tribes_data/train/modern_clothing/1735.jpg,modern_clothing
+7,7,./tribes_data/train/ancestral_clothing corporal_paint face_paint feathers pendant/7.jpg,"ancestral_clothing,corporal_paint,face_paint,feathers,pendant"
+3799,3799,./tribes_data/train/ancestral_clothing feathers pendant/3799.jpg,"ancestral_clothing,feathers,pendant"
+1026,1026,./tribes_data/train/feathers modern_clothing/1026.jpg,"feathers,modern_clothing"
+3304,3304,./tribes_data/train/face_paint pendant tendrils/3304.jpg,"face_paint,pendant,tendrils"
+932,932,./tribes_data/train/ancestral_clothing pendant/932.jpg,"ancestral_clothing,pendant"
+357,357,./tribes_data/train/ancestral_clothing corporal_paint feathers/357.jpg,"ancestral_clothing,corporal_paint,feathers"
+633,633,./tribes_data/train/ancestral_clothing face_paint feathers pendant/633.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+3449,3449,./tribes_data/train/bowl_cut face_paint nose_piercing tendrils/3449.jpg,"bowl_cut,face_paint,nose_piercing,tendrils"
+378,378,./tribes_data/train/ancestral_clothing corporal_paint feathers/378.jpg,"ancestral_clothing,corporal_paint,feathers"
+785,785,./tribes_data/train/ancestral_clothing face_paint feathers pendant/785.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+3218,3218,./tribes_data/train/ancestral_clothing pendant tendrils/3218.jpg,"ancestral_clothing,pendant,tendrils"
+100,100,./tribes_data/train/ancestral_clothing corporal_paint face_paint feathers pendant/100.jpg,"ancestral_clothing,corporal_paint,face_paint,feathers,pendant"
+5252,5252,./tribes_data/train/ancestral_clothing/5252.jpg,ancestral_clothing
+900,900,./tribes_data/train/ancestral_clothing pendant/900.jpg,"ancestral_clothing,pendant"
+922,922,./tribes_data/train/ancestral_clothing pendant/922.jpg,"ancestral_clothing,pendant"
+2804,2804,./tribes_data/train/modern_clothing pendant/2804.jpg,"modern_clothing,pendant"
+849,849,./tribes_data/train/ancestral_clothing pendant/849.jpg,"ancestral_clothing,pendant"
+2939,2939,./tribes_data/train/ancestral_clothing face_paint feathers pendant tendrils/2939.jpg,"ancestral_clothing,face_paint,feathers,pendant,tendrils"
+4682,4682,./tribes_data/train/ancestral_clothing feathers/4682.jpg,"ancestral_clothing,feathers"
+5300,5300,./tribes_data/train/ancestral_clothing/5300.jpg,ancestral_clothing
+4875,4875,./tribes_data/train/face_paint pendant/4875.jpg,"face_paint,pendant"
+1099,1099,./tribes_data/train/ancestral_clothing bracelets face_paint pendant/1099.jpg,"ancestral_clothing,bracelets,face_paint,pendant"
+4043,4043,./tribes_data/train/face_paint/4043.jpg,face_paint
+2133,2133,./tribes_data/train/feathers/2133.jpg,feathers
+70,70,./tribes_data/train/ancestral_clothing corporal_paint face_paint feathers pendant/70.jpg,"ancestral_clothing,corporal_paint,face_paint,feathers,pendant"
+1809,1809,./tribes_data/train/modern_clothing/1809.jpg,modern_clothing
+4108,4108,./tribes_data/train/ancestral_clothing corporal_paint feathers pendant/4108.jpg,"ancestral_clothing,corporal_paint,feathers,pendant"
+4582,4582,./tribes_data/train/ancestral_clothing feathers/4582.jpg,"ancestral_clothing,feathers"
+1365,1365,./tribes_data/train/modern_clothing/1365.jpg,modern_clothing
+3460,3460,./tribes_data/train/corporal_paint feathers nose_piercing pendant/3460.jpg,"corporal_paint,feathers,nose_piercing,pendant"
+5412,5412,./tribes_data/train/ancestral_clothing bowl_cut pendant/5412.jpg,"ancestral_clothing,bowl_cut,pendant"
+2014,2014,./tribes_data/train/corporal_paint face_paint feathers modern_clothing pendant/2014.jpg,"corporal_paint,face_paint,feathers,modern_clothing,pendant"
+1028,1028,./tribes_data/train/feathers modern_clothing/1028.jpg,"feathers,modern_clothing"
+2161,2161,./tribes_data/train/arm_accesory face_paint feathers pendant/2161.jpg,"arm_accesory,face_paint,feathers,pendant"
+3548,3548,./tribes_data/train/ancestral_clothing arm_accesory bowl_cut corporal_paint face_paint nose_piercing pendant/3548.jpg,"ancestral_clothing,arm_accesory,bowl_cut,corporal_paint,face_paint,nose_piercing,pendant"
+4013,4013,./tribes_data/train/face_paint/4013.jpg,face_paint
+2555,2555,./tribes_data/train/face_paint feathers pendant/2555.jpg,"face_paint,feathers,pendant"
+1393,1393,./tribes_data/train/modern_clothing/1393.jpg,modern_clothing
+4245,4245,./tribes_data/train/ancestral_clothing arm_accesory corporal_paint face_paint feathers pendant tendrils/4245.jpg,"ancestral_clothing,arm_accesory,corporal_paint,face_paint,feathers,pendant,tendrils"
+3200,3200,./tribes_data/train/face_paint modern_clothing/3200.jpg,"face_paint,modern_clothing"
+648,648,./tribes_data/train/ancestral_clothing face_paint feathers pendant/648.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+3602,3602,./tribes_data/train/face_paint feathers pendant tendrils/3602.jpg,"face_paint,feathers,pendant,tendrils"
+3091,3091,./tribes_data/train/feathers modern_clothing pendant/3091.jpg,"feathers,modern_clothing,pendant"
+850,850,./tribes_data/train/ancestral_clothing pendant/850.jpg,"ancestral_clothing,pendant"
+3721,3721,./tribes_data/train/ancestral_clothing feathers pendant/3721.jpg,"ancestral_clothing,feathers,pendant"
+2340,2340,./tribes_data/train/face_paint feathers pendant/2340.jpg,"face_paint,feathers,pendant"
+4566,4566,./tribes_data/train/ancestral_clothing feathers/4566.jpg,"ancestral_clothing,feathers"
+1792,1792,./tribes_data/train/modern_clothing/1792.jpg,modern_clothing
+3288,3288,./tribes_data/train/face_paint pendant tendrils/3288.jpg,"face_paint,pendant,tendrils"
+4671,4671,./tribes_data/train/ancestral_clothing feathers/4671.jpg,"ancestral_clothing,feathers"
+1255,1255,./tribes_data/train/modern_clothing/1255.jpg,modern_clothing
+4754,4754,./tribes_data/train/face_paint pendant/4754.jpg,"face_paint,pendant"
+4913,4913,./tribes_data/train/face_paint pendant/4913.jpg,"face_paint,pendant"
+2026,2026,./tribes_data/train/ancestral_clothing bracelets face_paint/2026.jpg,"ancestral_clothing,bracelets,face_paint"
+1760,1760,./tribes_data/train/modern_clothing/1760.jpg,modern_clothing
+4905,4905,./tribes_data/train/face_paint pendant/4905.jpg,"face_paint,pendant"
+1959,1959,./tribes_data/train/face_paint feathers nose_piercing pendant/1959.jpg,"face_paint,feathers,nose_piercing,pendant"
+457,457,./tribes_data/train/ancestral_clothing face_paint pendant/457.jpg,"ancestral_clothing,face_paint,pendant"
+1019,1019,./tribes_data/train/feathers modern_clothing/1019.jpg,"feathers,modern_clothing"
+4004,4004,./tribes_data/train/face_paint/4004.jpg,face_paint
+1458,1458,./tribes_data/train/modern_clothing/1458.jpg,modern_clothing
+62,62,./tribes_data/train/ancestral_clothing corporal_paint face_paint feathers pendant/62.jpg,"ancestral_clothing,corporal_paint,face_paint,feathers,pendant"
+2234,2234,./tribes_data/train/face_paint feathers pendant/2234.jpg,"face_paint,feathers,pendant"
+4173,4173,./tribes_data/train/corporal_paint modern_clothing/4173.jpg,"corporal_paint,modern_clothing"
+460,460,./tribes_data/train/ancestral_clothing face_paint pendant/460.jpg,"ancestral_clothing,face_paint,pendant"
+3624,3624,./tribes_data/train/face_paint feathers modern_clothing/3624.jpg,"face_paint,feathers,modern_clothing"
+2219,2219,./tribes_data/train/face_paint feathers pendant/2219.jpg,"face_paint,feathers,pendant"
+813,813,./tribes_data/train/ancestral_clothing pendant/813.jpg,"ancestral_clothing,pendant"
+864,864,./tribes_data/train/ancestral_clothing pendant/864.jpg,"ancestral_clothing,pendant"
+2749,2749,./tribes_data/train/ancestral_clothing bracelets corporal_paint face_paint pendant/2749.jpg,"ancestral_clothing,bracelets,corporal_paint,face_paint,pendant"
+3822,3822,./tribes_data/train/ancestral_clothing feathers pendant/3822.jpg,"ancestral_clothing,feathers,pendant"
+2983,2983,./tribes_data/train/arm_accesory corporal_paint face_paint feathers nose_piercing pendant/2983.jpg,"arm_accesory,corporal_paint,face_paint,feathers,nose_piercing,pendant"
+1487,1487,./tribes_data/train/modern_clothing/1487.jpg,modern_clothing
+4168,4168,./tribes_data/train/bracelets face_paint modern_clothing pendant tendrils/4168.jpg,"bracelets,face_paint,modern_clothing,pendant,tendrils"
+3485,3485,./tribes_data/train/ancestral_clothing arm_accesory bracelets corporal_paint face_paint feathers pendant tendrils/3485.jpg,"ancestral_clothing,arm_accesory,bracelets,corporal_paint,face_paint,feathers,pendant,tendrils"
+228,228,./tribes_data/train/face_paint feathers/228.jpg,"face_paint,feathers"
+3326,3326,./tribes_data/train/face_paint feathers modern_clothing pendant tendrils/3326.jpg,"face_paint,feathers,modern_clothing,pendant,tendrils"
+5404,5404,./tribes_data/train/ancestral_clothing/5404.jpg,ancestral_clothing
+2561,2561,./tribes_data/train/face_paint feathers pendant/2561.jpg,"face_paint,feathers,pendant"
+2850,2850,./tribes_data/train/arm_accesory corporal_paint face_paint/2850.jpg,"arm_accesory,corporal_paint,face_paint"
+2689,2689,./tribes_data/train/ancestral_clothing corporal_paint face_paint pendant/2689.jpg,"ancestral_clothing,corporal_paint,face_paint,pendant"
+912,912,./tribes_data/train/ancestral_clothing pendant/912.jpg,"ancestral_clothing,pendant"
+788,788,./tribes_data/train/ancestral_clothing face_paint feathers pendant/788.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+26,26,./tribes_data/train/ancestral_clothing corporal_paint face_paint feathers pendant/26.jpg,"ancestral_clothing,corporal_paint,face_paint,feathers,pendant"
+3217,3217,./tribes_data/train/ancestral_clothing pendant tendrils/3217.jpg,"ancestral_clothing,pendant,tendrils"
+4270,4270,./tribes_data/train/ancestral_clothing arm_accesory corporal_paint face_paint feathers modern_clothing pendant/4270.jpg,"ancestral_clothing,arm_accesory,corporal_paint,face_paint,feathers,modern_clothing,pendant"
+1067,1067,./tribes_data/train/ancestral_clothing corporal_paint face_paint feathers modern_clothing pendant/1067.jpg,"ancestral_clothing,corporal_paint,face_paint,feathers,modern_clothing,pendant"
+363,363,./tribes_data/train/ancestral_clothing corporal_paint feathers/363.jpg,"ancestral_clothing,corporal_paint,feathers"
+1661,1661,./tribes_data/train/modern_clothing/1661.jpg,modern_clothing
+4001,4001,./tribes_data/train/face_paint/4001.jpg,face_paint
+3427,3427,./tribes_data/train/ancestral_clothing arm_accesory corporal_paint face_paint feathers pendant/3427.jpg,"ancestral_clothing,arm_accesory,corporal_paint,face_paint,feathers,pendant"
+4478,4478,./tribes_data/train/corporal_paint face_paint feathers pendant/4478.jpg,"corporal_paint,face_paint,feathers,pendant"
+2183,2183,./tribes_data/train/corporal_paint pendant/2183.jpg,"corporal_paint,pendant"
+4416,4416,./tribes_data/train/arm_accesory corporal_paint face_paint feathers pendant/4416.jpg,"arm_accesory,corporal_paint,face_paint,feathers,pendant"
+1482,1482,./tribes_data/train/modern_clothing/1482.jpg,modern_clothing
+4462,4462,./tribes_data/train/corporal_paint face_paint feathers pendant/4462.jpg,"corporal_paint,face_paint,feathers,pendant"
+1218,1218,./tribes_data/train/modern_clothing/1218.jpg,modern_clothing
+3457,3457,./tribes_data/train/corporal_paint feathers nose_piercing pendant/3457.jpg,"corporal_paint,feathers,nose_piercing,pendant"
+4213,4213,./tribes_data/train/ancestral_clothing arm_accesory corporal_paint face_paint pendant/4213.jpg,"ancestral_clothing,arm_accesory,corporal_paint,face_paint,pendant"
+111,111,./tribes_data/train/ancestral_clothing face_paint/111.jpg,"ancestral_clothing,face_paint"
+2716,2716,./tribes_data/train/ancestral_clothing bracelets pendant/2716.jpg,"ancestral_clothing,bracelets,pendant"
+1581,1581,./tribes_data/train/modern_clothing/1581.jpg,modern_clothing
+3628,3628,./tribes_data/train/face_paint feathers modern_clothing/3628.jpg,"face_paint,feathers,modern_clothing"
+987,987,./tribes_data/train/face_paint modern_clothing pendant/987.jpg,"face_paint,modern_clothing,pendant"
+874,874,./tribes_data/train/ancestral_clothing pendant/874.jpg,"ancestral_clothing,pendant"
+4297,4297,./tribes_data/train/feathers pendant/4297.jpg,"feathers,pendant"
+3119,3119,./tribes_data/train/face_paint modern_clothing/3119.jpg,"face_paint,modern_clothing"
+4171,4171,./tribes_data/train/corporal_paint modern_clothing/4171.jpg,"corporal_paint,modern_clothing"
+3128,3128,./tribes_data/train/face_paint modern_clothing/3128.jpg,"face_paint,modern_clothing"
+4249,4249,./tribes_data/train/bracelets corporal_paint/4249.jpg,"bracelets,corporal_paint"
+4224,4224,./tribes_data/train/ancestral_clothing arm_accesory corporal_paint face_paint pendant/4224.jpg,"ancestral_clothing,arm_accesory,corporal_paint,face_paint,pendant"
+5069,5069,./tribes_data/train/ancestral_clothing bracelets face_paint feathers pendant tendrils/5069.jpg,"ancestral_clothing,bracelets,face_paint,feathers,pendant,tendrils"
+225,225,./tribes_data/train/face_paint feathers/225.jpg,"face_paint,feathers"
+5194,5194,./tribes_data/train/ancestral_clothing/5194.jpg,ancestral_clothing
+1129,1129,./tribes_data/train/bracelets face_paint feathers modern_clothing pendant tendrils/1129.jpg,"bracelets,face_paint,feathers,modern_clothing,pendant,tendrils"
+2898,2898,./tribes_data/train/face_paint feathers modern_clothing pendant/2898.jpg,"face_paint,feathers,modern_clothing,pendant"
+1506,1506,./tribes_data/train/modern_clothing/1506.jpg,modern_clothing
+4520,4520,./tribes_data/train/corporal_paint face_paint feathers pendant/4520.jpg,"corporal_paint,face_paint,feathers,pendant"
+1547,1547,./tribes_data/train/modern_clothing/1547.jpg,modern_clothing
+1049,1049,./tribes_data/train/ancestral_clothing corporal_paint face_paint feathers pendant tendrils/1049.jpg,"ancestral_clothing,corporal_paint,face_paint,feathers,pendant,tendrils"
+5328,5328,./tribes_data/train/ancestral_clothing/5328.jpg,ancestral_clothing
+5408,5408,./tribes_data/train/ancestral_clothing/5408.jpg,ancestral_clothing
+991,991,./tribes_data/train/face_paint modern_clothing pendant/991.jpg,"face_paint,modern_clothing,pendant"
+829,829,./tribes_data/train/ancestral_clothing pendant/829.jpg,"ancestral_clothing,pendant"
+5181,5181,./tribes_data/train/ancestral_clothing/5181.jpg,ancestral_clothing
+4025,4025,./tribes_data/train/face_paint/4025.jpg,face_paint
+4762,4762,./tribes_data/train/face_paint pendant/4762.jpg,"face_paint,pendant"
+1151,1151,./tribes_data/train/ancestral_clothing arm_accesory face_paint feathers/1151.jpg,"ancestral_clothing,arm_accesory,face_paint,feathers"
+3370,3370,./tribes_data/train/ancestral_clothing bracelets face_paint feathers pendant/3370.jpg,"ancestral_clothing,bracelets,face_paint,feathers,pendant"
+3543,3543,./tribes_data/train/ancestral_clothing arm_accesory bowl_cut corporal_paint face_paint nose_piercing pendant/3543.jpg,"ancestral_clothing,arm_accesory,bowl_cut,corporal_paint,face_paint,nose_piercing,pendant"
+2009,2009,./tribes_data/train/corporal_paint face_paint feathers modern_clothing pendant/2009.jpg,"corporal_paint,face_paint,feathers,modern_clothing,pendant"
+5263,5263,./tribes_data/train/ancestral_clothing/5263.jpg,ancestral_clothing
+1784,1784,./tribes_data/train/modern_clothing/1784.jpg,modern_clothing
+4431,4431,./tribes_data/train/ancestral_clothing bracelets feathers pendant/4431.jpg,"ancestral_clothing,bracelets,feathers,pendant"
+4489,4489,./tribes_data/train/corporal_paint face_paint feathers pendant/4489.jpg,"corporal_paint,face_paint,feathers,pendant"
+3668,3668,./tribes_data/train/ancestral_clothing corporal_paint/3668.jpg,"ancestral_clothing,corporal_paint"
+3773,3773,./tribes_data/train/ancestral_clothing feathers pendant/3773.jpg,"ancestral_clothing,feathers,pendant"
+339,339,./tribes_data/train/bracelets face_paint feathers pendant/339.jpg,"bracelets,face_paint,feathers,pendant"
+4058,4058,./tribes_data/train/ancestral_clothing bracelets face_paint modern_clothing pendant tendrils/4058.jpg,"ancestral_clothing,bracelets,face_paint,modern_clothing,pendant,tendrils"
+3583,3583,./tribes_data/train/face_paint feathers pendant tendrils/3583.jpg,"face_paint,feathers,pendant,tendrils"
+3842,3842,./tribes_data/train/ancestral_clothing face_paint pendant tendrils/3842.jpg,"ancestral_clothing,face_paint,pendant,tendrils"
+79,79,./tribes_data/train/ancestral_clothing corporal_paint face_paint feathers pendant/79.jpg,"ancestral_clothing,corporal_paint,face_paint,feathers,pendant"
+2504,2504,./tribes_data/train/face_paint feathers pendant/2504.jpg,"face_paint,feathers,pendant"
+666,666,./tribes_data/train/ancestral_clothing face_paint feathers pendant/666.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+4767,4767,./tribes_data/train/face_paint pendant/4767.jpg,"face_paint,pendant"
+3164,3164,./tribes_data/train/face_paint modern_clothing/3164.jpg,"face_paint,modern_clothing"
+2887,2887,./tribes_data/train/face_paint feathers modern_clothing pendant/2887.jpg,"face_paint,feathers,modern_clothing,pendant"
+4896,4896,./tribes_data/train/face_paint pendant/4896.jpg,"face_paint,pendant"
+3840,3840,./tribes_data/train/ancestral_clothing face_paint pendant tendrils/3840.jpg,"ancestral_clothing,face_paint,pendant,tendrils"
+2715,2715,./tribes_data/train/ancestral_clothing bracelets pendant/2715.jpg,"ancestral_clothing,bracelets,pendant"
+1870,1870,./tribes_data/train/modern_clothing/1870.jpg,modern_clothing
+2566,2566,./tribes_data/train/face_paint feathers pendant/2566.jpg,"face_paint,feathers,pendant"
+291,291,./tribes_data/train/bracelets modern_clothing/291.jpg,"bracelets,modern_clothing"
+2341,2341,./tribes_data/train/face_paint feathers pendant/2341.jpg,"face_paint,feathers,pendant"
+3771,3771,./tribes_data/train/ancestral_clothing feathers pendant/3771.jpg,"ancestral_clothing,feathers,pendant"
+4519,4519,./tribes_data/train/corporal_paint face_paint feathers pendant/4519.jpg,"corporal_paint,face_paint,feathers,pendant"
+2005,2005,./tribes_data/train/corporal_paint face_paint feathers modern_clothing pendant/2005.jpg,"corporal_paint,face_paint,feathers,modern_clothing,pendant"
+563,563,./tribes_data/train/bracelets face_paint tendrils/563.jpg,"bracelets,face_paint,tendrils"
+1384,1384,./tribes_data/train/modern_clothing/1384.jpg,modern_clothing
+979,979,./tribes_data/train/face_paint modern_clothing pendant/979.jpg,"face_paint,modern_clothing,pendant"
+3418,3418,./tribes_data/train/ancestral_clothing arm_accesory corporal_paint face_paint feathers pendant/3418.jpg,"ancestral_clothing,arm_accesory,corporal_paint,face_paint,feathers,pendant"
+3844,3844,./tribes_data/train/ancestral_clothing face_paint pendant tendrils/3844.jpg,"ancestral_clothing,face_paint,pendant,tendrils"
+2292,2292,./tribes_data/train/face_paint feathers pendant/2292.jpg,"face_paint,feathers,pendant"
+4079,4079,./tribes_data/train/ancestral_clothing corporal_paint feathers pendant/4079.jpg,"ancestral_clothing,corporal_paint,feathers,pendant"
+4178,4178,./tribes_data/train/corporal_paint modern_clothing/4178.jpg,"corporal_paint,modern_clothing"
+61,61,./tribes_data/train/ancestral_clothing corporal_paint face_paint feathers pendant/61.jpg,"ancestral_clothing,corporal_paint,face_paint,feathers,pendant"
+2251,2251,./tribes_data/train/face_paint feathers pendant/2251.jpg,"face_paint,feathers,pendant"
+4642,4642,./tribes_data/train/ancestral_clothing feathers/4642.jpg,"ancestral_clothing,feathers"
+1332,1332,./tribes_data/train/modern_clothing/1332.jpg,modern_clothing
+3699,3699,./tribes_data/train/ancestral_clothing feathers pendant/3699.jpg,"ancestral_clothing,feathers,pendant"
+1002,1002,./tribes_data/train/face_paint modern_clothing pendant/1002.jpg,"face_paint,modern_clothing,pendant"
+1478,1478,./tribes_data/train/modern_clothing/1478.jpg,modern_clothing
+612,612,./tribes_data/train/ancestral_clothing face_paint feathers pendant/612.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+152,152,./tribes_data/train/ancestral_clothing face_paint feathers modern_clothing pendant/152.jpg,"ancestral_clothing,face_paint,feathers,modern_clothing,pendant"
+2897,2897,./tribes_data/train/face_paint feathers modern_clothing pendant/2897.jpg,"face_paint,feathers,modern_clothing,pendant"
+820,820,./tribes_data/train/ancestral_clothing pendant/820.jpg,"ancestral_clothing,pendant"
+2582,2582,./tribes_data/train/face_paint feathers pendant/2582.jpg,"face_paint,feathers,pendant"
+2923,2923,./tribes_data/train/ancestral_clothing face_paint feathers pendant tendrils/2923.jpg,"ancestral_clothing,face_paint,feathers,pendant,tendrils"
+3524,3524,./tribes_data/train/bracelets creole_clothing pendant/3524.jpg,"bracelets,creole_clothing,pendant"
+4510,4510,./tribes_data/train/corporal_paint face_paint feathers pendant/4510.jpg,"corporal_paint,face_paint,feathers,pendant"
+1553,1553,./tribes_data/train/modern_clothing/1553.jpg,modern_clothing
+2549,2549,./tribes_data/train/face_paint feathers pendant/2549.jpg,"face_paint,feathers,pendant"
+3377,3377,./tribes_data/train/corporal_paint/3377.jpg,corporal_paint
+4371,4371,./tribes_data/train/ancestral_clothing arm_accesory face_paint feathers pendant/4371.jpg,"ancestral_clothing,arm_accesory,face_paint,feathers,pendant"
+1594,1594,./tribes_data/train/modern_clothing/1594.jpg,modern_clothing
+804,804,./tribes_data/train/ancestral_clothing pendant/804.jpg,"ancestral_clothing,pendant"
+3785,3785,./tribes_data/train/ancestral_clothing feathers pendant/3785.jpg,"ancestral_clothing,feathers,pendant"
+3286,3286,./tribes_data/train/face_paint pendant tendrils/3286.jpg,"face_paint,pendant,tendrils"
+1353,1353,./tribes_data/train/modern_clothing/1353.jpg,modern_clothing
+3795,3795,./tribes_data/train/ancestral_clothing feathers pendant/3795.jpg,"ancestral_clothing,feathers,pendant"
+1753,1753,./tribes_data/train/modern_clothing/1753.jpg,modern_clothing
+5076,5076,./tribes_data/train/ancestral_clothing bracelets face_paint feathers pendant tendrils/5076.jpg,"ancestral_clothing,bracelets,face_paint,feathers,pendant,tendrils"
+5077,5077,./tribes_data/train/ancestral_clothing bracelets face_paint feathers pendant tendrils/5077.jpg,"ancestral_clothing,bracelets,face_paint,feathers,pendant,tendrils"
+1289,1289,./tribes_data/train/modern_clothing/1289.jpg,modern_clothing
+4285,4285,./tribes_data/train/ancestral_clothing feathers tendrils/4285.jpg,"ancestral_clothing,feathers,tendrils"
+1842,1842,./tribes_data/train/modern_clothing/1842.jpg,modern_clothing
+1615,1615,./tribes_data/train/modern_clothing/1615.jpg,modern_clothing
+1324,1324,./tribes_data/train/modern_clothing/1324.jpg,modern_clothing
+4782,4782,./tribes_data/train/face_paint pendant/4782.jpg,"face_paint,pendant"
+278,278,./tribes_data/train/ancestral_clothing arm_accesory bracelets corporal_paint face_paint feathers pendant/278.jpg,"ancestral_clothing,arm_accesory,bracelets,corporal_paint,face_paint,feathers,pendant"
+739,739,./tribes_data/train/ancestral_clothing face_paint feathers pendant/739.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+3869,3869,./tribes_data/train/ancestral_clothing face_paint pendant tendrils/3869.jpg,"ancestral_clothing,face_paint,pendant,tendrils"
+667,667,./tribes_data/train/ancestral_clothing face_paint feathers pendant/667.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+3167,3167,./tribes_data/train/face_paint modern_clothing/3167.jpg,"face_paint,modern_clothing"
+2596,2596,./tribes_data/train/face_paint feathers pendant/2596.jpg,"face_paint,feathers,pendant"
+2922,2922,./tribes_data/train/ancestral_clothing face_paint feathers pendant tendrils/2922.jpg,"ancestral_clothing,face_paint,feathers,pendant,tendrils"
+880,880,./tribes_data/train/ancestral_clothing pendant/880.jpg,"ancestral_clothing,pendant"
+4413,4413,./tribes_data/train/arm_accesory corporal_paint face_paint feathers pendant/4413.jpg,"arm_accesory,corporal_paint,face_paint,feathers,pendant"
+2374,2374,./tribes_data/train/face_paint feathers pendant/2374.jpg,"face_paint,feathers,pendant"
+2030,2030,./tribes_data/train/bracelets nose_piercing pendant/2030.jpg,"bracelets,nose_piercing,pendant"
+4421,4421,./tribes_data/train/arm_accesory corporal_paint face_paint feathers pendant/4421.jpg,"arm_accesory,corporal_paint,face_paint,feathers,pendant"
+4449,4449,./tribes_data/train/bracelets feathers modern_clothing pendant tendrils/4449.jpg,"bracelets,feathers,modern_clothing,pendant,tendrils"
+4183,4183,./tribes_data/train/corporal_paint modern_clothing/4183.jpg,"corporal_paint,modern_clothing"
+3494,3494,./tribes_data/train/arm_accesory face_paint modern_clothing pendant/3494.jpg,"arm_accesory,face_paint,modern_clothing,pendant"
+2385,2385,./tribes_data/train/face_paint feathers pendant/2385.jpg,"face_paint,feathers,pendant"
+2822,2822,./tribes_data/train/modern_clothing pendant/2822.jpg,"modern_clothing,pendant"
+3557,3557,./tribes_data/train/corporal_paint face_paint pendant/3557.jpg,"corporal_paint,face_paint,pendant"
+1754,1754,./tribes_data/train/modern_clothing/1754.jpg,modern_clothing
+653,653,./tribes_data/train/ancestral_clothing face_paint feathers pendant/653.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+859,859,./tribes_data/train/ancestral_clothing pendant/859.jpg,"ancestral_clothing,pendant"
+2659,2659,./tribes_data/train/face_paint feathers pendant/2659.jpg,"face_paint,feathers,pendant"
+2723,2723,./tribes_data/train/ancestral_clothing bracelets pendant/2723.jpg,"ancestral_clothing,bracelets,pendant"
+2490,2490,./tribes_data/train/face_paint feathers pendant/2490.jpg,"face_paint,feathers,pendant"
+1402,1402,./tribes_data/train/modern_clothing/1402.jpg,modern_clothing
+4699,4699,./tribes_data/train/corporal_paint feathers pendant/4699.jpg,"corporal_paint,feathers,pendant"
+4996,4996,./tribes_data/train/face_paint tendrils/4996.jpg,"face_paint,tendrils"
+4609,4609,./tribes_data/train/ancestral_clothing feathers/4609.jpg,"ancestral_clothing,feathers"
+2673,2673,./tribes_data/train/face_paint feathers pendant/2673.jpg,"face_paint,feathers,pendant"
+4202,4202,./tribes_data/train/ancestral_clothing arm_accesory corporal_paint face_paint pendant/4202.jpg,"ancestral_clothing,arm_accesory,corporal_paint,face_paint,pendant"
+5180,5180,./tribes_data/train/ancestral_clothing/5180.jpg,ancestral_clothing
+4374,4374,./tribes_data/train/ancestral_clothing arm_accesory face_paint feathers pendant/4374.jpg,"ancestral_clothing,arm_accesory,face_paint,feathers,pendant"
+3511,3511,./tribes_data/train/ancestral_clothing arm_accesory corporal_paint pendant/3511.jpg,"ancestral_clothing,arm_accesory,corporal_paint,pendant"
+1065,1065,./tribes_data/train/ancestral_clothing corporal_paint face_paint feathers modern_clothing pendant/1065.jpg,"ancestral_clothing,corporal_paint,face_paint,feathers,modern_clothing,pendant"
+110,110,./tribes_data/train/ancestral_clothing corporal_paint face_paint feathers pendant/110.jpg,"ancestral_clothing,corporal_paint,face_paint,feathers,pendant"
+4179,4179,./tribes_data/train/corporal_paint modern_clothing/4179.jpg,"corporal_paint,modern_clothing"
+3318,3318,./tribes_data/train/face_paint feathers modern_clothing pendant tendrils/3318.jpg,"face_paint,feathers,modern_clothing,pendant,tendrils"
+3683,3683,./tribes_data/train/ancestral_clothing corporal_paint/3683.jpg,"ancestral_clothing,corporal_paint"
+2115,2115,./tribes_data/train/feathers/2115.jpg,feathers
+776,776,./tribes_data/train/ancestral_clothing face_paint feathers pendant/776.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+1118,1118,./tribes_data/train/bracelets corporal_paint face_paint modern_clothing pendant/1118.jpg,"bracelets,corporal_paint,face_paint,modern_clothing,pendant"
+4630,4630,./tribes_data/train/ancestral_clothing feathers/4630.jpg,"ancestral_clothing,feathers"
+2769,2769,./tribes_data/train/modern_clothing pendant/2769.jpg,"modern_clothing,pendant"
+5088,5088,./tribes_data/train/ancestral_clothing bracelets face_paint feathers pendant tendrils/5088.jpg,"ancestral_clothing,bracelets,face_paint,feathers,pendant,tendrils"
+1061,1061,./tribes_data/train/corporal_paint face_paint feathers modern_clothing pendant tendrils/1061.jpg,"corporal_paint,face_paint,feathers,modern_clothing,pendant,tendrils"
+4845,4845,./tribes_data/train/face_paint pendant/4845.jpg,"face_paint,pendant"
+3495,3495,./tribes_data/train/arm_accesory face_paint modern_clothing pendant/3495.jpg,"arm_accesory,face_paint,modern_clothing,pendant"
+1145,1145,./tribes_data/train/nose_piercing pendant/1145.jpg,"nose_piercing,pendant"
+4158,4158,./tribes_data/train/ancestral_clothing face_paint feathers/4158.jpg,"ancestral_clothing,face_paint,feathers"
+567,567,./tribes_data/train/ancestral_clothing face_paint feathers pendant/567.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+3291,3291,./tribes_data/train/face_paint pendant tendrils/3291.jpg,"face_paint,pendant,tendrils"
+1542,1542,./tribes_data/train/modern_clothing/1542.jpg,modern_clothing
+532,532,./tribes_data/train/ancestral_clothing face_paint pendant/532.jpg,"ancestral_clothing,face_paint,pendant"
+4865,4865,./tribes_data/train/face_paint pendant/4865.jpg,"face_paint,pendant"
+2502,2502,./tribes_data/train/face_paint feathers pendant/2502.jpg,"face_paint,feathers,pendant"
+166,166,./tribes_data/train/face_paint feathers/166.jpg,"face_paint,feathers"
+2213,2213,./tribes_data/train/face_paint feathers pendant/2213.jpg,"face_paint,feathers,pendant"
+3025,3025,./tribes_data/train/face_paint modern_clothing pendant tendrils/3025.jpg,"face_paint,modern_clothing,pendant,tendrils"
+3232,3232,./tribes_data/train/ancestral_clothing pendant tendrils/3232.jpg,"ancestral_clothing,pendant,tendrils"
+208,208,./tribes_data/train/face_paint feathers/208.jpg,"face_paint,feathers"
+3171,3171,./tribes_data/train/face_paint modern_clothing/3171.jpg,"face_paint,modern_clothing"
+787,787,./tribes_data/train/ancestral_clothing face_paint feathers pendant/787.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+5179,5179,./tribes_data/train/ancestral_clothing/5179.jpg,ancestral_clothing
+2458,2458,./tribes_data/train/face_paint feathers pendant/2458.jpg,"face_paint,feathers,pendant"
+2719,2719,./tribes_data/train/ancestral_clothing bracelets pendant/2719.jpg,"ancestral_clothing,bracelets,pendant"
+2168,2168,./tribes_data/train/arm_accesory corporal_paint face_paint modern_clothing pendant/2168.jpg,"arm_accesory,corporal_paint,face_paint,modern_clothing,pendant"
+2507,2507,./tribes_data/train/face_paint feathers pendant/2507.jpg,"face_paint,feathers,pendant"
+903,903,./tribes_data/train/ancestral_clothing pendant/903.jpg,"ancestral_clothing,pendant"
+236,236,./tribes_data/train/face_paint feathers/236.jpg,"face_paint,feathers"
+5007,5007,./tribes_data/train/ancestral_clothing arm_accesory face_paint pendant/5007.jpg,"ancestral_clothing,arm_accesory,face_paint,pendant"
+273,273,./tribes_data/train/ancestral_clothing arm_accesory bracelets corporal_paint face_paint feathers pendant/273.jpg,"ancestral_clothing,arm_accesory,bracelets,corporal_paint,face_paint,feathers,pendant"
+4326,4326,./tribes_data/train/feathers pendant/4326.jpg,"feathers,pendant"
+801,801,./tribes_data/train/ancestral_clothing pendant/801.jpg,"ancestral_clothing,pendant"
+3983,3983,./tribes_data/train/face_paint/3983.jpg,face_paint
+10,10,./tribes_data/train/ancestral_clothing corporal_paint face_paint feathers pendant/10.jpg,"ancestral_clothing,corporal_paint,face_paint,feathers,pendant"
+1431,1431,./tribes_data/train/modern_clothing/1431.jpg,modern_clothing
+3079,3079,./tribes_data/train/feathers modern_clothing pendant/3079.jpg,"feathers,modern_clothing,pendant"
+630,630,./tribes_data/train/ancestral_clothing face_paint feathers pendant/630.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+2894,2894,./tribes_data/train/face_paint feathers modern_clothing pendant/2894.jpg,"face_paint,feathers,modern_clothing,pendant"
+2761,2761,./tribes_data/train/modern_clothing pendant/2761.jpg,"modern_clothing,pendant"
+3491,3491,./tribes_data/train/arm_accesory face_paint modern_clothing pendant/3491.jpg,"arm_accesory,face_paint,modern_clothing,pendant"
+1030,1030,./tribes_data/train/feathers modern_clothing/1030.jpg,"feathers,modern_clothing"
+3081,3081,./tribes_data/train/feathers modern_clothing pendant/3081.jpg,"feathers,modern_clothing,pendant"
+1911,1911,./tribes_data/train/bowl_cut corporal_paint face_paint/1911.jpg,"bowl_cut,corporal_paint,face_paint"
+4871,4871,./tribes_data/train/face_paint pendant/4871.jpg,"face_paint,pendant"
+463,463,./tribes_data/train/ancestral_clothing face_paint pendant/463.jpg,"ancestral_clothing,face_paint,pendant"
+4046,4046,./tribes_data/train/face_paint/4046.jpg,face_paint
+4365,4365,./tribes_data/train/ancestral_clothing face_paint nose_piercing pendant tendrils/4365.jpg,"ancestral_clothing,face_paint,nose_piercing,pendant,tendrils"
+1361,1361,./tribes_data/train/modern_clothing/1361.jpg,modern_clothing
+985,985,./tribes_data/train/face_paint modern_clothing pendant/985.jpg,"face_paint,modern_clothing,pendant"
+3174,3174,./tribes_data/train/face_paint modern_clothing/3174.jpg,"face_paint,modern_clothing"
+2004,2004,./tribes_data/train/corporal_paint face_paint feathers modern_clothing pendant/2004.jpg,"corporal_paint,face_paint,feathers,modern_clothing,pendant"
+2273,2273,./tribes_data/train/face_paint feathers pendant/2273.jpg,"face_paint,feathers,pendant"
+3481,3481,./tribes_data/train/arm_accesory bracelets face_paint feathers pendant/3481.jpg,"arm_accesory,bracelets,face_paint,feathers,pendant"
+743,743,./tribes_data/train/ancestral_clothing face_paint feathers pendant/743.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+5415,5415,./tribes_data/train/bowl_cut face_paint pendant/5415.jpg,"bowl_cut,face_paint,pendant"
+1710,1710,./tribes_data/train/modern_clothing/1710.jpg,modern_clothing
+5023,5023,./tribes_data/train/ancestral_clothing arm_accesory face_paint pendant/5023.jpg,"ancestral_clothing,arm_accesory,face_paint,pendant"
+1182,1182,./tribes_data/train/modern_clothing/1182.jpg,modern_clothing
+537,537,./tribes_data/train/ancestral_clothing face_paint pendant/537.jpg,"ancestral_clothing,face_paint,pendant"
+4359,4359,./tribes_data/train/ancestral_clothing face_paint nose_piercing pendant tendrils/4359.jpg,"ancestral_clothing,face_paint,nose_piercing,pendant,tendrils"
+1642,1642,./tribes_data/train/modern_clothing/1642.jpg,modern_clothing
+4093,4093,./tribes_data/train/ancestral_clothing corporal_paint feathers pendant/4093.jpg,"ancestral_clothing,corporal_paint,feathers,pendant"
+1670,1670,./tribes_data/train/modern_clothing/1670.jpg,modern_clothing
+606,606,./tribes_data/train/ancestral_clothing face_paint feathers pendant/606.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+846,846,./tribes_data/train/ancestral_clothing pendant/846.jpg,"ancestral_clothing,pendant"
+2283,2283,./tribes_data/train/face_paint feathers pendant/2283.jpg,"face_paint,feathers,pendant"
+4788,4788,./tribes_data/train/face_paint pendant/4788.jpg,"face_paint,pendant"
+4248,4248,./tribes_data/train/bracelets corporal_paint/4248.jpg,"bracelets,corporal_paint"
+2192,2192,./tribes_data/train/corporal_paint pendant/2192.jpg,"corporal_paint,pendant"
+1948,1948,./tribes_data/train/ancestral_clothing bracelets corporal_paint face_paint feathers pendant/1948.jpg,"ancestral_clothing,bracelets,corporal_paint,face_paint,feathers,pendant"
+5282,5282,./tribes_data/train/ancestral_clothing/5282.jpg,ancestral_clothing
+4073,4073,./tribes_data/train/feathers modern_clothing tendrils/4073.jpg,"feathers,modern_clothing,tendrils"
+2525,2525,./tribes_data/train/face_paint feathers pendant/2525.jpg,"face_paint,feathers,pendant"
+4725,4725,./tribes_data/train/corporal_paint face_paint modern_clothing/4725.jpg,"corporal_paint,face_paint,modern_clothing"
+2899,2899,./tribes_data/train/face_paint feathers modern_clothing pendant/2899.jpg,"face_paint,feathers,modern_clothing,pendant"
+150,150,./tribes_data/train/ancestral_clothing face_paint feathers modern_clothing pendant/150.jpg,"ancestral_clothing,face_paint,feathers,modern_clothing,pendant"
+5176,5176,./tribes_data/train/ancestral_clothing/5176.jpg,ancestral_clothing
+3559,3559,./tribes_data/train/corporal_paint face_paint pendant/3559.jpg,"corporal_paint,face_paint,pendant"
+3552,3552,./tribes_data/train/corporal_paint face_paint pendant/3552.jpg,"corporal_paint,face_paint,pendant"
+1805,1805,./tribes_data/train/modern_clothing/1805.jpg,modern_clothing
+3886,3886,./tribes_data/train/ancestral_clothing face_paint pendant tendrils/3886.jpg,"ancestral_clothing,face_paint,pendant,tendrils"
+2909,2909,./tribes_data/train/face_paint feathers modern_clothing pendant/2909.jpg,"face_paint,feathers,modern_clothing,pendant"
+4242,4242,./tribes_data/train/ancestral_clothing arm_accesory corporal_paint face_paint feathers pendant tendrils/4242.jpg,"ancestral_clothing,arm_accesory,corporal_paint,face_paint,feathers,pendant,tendrils"
+3387,3387,./tribes_data/train/corporal_paint/3387.jpg,corporal_paint
+4881,4881,./tribes_data/train/face_paint pendant/4881.jpg,"face_paint,pendant"
+262,262,./tribes_data/train/ancestral_clothing arm_accesory bracelets corporal_paint face_paint feathers pendant/262.jpg,"ancestral_clothing,arm_accesory,bracelets,corporal_paint,face_paint,feathers,pendant"
+2184,2184,./tribes_data/train/corporal_paint pendant/2184.jpg,"corporal_paint,pendant"
+2358,2358,./tribes_data/train/face_paint feathers pendant/2358.jpg,"face_paint,feathers,pendant"
+1826,1826,./tribes_data/train/modern_clothing/1826.jpg,modern_clothing
+2200,2200,./tribes_data/train/face_paint feathers pendant/2200.jpg,"face_paint,feathers,pendant"
+3572,3572,./tribes_data/train/face_paint feathers pendant tendrils/3572.jpg,"face_paint,feathers,pendant,tendrils"
+3193,3193,./tribes_data/train/face_paint modern_clothing/3193.jpg,"face_paint,modern_clothing"
+2368,2368,./tribes_data/train/face_paint feathers pendant/2368.jpg,"face_paint,feathers,pendant"
+593,593,./tribes_data/train/ancestral_clothing face_paint feathers pendant/593.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+2116,2116,./tribes_data/train/feathers/2116.jpg,feathers
+2794,2794,./tribes_data/train/modern_clothing pendant/2794.jpg,"modern_clothing,pendant"
+4926,4926,./tribes_data/train/face_paint pendant/4926.jpg,"face_paint,pendant"
+931,931,./tribes_data/train/ancestral_clothing pendant/931.jpg,"ancestral_clothing,pendant"
+5287,5287,./tribes_data/train/ancestral_clothing/5287.jpg,ancestral_clothing
+897,897,./tribes_data/train/ancestral_clothing pendant/897.jpg,"ancestral_clothing,pendant"
+1436,1436,./tribes_data/train/modern_clothing/1436.jpg,modern_clothing
+5352,5352,./tribes_data/train/ancestral_clothing/5352.jpg,ancestral_clothing
+5397,5397,./tribes_data/train/ancestral_clothing/5397.jpg,ancestral_clothing
+3420,3420,./tribes_data/train/ancestral_clothing arm_accesory corporal_paint face_paint feathers pendant/3420.jpg,"ancestral_clothing,arm_accesory,corporal_paint,face_paint,feathers,pendant"
+3697,3697,./tribes_data/train/arm_accesory bracelets corporal_paint face_paint feathers pendant tendrils/3697.jpg,"arm_accesory,bracelets,corporal_paint,face_paint,feathers,pendant,tendrils"
+906,906,./tribes_data/train/ancestral_clothing pendant/906.jpg,"ancestral_clothing,pendant"
+572,572,./tribes_data/train/ancestral_clothing face_paint feathers pendant/572.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+2740,2740,./tribes_data/train/ancestral_clothing bracelets corporal_paint face_paint pendant/2740.jpg,"ancestral_clothing,bracelets,corporal_paint,face_paint,pendant"
+605,605,./tribes_data/train/ancestral_clothing face_paint feathers pendant/605.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+1167,1167,./tribes_data/train/modern_clothing/1167.jpg,modern_clothing
+3050,3050,./tribes_data/train/ancestral_clothing feathers pendant tendrils/3050.jpg,"ancestral_clothing,feathers,pendant,tendrils"
+5234,5234,./tribes_data/train/ancestral_clothing/5234.jpg,ancestral_clothing
+5167,5167,./tribes_data/train/ancestral_clothing/5167.jpg,ancestral_clothing
+3306,3306,./tribes_data/train/face_paint feathers modern_clothing pendant tendrils/3306.jpg,"face_paint,feathers,modern_clothing,pendant,tendrils"
+5178,5178,./tribes_data/train/ancestral_clothing/5178.jpg,ancestral_clothing
+4069,4069,./tribes_data/train/bracelets modern_clothing pendant/4069.jpg,"bracelets,modern_clothing,pendant"
+762,762,./tribes_data/train/ancestral_clothing face_paint feathers pendant/762.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+2307,2307,./tribes_data/train/face_paint feathers pendant/2307.jpg,"face_paint,feathers,pendant"
+5405,5405,./tribes_data/train/ancestral_clothing/5405.jpg,ancestral_clothing
+4693,4693,./tribes_data/train/corporal_paint feathers pendant/4693.jpg,"corporal_paint,feathers,pendant"
+734,734,./tribes_data/train/ancestral_clothing face_paint feathers pendant/734.jpg,"ancestral_clothing,face_paint,feathers,pendant"
+2278,2278,./tribes_data/train/face_paint feathers pendant/2278.jpg,"face_paint,feathers,pendant"
+4009,4009,./tribes_data/train/face_paint/4009.jpg,face_paint
+1934,1934,./tribes_data/train/face_paint nose_piercing/1934.jpg,"face_paint,nose_piercing"
+337,337,./tribes_data/train/bracelets face_paint feathers pendant/337.jpg,"bracelets,face_paint,feathers,pendant"
+2951,2951,./tribes_data/train/ancestral_clothing face_paint feathers pendant tendrils/2951.jpg,"ancestral_clothing,face_paint,feathers,pendant,tendrils"
+3342,3342,./tribes_data/train/ancestral_clothing corporal_paint face_paint/3342.jpg,"ancestral_clothing,corporal_paint,face_paint"
+216,216,./tribes_data/train/face_paint feathers/216.jpg,"face_paint,feathers"
+3549,3549,./tribes_data/train/corporal_paint face_paint pendant/3549.jpg,"corporal_paint,face_paint,pendant"
+822,822,./tribes_data/train/ancestral_clothing pendant/822.jpg,"ancestral_clothing,pendant"
+4786,4786,./tribes_data/train/face_paint pendant/4786.jpg,"face_paint,pendant"
+2701,2701,./tribes_data/train/ancestral_clothing bracelets pendant/2701.jpg,"ancestral_clothing,bracelets,pendant"
+3727,3727,./tribes_data/train/ancestral_clothing feathers pendant/3727.jpg,"ancestral_clothing,feathers,pendant"
+3162,3162,./tribes_data/train/face_paint modern_clothing/3162.jpg,"face_paint,modern_clothing"
+3520,3520,./tribes_data/train/bracelets creole_clothing pendant/3520.jpg,"bracelets,creole_clothing,pendant"
+2883,2883,./tribes_data/train/face_paint feathers modern_clothing pendant/2883.jpg,"face_paint,feathers,modern_clothing,pendant"
+2140,2140,./tribes_data/train/feathers/2140.jpg,feathers
+969,969,./tribes_data/train/ancestral_clothing bracelets/969.jpg,"ancestral_clothing,bracelets"

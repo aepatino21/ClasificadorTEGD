@@ -12,14 +12,7 @@ test_labels = test_df['labels'].str.get_dummies(sep=',')
 test_df = test_df.join(test_labels)
 
 datagen = ImageDataGenerator(
-    rescale=1./255,
-    rotation_range=40,
-    width_shift_range=0.2,
-    height_shift_range=0.2,
-    shear_range=0.2,
-    zoom_range=0.2,
-    horizontal_flip=True,
-    fill_mode='nearest'
+    rescale=1./255
 )
 
 test_generator = datagen.flow_from_dataframe(
@@ -34,14 +27,14 @@ test_generator = datagen.flow_from_dataframe(
 )
 
 # Cargar el modelo
-model = load_model('second_model.h5')
+model = load_model('second_modelv3.keras')
 
 # Evaluar el modelo en el conjunto de pruebas
-loss, accuracy = model.evaluate(test_generator)
-print(f'Pérdida: {loss}, Precisión: {accuracy}')
+# loss, accuracy = model.evaluate(test_generator)
+# print(f'Pérdida: {loss}, Precisión: {accuracy}')
 
 # Reiniciar el generador para asegurarse de que esté al principio
-test_generator.reset()
+# test_generator.reset()
 
 # Acumular todas las imágenes y etiquetas verdaderas del generador
 all_images = []
