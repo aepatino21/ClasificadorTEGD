@@ -1,51 +1,26 @@
-import pandas as pd
 import numpy as np
 import skfuzzy as fuzz
 import skfuzzy.control as ctrl
+from tensorflow.keras.models import load_model
+from tensorflow.keras.preprocessing import image
+from tensorflow.keras.applications.mobilenet import preprocess_input, decode_predictions
 
-# Crear un DataFrame con la tabla atributo-valor
-data = {
-    'pendant': [1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1],
-    'corporal_paint': [0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1],
-    'face_paint': [0, 1, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0],
-    'modern_clothing': [0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0],
-    'creole_clothing': [1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0],
-    'ancestral_clothing': [1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1],
-    'animal_fur': [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-    'feathers': [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-    'hat': [1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0],
-    'nose_piercing': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],
-    'bowl_cut': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],
-    'tendrils': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],
-    'arm_accesory': [0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1],
-    'bracelets': [0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-    'Etnias': ["Akawayo", "Kari'ña", "Arawak", "E'ñepa", "Mapoyo", "Yabarana", "Jivi", "Jodi", "Pemón", "Puinave", "Piaroa", "Warao", "Yanomami", "Ye'kwana-Sanoma"]
-}
+# Cargar tu modelo preentrenado
+model = load_model('second_modelv3.keras')
 
-# Cargar la tabla atributo-valor en un DataFrame de pandas
-df = pd.DataFrame(data)
+# Función para obtener características de la imagen
+def get_image_features(img_path):
+    img = image.load_img(img_path, target_size=(224, 224))
+    img_array = image.img_to_array(img)
+    img_array = np.expand_dims(img_array, axis=0)
+    img_array = preprocess_input(img_array)
+    preds = model.predict(img_array)
+    return decode_predictions(preds, top=10)[0]
 
-# Verificar valores únicos para asegurar que están dentro del rango esperado
-print("Valores únicos en corporal_paint:", df['corporal_paint'].unique())
 
-# Rellenar valores nulos con un valor predeterminado (0 en este caso)
-df.fillna(0, inplace=True)
-
-# Asegurarse de que todos los valores estén en el rango 0-1
-df = df[(df['corporal_paint'].isin([0, 1])) &
-        (df['pendant'].isin([0, 1])) &
-        (df['face_paint'].isin([0, 1])) &
-        (df['modern_clothing'].isin([0, 1])) &
-        (df['creole_clothing'].isin([0, 1])) &
-        (df['ancestral_clothing'].isin([0, 1])) &
-        (df['animal_fur'].isin([0, 1])) &
-        (df['feathers'].isin([0, 1])) &
-        (df['hat'].isin([0, 1])) &
-        (df['nose_piercing'].isin([0, 1])) &
-        (df['bowl_cut'].isin([0, 1])) &
-        (df['tendrils'].isin([0, 1])) &
-        (df['arm_accesory'].isin([0, 1])) &
-        (df['bracelets'].isin([0, 1]))]
+# Cargar la imagen y obtener características
+img_path = 'ruta_a_tu_imagen.jpg'
+features = get_image_features(img_path)
 
 # LOGICA DIFUSA
 # Crear las variables difusas
@@ -157,101 +132,37 @@ yekwana_rule = ctrl.Rule(pendant['poor'] & corporal_paint['poor'] & face_paint['
 ethnic_ctrl = ctrl.ControlSystem([akawayo_rule, karina_rule, arawak_rule, enepa_rule, mapoyo_rule, yabarana_rule, jivi_rule, jodi_rule, pemon_rule, puinave_rule, piaroa_rule, warao_rule, yanomami_rule, yekwana_rule])
 ethnic_sim = ctrl.ControlSystemSimulation(ethnic_ctrl)
 
-for index, row in df.iterrows():
-    try:
-        ethnic_sim.input['pendant'] = row['pendant']
-        ethnic_sim.input['corporal_paint'] = row['corporal_paint']
-        ethnic_sim.input['face_paint'] = row['face_paint']
-        ethnic_sim.input['modern_clothing'] = row['modern_clothing']
-        ethnic_sim.input['creole_clothing'] = row['creole_clothing']
-        ethnic_sim.input['ancestral_clothing'] = row['ancestral_clothing']
-        ethnic_sim.input['animal_fur'] = row['animal_fur']
-        ethnic_sim.input['feathers'] = row['feathers']
-        ethnic_sim.input['hat'] = row['hat']
-        ethnic_sim.input['nose_piercing'] = row['nose_piercing']
-        ethnic_sim.input['bowl_cut'] = row['bowl_cut']
-        ethnic_sim.input['tendrils'] = row['tendrils']
-        ethnic_sim.input['arm_accesory'] = row['arm_accesory']
-        ethnic_sim.input['bracelets'] = row['bracelets']
+# Asignar valores a las variables difusas basadas en las características de la imagen
+ethnic_sim.input['pendant'] = 1 if 'pendant' in [f[1] for f in features] else 0
+ethnic_sim.input['corporal_paint'] = 1 if 'corporal_paint' in [f[1] for f in features] else 0
+ethnic_sim.input['face_paint'] = 1 if 'face_paint' in [f[1] for f in features] else 0
+ethnic_sim.input['modern_clothing'] = 1 if 'modern_clothing' in [f[1] for f in features] else 0
+ethnic_sim.input['creole_clothing'] = 1 if 'creole_clothing' in [f[1] for f in features] else 0
+ethnic_sim.input['ancestral_clothing'] = 1 if 'ancestral_clothing' in [f[1] for f in features] else 0
+ethnic_sim.input['animal_fur'] = 1 if 'animal_fur' in [f[1] for f in features] else 0
+ethnic_sim.input['feathers'] = 1 if 'feathers' in [f[1] for f in features] else 0
+ethnic_sim.input['hat'] = 1 if 'hat' in [f[1] for f in features] else 0
+ethnic_sim.input['nose_piercing'] = 1 if 'nose_piercing' in [f[1] for f in features] else 0
+ethnic_sim.input['bowl_cut'] = 1 if 'bowl_cut' in [f[1] for f in features] else 0
+ethnic_sim.input['tendrils'] = 1 if 'tendrils' in [f[1] for f in features] else 0
+ethnic_sim.input['arm_accesory'] = 1 if 'arm_accesory' in [f[1] for f in features] else 0
+ethnic_sim.input['bracelets'] = 1 if 'bracelets' in [f[1] for f in features] else 0
 
-        ethnic_sim.compute()
+# Ejecutar la simulación
+ethnic_sim.compute()
 
-        print(f"Etnia predicha para la fila {index}:")
-        print(f"Akawayo: {ethnic_sim.output['akawayo']}")
-        print(f"Karina: {ethnic_sim.output['karina']}")
-        print(f"Arawak: {ethnic_sim.output['arawak']}")
-        print(f"E'ñepa: {ethnic_sim.output['enepa']}")
-        print(f"Mapoyo: {ethnic_sim.output['mapoyo']}")
-        print(f"Yabarana: {ethnic_sim.output['yabarana']}")
-        print(f"Jivi: {ethnic_sim.output['jivi']}")
-        print(f"Jodi: {ethnic_sim.output['jodi']}")
-        print(f"Pemón: {ethnic_sim.output['pemon']}")
-        print(f"Puinave: {ethnic_sim.output['puinave']}")
-        print(f"Piaroa: {ethnic_sim.output['piaroa']}")
-        print(f"Warao: {ethnic_sim.output['warao']}")
-        print(f"Yanomami: {ethnic_sim.output['yanomami']}")
-        print(f"Ye'kwana: {ethnic_sim.output['yekwana']}")
-        print("")
-    except ValueError as e:
-        print(f"Error en la fila {index}: {e}")
-
-# Para obtener una visualización más clara de los resultados, podrías considerar guardar los resultados en un DataFrame
-predicted_ethnicities = {
-    'akawayo': [],
-    'karina': [],
-    'arawak': [],
-    'enepa': [],
-    'mapoyo': [],
-    'yabarana': [],
-    'jivi': [],
-    'jodi': [],
-    'pemon': [],
-    'puinave': [],
-    'piaroa': [],
-    'warao': [],
-    'yanomami': [],
-    'yekwana': []
-}
-
-for index, row in df.iterrows():
-    try:
-        ethnic_sim.input['pendant'] = row['pendant']
-        ethnic_sim.input['corporal_paint'] = row['corporal_paint']
-        ethnic_sim.input['face_paint'] = row['face_paint']
-        ethnic_sim.input['modern_clothing'] = row['modern_clothing']
-        ethnic_sim.input['creole_clothing'] = row['creole_clothing']
-        ethnic_sim.input['ancestral_clothing'] = row['ancestral_clothing']
-        ethnic_sim.input['animal_fur'] = row['animal_fur']
-        ethnic_sim.input['feathers'] = row['feathers']
-        ethnic_sim.input['hat'] = row['hat']
-        ethnic_sim.input['nose_piercing'] = row['nose_piercing']
-        ethnic_sim.input['bowl_cut'] = row['bowl_cut']
-        ethnic_sim.input['tendrils'] = row['tendrils']
-        ethnic_sim.input['arm_accesory'] = row['arm_accesory']
-        ethnic_sim.input['bracelets'] = row['bracelets']
-
-        ethnic_sim.compute()
-
-        predicted_ethnicities['akawayo'].append(ethnic_sim.output['akawayo'])
-        predicted_ethnicities['karina'].append(ethnic_sim.output['karina'])
-        predicted_ethnicities['arawak'].append(ethnic_sim.output['arawak'])
-        predicted_ethnicities['enepa'].append(ethnic_sim.output['enepa'])
-        predicted_ethnicities['mapoyo'].append(ethnic_sim.output['mapoyo'])
-        predicted_ethnicities['yabarana'].append(ethnic_sim.output['yabarana'])
-        predicted_ethnicities['jivi'].append(ethnic_sim.output['jivi'])
-        predicted_ethnicities['jodi'].append(ethnic_sim.output['jodi'])
-        predicted_ethnicities['pemon'].append(ethnic_sim.output['pemon'])
-        predicted_ethnicities['puinave'].append(ethnic_sim.output['puinave'])
-        predicted_ethnicities['piaroa'].append(ethnic_sim.output['piaroa'])
-        predicted_ethnicities['warao'].append(ethnic_sim.output['warao'])
-        predicted_ethnicities['yanomami'].append(ethnic_sim.output['yanomami'])
-        predicted_ethnicities['yekwana'].append(ethnic_sim.output['yekwana'])
-    except ValueError as e:
-        print(f"Error en la fila {index}: {e}")
-
-# Convertir los resultados predichos en un DataFrame
-df_predicciones = pd.DataFrame(predicted_ethnicities)
-
-# Guardar las predicciones en un archivo CSV
-df_predicciones.to_csv('predicciones_etnias.csv', index=False)
-print("Las predicciones se han guardado en 'predicciones_etnias.csv'")
+# Mostrar los resultados de pertenencia
+print('Akawayo:', ethnic_sim.output['akawayo'])
+print('Karina:', ethnic_sim.output['karina'])
+print('Arawak:', ethnic_sim.output['arawak'])
+print('Enepa:', ethnic_sim.output['enepa'])
+print('Mapoyo:', ethnic_sim.output['mapoyo'])
+print('Yabarana:', ethnic_sim.output['yabarana'])
+print('Jivi:', ethnic_sim.output['jivi'])
+print('Jodi:', ethnic_sim.output['jodi'])
+print('Pemon:', ethnic_sim.output['pemon'])
+print('Puinave:', ethnic_sim.output['puinave'])
+print('Piaroa:', ethnic_sim.output['piaroa'])
+print('Warao:', ethnic_sim.output['warao'])
+print('Yanomami:', ethnic_sim.output['yanomami'])
+print('Yekwana:', ethnic_sim.output['yekwana'])
