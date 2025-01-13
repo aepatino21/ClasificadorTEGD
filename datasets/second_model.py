@@ -27,16 +27,7 @@ num_labels = train_labels.shape[1]
 # Generar un flujo de datos a partir de los dataframes
 # Definir el generador de datos con aumentación para el entrenamiento
 train_datagen = ImageDataGenerator(
-    rescale=1./255,
-    rotation_range=40,
-    width_shift_range=0.2,
-    height_shift_range=0.2,
-    shear_range=0.2,
-    zoom_range=0.2,
-    horizontal_flip=True,
-    fill_mode='nearest',
-    brightness_range=[0.8, 1.2],  # Ajuste de brillo
-    channel_shift_range=0.2       # Ajuste de color
+    rescale=1./255
 )
 
 # Generador para el conjunto de validación con solo normalización
@@ -60,7 +51,7 @@ val_generator = val_datagen.flow_from_dataframe(
     x_col='url',
     y_col=val_labels.columns.tolist(),
     target_size=(224, 224),
-    batch_size=16, # Probemos a reducir el tamano del batch a la mitad
+    batch_size=32, # Probemos a reducir el tamano del batch a la mitad
     class_mode='raw'
 )
 
