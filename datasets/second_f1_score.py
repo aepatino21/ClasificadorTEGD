@@ -27,7 +27,7 @@ test_generator = datagen.flow_from_dataframe(
 )
 
 # Cargar el modelo
-model = load_model('second_modelv3.keras')
+model = load_model('second_modelv69_definitive.keras')
 
 # Acumular predicciones y etiquetas verdaderas en lotes
 all_true_classes = []

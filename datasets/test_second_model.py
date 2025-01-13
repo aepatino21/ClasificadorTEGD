@@ -27,7 +27,7 @@ test_generator = datagen.flow_from_dataframe(
 )
 
 # Cargar el modelo
-model = load_model('second_modelv3.keras')
+model = load_model('second_modelv69_definitive.keras')
 
 # Evaluar el modelo en el conjunto de pruebas
 # loss, accuracy = model.evaluate(test_generator)

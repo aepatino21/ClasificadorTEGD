@@ -1,11 +1,12 @@
 import numpy as np
 import skfuzzy as fuzz
 import skfuzzy.control as ctrl
+import pandas as pd
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing import image
-from tensorflow.keras.applications.mobilenet import preprocess_input, decode_predictions
+from tensorflow.keras.applications.mobilenet import preprocess_input
 
-# Cargar tu modelo preentrenado
+# Cargar el modelo preentrenado
 model = load_model('second_modelv69_definitive.keras')
 
 # Función para obtener características de la imagen
@@ -15,39 +16,21 @@ def get_image_features(img_path):
     img_array = np.expand_dims(img_array, axis=0)
     img_array = preprocess_input(img_array)
     preds = model.predict(img_array)
-    return preds
 
+    # Suponemos que el modelo devuelve un diccionario con los nombres de las características
+    feature_names = ['pendant', 'corporal_paint', 'face_paint', 'modern_clothing', 'creole_clothing',
+                     'ancestral_clothing', 'animal_fur', 'feathers', 'hat', 'nose_piercing',
+                     'bowl_cut', 'tendrils', 'arm_accesory', 'bracelets']
+
+    # Crear un diccionario con los nombres de las características
+    features_dict = {name: pred for name, pred in zip(feature_names, preds[0])}
+    return features_dict
 
 # Cargar la imagen y obtener características
 img_path = '../images/1.jpeg'
-features = get_image_features(img_path)
+features_dict = get_image_features(img_path)
 
-# Diccionario para almacenar la presencia de características
-feature_presence = {
-    'pendant': 0,
-    'corporal_paint': 0,
-    'face_paint': 0,
-    'modern_clothing': 0,
-    'creole_clothing': 0,
-    'ancestral_clothing': 0,
-    'animal_fur': 0,
-    'feathers': 0,
-    'hat': 0,
-    'nose_piercing': 0,
-    'bowl_cut': 0,
-    'tendrils': 0,
-    'arm_accesory': 0,
-    'bracelets': 0
-}
-
-# Asignar valores a las variables difusas basadas en las características de la imagen
-for feature in features:
-    feature_name = feature[1]
-    if feature_name in feature_presence:
-        feature_presence[feature_name] = 1
-
-# LOGICA DIFUSA
-# Crear las variables difusas
+# Definir las variables difusas y las reglas
 pendant = ctrl.Antecedent(np.arange(0, 2, 1), 'pendant')
 corporal_paint = ctrl.Antecedent(np.arange(0, 2, 1), 'corporal_paint')
 face_paint = ctrl.Antecedent(np.arange(0, 2, 1), 'face_paint')
@@ -110,6 +93,7 @@ warao.automf(3)
 yanomami.automf(3)
 yekwana.automf(3)
 
+# Importar las reglas desde tu archivo
 # Regla difusa: Akawayo
 akawayo_rule = ctrl.Rule(pendant['good'] & corporal_paint['poor'] & face_paint['poor'] & modern_clothing['poor'] & creole_clothing['good'] & ancestral_clothing['good'] & animal_fur['poor'] & feathers['good'] & hat['good'] & nose_piercing['poor'] & bowl_cut['poor'] & tendrils['poor'] & arm_accesory['poor'] & bracelets['poor'], akawayo['good'])
 
@@ -152,42 +136,42 @@ yanomami_rule = ctrl.Rule(pendant['good'] & corporal_paint['good'] & face_paint[
 # Regla difusa: Ye'kwana-Sanoma
 yekwana_rule = ctrl.Rule(pendant['poor'] & corporal_paint['poor'] & face_paint['poor'] & modern_clothing['good'] & creole_clothing['poor'] & ancestral_clothing['good'] & animal_fur['poor'] & feathers['poor'] & hat['poor'] & nose_piercing['poor'] & bowl_cut['poor'] & tendrils['poor'] & arm_accesory['poor'] & bracelets['poor'], yekwana['good'])
 
-# Crear el sistema de control difuso
+# Crear el sistema de control difuso con las reglas importadas
 ethnic_ctrl = ctrl.ControlSystem([akawayo_rule, karina_rule, arawak_rule, enepa_rule, mapoyo_rule, yabarana_rule, jivi_rule, jodi_rule, pemon_rule, puinave_rule, piaroa_rule, warao_rule, yanomami_rule, yekwana_rule])
 ethnic_sim = ctrl.ControlSystemSimulation(ethnic_ctrl)
 
-# Asignar valores a las variables difusas basadas en las características de la imagen
-ethnic_sim.input['pendant'] = feature_presence['pendant']
-ethnic_sim.input['corporal_paint'] = feature_presence['corporal_paint']
-ethnic_sim.input['face_paint'] = feature_presence['face_paint']
-ethnic_sim.input['modern_clothing'] = feature_presence['modern_clothing']
-ethnic_sim.input['creole_clothing'] = feature_presence['creole_clothing']
-ethnic_sim.input['ancestral_clothing'] = feature_presence['ancestral_clothing']
-ethnic_sim.input['animal_fur'] = feature_presence['animal_fur']
-ethnic_sim.input['feathers'] = feature_presence['feathers']
-ethnic_sim.input['hat'] = feature_presence['hat']
-ethnic_sim.input['nose_piercing'] = feature_presence['nose_piercing']
-ethnic_sim.input['bowl_cut'] = feature_presence['bowl_cut']
-ethnic_sim.input['tendrils'] = feature_presence['tendrils']
-ethnic_sim.input['arm_accesory'] = feature_presence['arm_accesory']
-ethnic_sim.input['bracelets'] = feature_presence['bracelets']
+# Usar las características obtenidas de la imagen para las variables difusas desde el diccionario
+ethnic_sim.input['pendant'] = features_dict.get('pendant', 0)
+ethnic_sim.input['corporal_paint'] = features_dict.get('corporal_paint', 0)
+ethnic_sim.input['face_paint'] = features_dict.get('face_paint', 0)
+ethnic_sim.input['modern_clothing'] = features_dict.get('modern_clothing', 0)
+ethnic_sim.input['creole_clothing'] = features_dict.get('creole_clothing', 0)
+ethnic_sim.input['ancestral_clothing'] = features_dict.get('ancestral_clothing', 0)
+ethnic_sim.input['animal_fur'] = features_dict.get('animal_fur', 0)
+ethnic_sim.input['feathers'] = features_dict.get('feathers', 0)
+ethnic_sim.input['hat'] = features_dict.get('hat', 0)
+ethnic_sim.input['nose_piercing'] = features_dict.get('nose_piercing', 0)
+ethnic_sim.input['bowl_cut'] = features_dict.get('bowl_cut', 0)
+ethnic_sim.input['tendrils'] = features_dict.get('tendrils', 0)
+ethnic_sim.input['arm_accesory'] = features_dict.get('arm_accesory', 0)
+ethnic_sim.input['bracelets'] = features_dict.get('bracelets', 0)
 
-# Ejecutar la simulación
+# Computar las predicciones
 ethnic_sim.compute()
 
-
-# Mostrar los resultados de pertenencia
-print('Akawayo:', ethnic_sim.output['akawayo'])
-print('Karina:', ethnic_sim.output['karina'])
-print('Arawak:', ethnic_sim.output['arawak'])
-print('Enepa:', ethnic_sim.output['enepa'])
-print('Mapoyo:', ethnic_sim.output['mapoyo'])
-print('Yabarana:', ethnic_sim.output['yabarana'])
-print('Jivi:', ethnic_sim.output['jivi'])
-print('Jodi:', ethnic_sim.output['jodi'])
-print('Pemon:', ethnic_sim.output['pemon'])
-print('Puinave:', ethnic_sim.output['puinave'])
-print('Piaroa:', ethnic_sim.output['piaroa'])
-print('Warao:', ethnic_sim.output['warao'])
-print('Yanomami:', ethnic_sim.output['yanomami'])
-print('Yekwana:', ethnic_sim.output['yekwana'])
+# Mostrar los resultados
+print("Predicciones basadas en la imagen:")
+print(f"Akawayo: {ethnic_sim.output['akawayo']}")
+print(f"Karina: {ethnic_sim.output['karina']}")
+print(f"Arawak: {ethnic_sim.output['arawak']}")
+print(f"E'ñepa: {ethnic_sim.output['enepa']}")
+print(f"Mapoyo: {ethnic_sim.output['mapoyo']}")
+print(f"Yabarana: {ethnic_sim.output['yabarana']}")
+print(f"Jivi: {ethnic_sim.output['jivi']}")
+print(f"Jodi: {ethnic_sim.output['jodi']}")
+print(f"Pemón: {ethnic_sim.output['pemon']}")
+print(f"Puinave: {ethnic_sim.output['puinave']}")
+print(f"Piaroa: {ethnic_sim.output['piaroa']}")
+print(f"Warao: {ethnic_sim.output['warao']}")
+print(f"Yanomami: {ethnic_sim.output['yanomami']}")
+print(f"Ye'kwana: {ethnic_sim.output['yekwana']}")
