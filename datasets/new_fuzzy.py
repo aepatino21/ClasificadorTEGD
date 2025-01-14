@@ -29,7 +29,6 @@ def get_image_features(img_path, threshold=0.50):
 # Cargar la imagen y obtener características
 img_path = '../images/1.jpeg'
 features_dict = get_image_features(img_path)
-print(features_dict)
 
 # Definir las variables difusas y las reglas
 pendant = ctrl.Antecedent(np.arange(0, 2, 1), 'pendant')
@@ -63,79 +62,60 @@ warao = ctrl.Consequent(np.arange(0, 101, 1), 'warao')
 yanomami = ctrl.Consequent(np.arange(0, 101, 1), 'yanomami')
 yekwana = ctrl.Consequent(np.arange(0, 101, 1), 'yekwana')
 
-# Definir funciones de pertenencia
-pendant.automf(3)
-corporal_paint.automf(3)
-face_paint.automf(3)
-modern_clothing.automf(3)
-creole_clothing.automf(3)
-ancestral_clothing.automf(3)
-animal_fur.automf(3)
-feathers.automf(3)
-hat.automf(3)
-nose_piercing.automf(3)
-bowl_cut.automf(3)
-tendrils.automf(3)
-arm_accesory.automf(3)
-bracelets.automf(3)
+# Definir funciones de pertenencia binarias
+for antecedent in [pendant, corporal_paint, face_paint, modern_clothing, creole_clothing, ancestral_clothing, animal_fur, feathers, hat, nose_piercing, bowl_cut, tendrils, arm_accesory, bracelets]:
+    antecedent['absent'] = fuzz.trimf(antecedent.universe, [0, 0, 0.5])
+    antecedent['present'] = fuzz.trimf(antecedent.universe, [0.5, 1, 1])
 
-akawayo.automf(3)
-karina.automf(3)
-arawak.automf(3)
-enepa.automf(3)
-mapoyo.automf(3)
-yabarana.automf(3)
-jivi.automf(3)
-jodi.automf(3)
-pemon.automf(3)
-puinave.automf(3)
-piaroa.automf(3)
-warao.automf(3)
-yanomami.automf(3)
-yekwana.automf(3)
+# Definir funciones de pertenencia de salida
+for consequent in [akawayo, karina, arawak, enepa, mapoyo, yabarana, jivi, jodi, pemon, puinave, piaroa, warao, yanomami, yekwana]:
+    consequent['low'] = fuzz.trimf(consequent.universe, [0, 0, 50])
+    consequent['medium'] = fuzz.trimf(consequent.universe, [0, 50, 100])
+    consequent['high'] = fuzz.trimf(consequent.universe, [50, 100, 100])
 
 # Importar las reglas desde tu archivo
 # Regla difusa: Akawayo
-akawayo_rule = ctrl.Rule(pendant['good'] & corporal_paint['poor'] & face_paint['poor'] & modern_clothing['poor'] & creole_clothing['good'] & ancestral_clothing['good'] & animal_fur['poor'] & feathers['good'] & hat['good'] & nose_piercing['poor'] & bowl_cut['poor'] & tendrils['poor'] & arm_accesory['poor'] & bracelets['poor'], akawayo['good'])
+
+akawayo_rule = ctrl.Rule(pendant['present'] | face_paint['present'] | creole_clothing['present'] | hat['present'], akawayo['high'])
 
 # Regla difusa: Karina
-karina_rule = ctrl.Rule(pendant['poor'] & corporal_paint['poor'] & face_paint['good'] & modern_clothing['poor'] & creole_clothing['poor'] & ancestral_clothing['good'] & animal_fur['poor'] & feathers['poor'] & hat['poor'] & nose_piercing['poor'] & bowl_cut['poor'] & tendrils['poor'] & arm_accesory['poor'] & bracelets['good'], karina['good'])
+karina_rule = ctrl.Rule(pendant['absent'] | corporal_paint['absent'] | face_paint['present'] | modern_clothing['absent'] | creole_clothing['absent'] | ancestral_clothing['present'] | animal_fur['absent'] | feathers['absent'] | hat['absent'] | nose_piercing['absent'] | bowl_cut['absent'] | tendrils['absent'] | arm_accesory['absent'] | bracelets['present'], karina['high'])
 
 # Regla difusa: Arawak
-arawak_rule = ctrl.Rule(pendant['good'] & corporal_paint['poor'] & face_paint['good'] & modern_clothing['good'] & creole_clothing['poor'] & ancestral_clothing['good'] & animal_fur['poor'] & feathers['poor'] & hat['good'] & nose_piercing['poor'] & bowl_cut['poor'] & tendrils['poor'] & arm_accesory['poor'] & bracelets['good'], arawak['good'])
+arawak_rule = ctrl.Rule(pendant['present'] | corporal_paint['absent'] | face_paint['present'] | modern_clothing['present'] | creole_clothing['absent'] | ancestral_clothing['present'] | animal_fur['absent'] | feathers['absent'] | hat['present'] | nose_piercing['absent'] | bowl_cut['absent'] | tendrils['absent'] | arm_accesory['absent'] | bracelets['present'], arawak['high'])
 
 # Regla difusa: E'nepa
-enepa_rule = ctrl.Rule(pendant['good'] & corporal_paint['poor'] & face_paint['good'] & modern_clothing['poor'] & creole_clothing['good'] & ancestral_clothing['good'] & animal_fur['poor'] & feathers['poor'] & hat['poor'] & nose_piercing['poor'] & bowl_cut['poor'] & tendrils['poor'] & arm_accesory['poor'] & bracelets['good'], enepa['good'])
+enepa_rule = ctrl.Rule(pendant['present'] | corporal_paint['absent'] | face_paint['present'] | modern_clothing['absent'] | creole_clothing['present'] | ancestral_clothing['present'] | animal_fur['absent'] | feathers['absent'] | hat['absent'] | nose_piercing['absent'] | bowl_cut['absent'] | tendrils['absent'] | arm_accesory['absent'] | bracelets['present'], enepa['high'])
 
 # Regla difusa: Mapoyo
-mapoyo_rule = ctrl.Rule(pendant['good'] & corporal_paint['good'] & face_paint['poor'] & modern_clothing['good'] & creole_clothing['poor'] & ancestral_clothing['good'] & animal_fur['good'] & feathers['poor'] & hat['poor'] & nose_piercing['poor'] & bowl_cut['poor'] & tendrils['poor'] & arm_accesory['good'] & bracelets['good'], mapoyo['good'])
+mapoyo_rule = ctrl.Rule(pendant['present'] | corporal_paint['present'] | face_paint['absent'] | modern_clothing['present'] | creole_clothing['absent'] | ancestral_clothing['present'] | animal_fur['present'] | feathers['absent'] | hat['absent'] | nose_piercing['absent'] | bowl_cut['absent'] | tendrils['absent'] | arm_accesory['present'] | bracelets['present'], mapoyo['high'])
 
 # Regla difusa: Yabarana
-yabarana_rule = ctrl.Rule(pendant['poor'] & corporal_paint['poor'] & face_paint['poor'] & modern_clothing['good'] & creole_clothing['good'] & ancestral_clothing['good'] & animal_fur['poor'] & feathers['poor'] & hat['poor'] & nose_piercing['poor'] & bowl_cut['poor'] & tendrils['poor'] & arm_accesory['poor'] & bracelets['poor'], yabarana['good'])
+yabarana_rule = ctrl.Rule(pendant['absent'] | corporal_paint['absent'] | face_paint['absent'] | modern_clothing['present'] | creole_clothing['present'] | ancestral_clothing['present'] | animal_fur['absent'] | feathers['absent'] | hat['absent'] | nose_piercing['absent'] | bowl_cut['absent'] | tendrils['absent'] | arm_accesory['absent'] | bracelets['absent'], yabarana['high'])
 
 # Regla difusa: Jivi
-jivi_rule = ctrl.Rule(pendant['poor'] & corporal_paint['poor'] & face_paint['good'] & modern_clothing['good'] & creole_clothing['poor'] & ancestral_clothing['poor'] & animal_fur['poor'] & feathers['poor'] & hat['good'] & nose_piercing['poor'] & bowl_cut['poor'] & tendrils['poor'] & arm_accesory['poor'] & bracelets['poor'], jivi['good'])
+jivi_rule = ctrl.Rule(pendant['absent'] | corporal_paint['absent'] | face_paint['present'] | modern_clothing['present'] | creole_clothing['absent'] | ancestral_clothing['absent'] | animal_fur['absent'] | feathers['absent'] | hat['present'] | nose_piercing['absent'] | bowl_cut['absent'] | tendrils['absent'] | arm_accesory['absent'] | bracelets['absent'], jivi['high'])
 
 # Regla difusa: Jodi
-jodi_rule = ctrl.Rule(pendant['good'] & corporal_paint['poor'] & face_paint['poor'] & modern_clothing['poor'] & creole_clothing['poor'] & ancestral_clothing['good'] & animal_fur['poor'] & feathers['poor'] & hat['poor'] & nose_piercing['poor'] & bowl_cut['poor'] & tendrils['poor'] & arm_accesory['poor'] & bracelets['poor'], jodi['good'])
+jodi_rule = ctrl.Rule(pendant['present'] | corporal_paint['absent'] | face_paint['absent'] | modern_clothing['absent'] | creole_clothing['absent'] | ancestral_clothing['present'] | animal_fur['absent'] | feathers['absent'] | hat['absent'] | nose_piercing['absent'] | bowl_cut['absent'] | tendrils['absent'] | arm_accesory['absent'] | bracelets['absent'], jodi['high'])
 
 # Regla difusa: Pemon
-pemon_rule = ctrl.Rule(pendant['good'] & corporal_paint['good'] & face_paint['good'] & modern_clothing['good'] & creole_clothing['poor'] & ancestral_clothing['good'] & animal_fur['poor'] & feathers['poor'] & hat['poor'] & nose_piercing['poor'] & bowl_cut['poor'] & tendrils['poor'] & arm_accesory['poor'] & bracelets['poor'], pemon['good'])
+pemon_rule = ctrl.Rule(pendant['present'] | corporal_paint['present'] | face_paint['present'] | modern_clothing['present'] | creole_clothing['absent'] | ancestral_clothing['present'] | animal_fur['absent'] | feathers['absent'] | hat['absent'] | nose_piercing['absent'] | bowl_cut['absent'] | tendrils['absent'] | arm_accesory['absent'] | bracelets['absent'], pemon['high'])
 
 # Regla difusa: Puinave
-puinave_rule = ctrl.Rule(pendant['poor'] & corporal_paint['poor'] & face_paint['poor'] & modern_clothing['good'] & creole_clothing['poor'] & ancestral_clothing['poor'] & animal_fur['poor'] & feathers['poor'] & hat['poor'] & nose_piercing['poor'] & bowl_cut['poor'] & tendrils['poor'] & arm_accesory['poor'] & bracelets['poor'], puinave['good'])
+puinave_rule = ctrl.Rule(pendant['absent'] | corporal_paint['absent'] | face_paint['absent'] | modern_clothing['present'] | creole_clothing['absent'] | ancestral_clothing['absent'] | animal_fur['absent'] | feathers['absent'] | hat['absent'] | nose_piercing['absent'] | bowl_cut['absent'] | tendrils['absent'] | arm_accesory['absent'] | bracelets['absent'], puinave['high'])
 
 # Regla difusa: Piaroa
-piaroa_rule = ctrl.Rule(pendant['good'] & corporal_paint['poor'] & face_paint['poor'] & modern_clothing['good'] & creole_clothing['poor'] & ancestral_clothing['good'] & animal_fur['poor'] & feathers['poor'] & hat['poor'] & nose_piercing['poor'] & bowl_cut['poor'] & tendrils['poor'] & arm_accesory['poor'] & bracelets['poor'], piaroa['good'])
+piaroa_rule = ctrl.Rule(pendant['present'] | corporal_paint['absent'] | face_paint['absent'] | modern_clothing['present'] | creole_clothing['absent'] | ancestral_clothing['present'] | animal_fur['absent'] | feathers['absent'] | hat['absent'] | nose_piercing['absent'] | bowl_cut['absent'] | tendrils['absent'] | arm_accesory['absent'] | bracelets['absent'], piaroa['high'])
 
 # Regla difusa: Warao
-warao_rule = ctrl.Rule(pendant['good'] & corporal_paint['poor'] & face_paint['poor'] & modern_clothing['good'] & creole_clothing['poor'] & ancestral_clothing['good'] & animal_fur['poor'] & feathers['poor'] & hat['poor'] & nose_piercing['poor'] & bowl_cut['poor'] & tendrils['poor'] & arm_accesory['poor'] & bracelets['poor'], warao['good'])
+warao_rule = ctrl.Rule(pendant['present'] | corporal_paint['absent'] | face_paint['absent'] | modern_clothing['present'] | creole_clothing['absent'] | ancestral_clothing['present'] | animal_fur['absent'] | feathers['absent'] | hat['absent'] | nose_piercing['absent'] | bowl_cut['absent'] | tendrils['absent'] | arm_accesory['absent'] | bracelets['absent'], warao['high'])
 
 # Regla difusa: Yanomami
-yanomami_rule = ctrl.Rule(pendant['good'] & corporal_paint['good'] & face_paint['poor'] & modern_clothing['poor'] & creole_clothing['poor'] & ancestral_clothing['good'] & animal_fur['poor'] & feathers['poor'] & hat['poor'] & nose_piercing['good'] & bowl_cut['good'] & tendrils['good'] & arm_accesory['good'] & bracelets['poor'], yanomami['good'])
+yanomami_rule = ctrl.Rule(pendant['present'] | corporal_paint['present'] | face_paint['absent'] | modern_clothing['absent'] | creole_clothing['absent'] | ancestral_clothing['present'] | animal_fur['absent'] | feathers['absent'] | hat['absent'] | nose_piercing['present'] | bowl_cut['present'] | tendrils['present'] | arm_accesory['present'] | bracelets['absent'], yanomami['high'])
 
 # Regla difusa: Ye'kwana-Sanoma
-yekwana_rule = ctrl.Rule(pendant['poor'] & corporal_paint['poor'] & face_paint['poor'] & modern_clothing['good'] & creole_clothing['poor'] & ancestral_clothing['good'] & animal_fur['poor'] & feathers['poor'] & hat['poor'] & nose_piercing['poor'] & bowl_cut['poor'] & tendrils['poor'] & arm_accesory['poor'] & bracelets['poor'], yekwana['good'])
+yekwana_rule = ctrl.Rule(pendant['absent'] | corporal_paint['absent'] | face_paint['absent'] | modern_clothing['present'] | creole_clothing['absent'] | ancestral_clothing['present'] | animal_fur['absent'] | feathers['absent'] | hat['absent'] | nose_piercing['absent'] | bowl_cut['absent'] | tendrils['absent'] | arm_accesory['absent'] | bracelets['absent'], yekwana['high'])
 
 # Crear el sistema de control difuso con las reglas importadas
 ethnic_ctrl = ctrl.ControlSystem([akawayo_rule, karina_rule, arawak_rule, enepa_rule, mapoyo_rule, yabarana_rule, jivi_rule, jodi_rule, pemon_rule, puinave_rule, piaroa_rule, warao_rule, yanomami_rule, yekwana_rule])
@@ -158,12 +138,8 @@ ethnic_sim.input['tendrils'] = features_dict.get('tendrils', default_value)
 ethnic_sim.input['arm_accesory'] = features_dict.get('arm_accesory', default_value)
 ethnic_sim.input['bracelets'] = features_dict.get('bracelets', default_value)
 
-print(ethnic_sim.input)
-
 # Computar las predicciones
 ethnic_sim.compute()
-
-print(ethnic_sim.output)
 
 # Mostrar los resultados
 print("Predicciones basadas en la imagen:")
