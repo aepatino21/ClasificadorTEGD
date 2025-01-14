@@ -44,7 +44,7 @@ val_generator = datagen.flow_from_dataframe(
 )
 
 # Paso 6: Construir el modelo usando MobileNet
-base_model = MobileNet(weights='imagenet', include_top=False)
+base_model = MobileNet(weights='imagenet', include_top=False, include_shape=(224, 224, 3))
 x = base_model.output
 x = GlobalAveragePooling2D()(x)
 x = Dense(1024, activation='relu')(x)

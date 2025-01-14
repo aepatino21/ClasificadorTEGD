@@ -158,8 +158,12 @@ ethnic_sim.input['tendrils'] = features_dict.get('tendrils', default_value)
 ethnic_sim.input['arm_accesory'] = features_dict.get('arm_accesory', default_value)
 ethnic_sim.input['bracelets'] = features_dict.get('bracelets', default_value)
 
+print(ethnic_sim.input)
+
 # Computar las predicciones
 ethnic_sim.compute()
+
+print(ethnic_sim.output)
 
 # Mostrar los resultados
 print("Predicciones basadas en la imagen:")
