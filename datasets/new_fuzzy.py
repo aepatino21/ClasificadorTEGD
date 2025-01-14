@@ -24,8 +24,9 @@ def get_image_features(img_path, threshold=0.50):
     return features_dict
 
 # Cargar la imagen y obtener características
-img_path = '../images/1.jpeg'
+img_path = '../images/2.jpg'
 features_dict = get_image_features(img_path)
+print(features_dict)
 
 # Contar las características importantes presentes para Akawayo
 important_akawayo_features = ['pendant', 'face_paint', 'creole_clothing', 'hat']
@@ -236,7 +237,7 @@ membership_dict = {
    'Akawayo': calculate_membership_akawayo(akawayo_feature_count),
    'Karina': calculate_membership_karina(karina_feature_count),
    'Arawak': calculate_membership_arawak(arawak_feature_count),
-   'Eñepa': calculate_membership_enepa(enepa_feature_count),
+   'Enepa': calculate_membership_enepa(enepa_feature_count),
    'Mapoyo': calculate_membership_mapoyo(mapoyo_feature_count),
    'Yabarana': calculate_membership_yabarana(yabarana_feature_count),
    'Jivi': calculate_membership_jivi(jivi_feature_count),
